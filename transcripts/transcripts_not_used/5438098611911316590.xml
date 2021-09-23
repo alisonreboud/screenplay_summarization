@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:ttp="http://www.w3.org/2006/10/ttaf1#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/2006/10/ttaf1#style" xml:lang="en" xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+<!-- dvbsubs_fread v.01.01.2012 -->
+<head>
+</head><body tts:textAlign="center" style="s0">
+<div>
+<p begin="00:00:32.759" end="00:00:36.279"><span tts:color="#00ff00" tts:textAlign="center"> Has she called yet?<br/></span><span tts:color="#00fffd" tts:textAlign="right"> Not a peep. </span><span tts:color="#ffff00" tts:textAlign="center"> I should've gone to the station. </span></p>
+<p begin="00:00:36.279" end="00:00:40.259"><span tts:color="#00fffd" tts:textAlign="center"> She didn't want anyone with her. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Not even Ritchie. </span><span tts:color="#00ff00" tts:textAlign="center"> She's not thinking straight. </span></p>
+<p begin="00:00:40.259" end="00:00:43.819"><span tts:color="#00ff00" tts:textAlign="center"> She's not herself. If you'd seen</span><br/><span tts:color="#00ff00" tts:textAlign="center">the way she was screaming at the</span><span tts:color="#00ff00" tts:textAlign="center"> poster... </span></p>
+<p begin="00:00:43.819" end="00:00:46.639"><span tts:color="#00ff00" tts:textAlign="center"> It is no wonder the police</span><br/><span tts:color="#00ff00" tts:textAlign="center">think she...</span><span tts:color="#ececec" tts:textAlign="center"> Morning.</span><span tts:color="#00ff00" tts:textAlign="right"> Oh! </span></p>
+<p begin="00:00:46.639" end="00:00:49.539"><span tts:color="#ffff00" tts:textAlign="center"> Ronnie!</span><br/><span tts:color="#ececec" tts:textAlign="center"> Hey.</span><span tts:color="#ffff00" tts:textAlign="center"> Ronnie, darling. </span></p>
+<p begin="00:00:49.539" end="00:00:51.179"><span tts:color="#ffff00" tts:textAlign="center"> How'd you get on, love? </span><br/></p>
+<p begin="00:00:51.179" end="00:00:55.169"><span tts:color="#ececec" tts:textAlign="center"> Fine, fine. Well, they charged</span><br/><span tts:color="#ececec" tts:textAlign="center"> me with assaulting a police officer. </span></p>
+<p begin="00:00:55.169" end="00:00:58.539"><span tts:color="#ffff00" tts:textAlign="center">What?!</span><br/><span tts:color="#00ff00" tts:textAlign="center"> And have they said</span><span tts:color="#00ff00" tts:textAlign="center"> anything about this new witness -</span></p>
+<p begin="00:00:58.539" end="00:01:01.119"><span tts:color="#00ff00" tts:textAlign="center"> this investigation? </span><br/><span tts:color="#ececec" tts:textAlign="center">What, to me? Yeah, right(!) </span></p>
+<p begin="00:01:01.119" end="00:01:04.539"><span tts:color="#ececec" tts:textAlign="center"> Look, this new information's</span><br/><span tts:color="#ececec" tts:textAlign="center"> a waste of time. </span></p>
+<p begin="00:01:04.539" end="00:01:08.389"><span tts:color="#ececec" tts:textAlign="center">The longer they focus on me, </span><br/><span tts:color="#ececec" tts:textAlign="center"> the less likely they are</span><span tts:color="#ececec" tts:textAlign="center"> to find the real killer. </span></p>
+<p begin="00:01:21.889" end="00:01:23.159"><span tts:color="#ececec" tts:textAlign="center"> Bradley! </span><br/></p>
+<p begin="00:01:28.219" end="00:01:32.159"><span tts:color="#ececec" tts:textAlign="center"> Bradley, if they had evidence</span><br/><span tts:color="#ececec" tts:textAlign="center"> against you, they would have come</span><span tts:color="#ececec" tts:textAlign="center">for you by now. </span></p>
+<p begin="00:01:32.159" end="00:01:35.061"><span tts:color="#ffff00" tts:textAlign="center">This time, maybe, but what about</span><br/><span tts:color="#ffff00" tts:textAlign="center">the future? </span></p>
+<p begin="00:01:35.061" end="00:01:39.091"><span tts:color="#ffff00" tts:textAlign="center"> Are me and Stace going to spend</span><br/><span tts:color="#ffff00" tts:textAlign="center"> the rest of our lives looking over</span><span tts:color="#ffff00" tts:textAlign="center"> our shoulders? </span></p>
+<p begin="00:01:39.091" end="00:01:43.361"><span tts:color="#ffff00" tts:textAlign="center"> It's not fair on her.</span><br/><span tts:color="#ececec" tts:textAlign="right"> You need</span><span tts:color="#ececec" tts:textAlign="center"> something to do, pair of you. </span><span tts:color="#ececec" tts:textAlign="center"> Take your mind off things. </span></p>
+<p begin="00:01:43.361" end="00:01:45.331"><span tts:color="#ffff00" tts:textAlign="center"> Like what? </span><br/></p>
+<p begin="00:01:46.401" end="00:01:48.331"><span tts:color="#ececec" tts:textAlign="left"> HE SIGHS</span><br/><span tts:color="#ececec" tts:textAlign="center"> Pen. </span></p>
+<p begin="00:02:04.731" end="00:02:08.111"><span tts:color="#ececec" tts:textAlign="center"> Is that Sonia in the bathroom? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Could be Dotty. </span></p>
+<p begin="00:02:08.111" end="00:02:10.221"><span tts:color="#ececec" tts:textAlign="center"> I think she's avoiding me. </span><br/></p>
+<p begin="00:02:11.581" end="00:02:13.971"><span tts:color="#ececec" tts:textAlign="center"> I lost my temper, Jim. </span><br/></p>
+<p begin="00:02:14.951" end="00:02:18.941"><span tts:color="#ececec" tts:textAlign="center"> I know she behaved very badly to you, </span><br/><span tts:color="#ececec" tts:textAlign="center"> but that's no excuse for what I did. </span></p>
+<p begin="00:02:18.941" end="00:02:23.111"><span tts:color="#ececec" tts:textAlign="center"> I've got to make sure that she</span><br/><span tts:color="#ececec" tts:textAlign="center"> understands that I'm sorry. </span></p>
+<p begin="00:02:23.111" end="00:02:27.331"><span tts:color="#ffff00" tts:textAlign="center"> Yeah.</span><br/><span tts:color="#ececec" tts:textAlign="center"> I mean, if I don't teach her</span><span tts:color="#ececec" tts:textAlign="center"> humility, who will? </span></p>
+<p begin="00:02:27.331" end="00:02:29.861"><span tts:color="#ffff00" tts:textAlign="center"> Yeah.</span><br/><span tts:color="#ececec" tts:textAlign="center"> Oh, look at you - </span></p>
+<p begin="00:02:29.861" end="00:02:32.301"><span tts:color="#ececec" tts:textAlign="center"> your pillow's all scrunched up. </span><br/></p>
+<p begin="00:02:32.301" end="00:02:35.771"><span tts:color="#ececec" tts:textAlign="center"> Yeah, no wonder you don't look comfy. </span><br/></p>
+<p begin="00:02:35.771" end="00:02:38.021"><span tts:color="#ececec" tts:textAlign="center"> Here.</span><br/><span tts:color="#ffff00" tts:textAlign="center"> Oh. </span></p>
+<p begin="00:02:38.021" end="00:02:40.551"><span tts:color="#ececec" tts:textAlign="center"> That's why you ain't relaxed. </span><br/></p>
+<p begin="00:02:44.111" end="00:02:45.141"><span tts:color="#ececec" tts:textAlign="center"> Oh, Jim. </span><br/></p>
+<p begin="00:02:45.141" end="00:02:48.381"><span tts:color="#ececec" tts:textAlign="center"> Eight years this weekend. </span><br/></p>
+<p begin="00:02:48.381" end="00:02:50.491"><span tts:color="#ffff00" tts:textAlign="center"> Yeah.</span><br/><span tts:color="#ececec" tts:textAlign="center"> Oh... </span></p>
+<p begin="00:02:50.491" end="00:02:54.521"><span tts:color="#ececec" tts:textAlign="center"> I'm so sorry. I've got so much</span><br/><span tts:color="#ececec" tts:textAlign="center"> on my mind that it sort of... </span></p>
+<p begin="00:02:54.521" end="00:02:56.581"><span tts:color="#ececec" tts:textAlign="center"> I tell you what I'll do...</span><br/><span tts:color="#ffff00" tts:textAlign="right"> Yeah? </span></p>
+<p begin="00:02:56.581" end="00:03:00.241"><span tts:color="#ececec" tts:textAlign="center"> I'll cook you a nice</span><br/><span tts:color="#ececec" tts:textAlign="center"> roast dinner on Sunday.</span><span tts:color="#ffff00" tts:textAlign="right"> Aww! </span></p>
+<p begin="00:03:00.241" end="00:03:03.991"><span tts:color="#ececec" tts:textAlign="center"> Yeah? With all the trimmings. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Yeah, yeah.</span><span tts:color="#ececec" tts:textAlign="center"> Yeah. </span></p>
+<p begin="00:03:03.991" end="00:03:07.971"><span tts:color="#ffff00" tts:textAlign="center"> I'm just getting my bag. I'll get</span><br/><span tts:color="#ffff00" tts:textAlign="center"> myself to school.</span><span tts:color="#ececec" tts:textAlign="center"> Oh, Dotty. </span></p>
+<p begin="00:03:07.971" end="00:03:11.021"><span tts:color="#ececec" tts:textAlign="center"> Let me apologise again. </span><br/></p>
+<p begin="00:03:11.021" end="00:03:15.101"><span tts:color="#ececec" tts:textAlign="center"> I shouldn't have smacked you. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> I got to leave. I'm late. </span><span tts:color="#ececec" tts:textAlign="center"> Let me walk you to school -</span></p>
+<p begin="00:03:15.101" end="00:03:17.541"><span tts:color="#ececec" tts:textAlign="center"> show you how sorry I am. </span><br/></p>
+<p begin="00:03:21.241" end="00:03:22.271"><span tts:color="#ececec" tts:textAlign="center"> Come on. </span><br/></p>
+<p begin="00:03:24.851" end="00:03:25.881"><span tts:color="#ececec" tts:textAlign="center"> Get your coat on. </span><br/></p>
+<p begin="00:03:29.021" end="00:03:31.741"><span tts:color="#ececec" tts:textAlign="center"> Manda. Here, what about</span><br/><span tts:color="#ececec" tts:textAlign="center"> your banana, toast and jam? </span></p>
+<p begin="00:03:31.741" end="00:03:35.121"><span tts:color="#ffff00" tts:textAlign="center"> I've got to get going.</span><br/><span tts:color="#ececec" tts:textAlign="right"> It's the</span><span tts:color="#ececec" tts:textAlign="center"> most important meal of the day. </span></p>
+<p begin="00:03:35.121" end="00:03:38.961"><span tts:color="#ffff00" tts:textAlign="center"> I'll pick something up en route. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Manda! You'd tell me if there was... </span></p>
+<p begin="00:03:41.401" end="00:03:43.131"><span tts:color="#00fffd" tts:textAlign="center"> Ronnie. </span><br/></p>
+<p begin="00:03:43.131" end="00:03:45.331"><span tts:color="#00fffd" tts:textAlign="center"> You're back.</span><br/><span tts:color="#ececec" tts:textAlign="center"> Did you think</span><span tts:color="#ececec" tts:textAlign="center"> I wouldn't be? </span></p>
+<p begin="00:03:45.331" end="00:03:49.931"><span tts:color="#00fffd" tts:textAlign="center"> Looks like you're running too lean. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Yeah, I've got eyes, thank you. </span><span tts:color="#ececec" tts:textAlign="center"> I needed a colder plug. </span></p>
+<p begin="00:03:49.931" end="00:03:51.941"><span tts:color="#00fffd" tts:textAlign="center"> Here, let me have a go. </span><br/></p>
+<p begin="00:03:51.941" end="00:03:56.591"><span tts:color="#ececec" tts:textAlign="center"> Look, if you want to play mechanic, </span><br/><span tts:color="#ececec" tts:textAlign="center"> go and get your own bike. </span><span tts:color="#00fffd" tts:textAlign="center"> Well, that's not what I meant. </span></p>
+<p begin="00:03:56.591" end="00:04:00.191"><span tts:color="#00fffd" tts:textAlign="center"> So, what happened at the station? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> I heard Marsden's gunning for ya. </span></p>
+<p begin="00:04:00.191" end="00:04:03.951"><span tts:color="#ececec" tts:textAlign="center"> She's gunning for everybody. I'll be</span><br/><span tts:color="#ececec" tts:textAlign="center"> fine.</span><span tts:color="#00fffd" tts:textAlign="center"> I wish you'd let me help you. </span></p>
+<p begin="00:04:03.951" end="00:04:08.301"><span tts:color="#ececec" tts:textAlign="center"> I don't need your help.</span><br/><span tts:color="#00fffd" tts:textAlign="right"> Come on. </span><span tts:color="#00fffd" tts:textAlign="center"> We make a good team, me and you. </span><span tts:color="#ececec" tts:textAlign="center">There is no "me and you". </span></p>
+<p begin="00:04:33.761" end="00:04:35.261"><span tts:color="#00fffd" tts:textAlign="center"> You forgot this. </span><br/></p>
+<p begin="00:04:35.261" end="00:04:37.421"><span tts:color="#00ff00" tts:textAlign="center">Thanks for looking after it for me, </span><br/><span tts:color="#00ff00" tts:textAlign="center">Janine. </span></p>
+<p begin="00:04:40.511" end="00:04:42.101"><span tts:color="#ececec" tts:textAlign="left"> SHE GROANS</span><br/></p>
+<p begin="00:04:43.371" end="00:04:46.371"><span tts:color="#00ff00" tts:textAlign="center"> Looks like I've been well</span><br/><span tts:color="#00ff00" tts:textAlign="center"> and truly evicted, don't it? </span></p>
+<p begin="00:04:46.371" end="00:04:51.251"><span tts:color="#00ff00" tts:textAlign="center"> Still - gives me a chance to be</span><br/><span tts:color="#00ff00" tts:textAlign="center"> in on the wedding preparations.</span><span tts:color="#ffff00" tts:textAlign="right"> It's</span><span tts:color="#ffff00" tts:textAlign="center"> like a merry-go-round, this place. </span></p>
+<p begin="00:04:51.251" end="00:04:55.461"><span tts:color="#00ff00" tts:textAlign="center"> Yes, but at least it's MY place. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Thought you couldn't wait to</span><span tts:color="#ffff00" tts:textAlign="center"> emigrate - get away from us. </span></p>
+<p begin="00:04:55.461" end="00:04:57.431"><span tts:color="#00ff00" tts:textAlign="center"> Nah. </span><br/></p>
+<p begin="00:04:57.431" end="00:05:01.891"><span tts:color="#00ff00" tts:textAlign="center"> Imagine all the hassle I'd get at</span><br/><span tts:color="#00ff00" tts:textAlign="center"> customs, if their metal detectors</span><span tts:color="#00ff00" tts:textAlign="center"> pick up my pacemaker. </span></p>
+<p begin="00:05:01.891" end="00:05:04.561"><span tts:color="#ececec" tts:textAlign="left"> KNOCK AT DOOR</span><br/><span tts:color="#00ff00" tts:textAlign="center"> All right, all right. </span></p>
+<p begin="00:05:05.591" end="00:05:07.421"><span tts:color="#00fffd" tts:textAlign="center"> Room for a little one? </span><br/></p>
+<p begin="00:05:08.451" end="00:05:11.081"><span tts:color="#00ff00" tts:textAlign="center"> All this to-ing and fro-ing's</span><br/><span tts:color="#00ff00" tts:textAlign="center"> exhausting. </span></p>
+<p begin="00:05:11.081" end="00:05:13.841"><span tts:color="#00ff00" tts:textAlign="center"> Darling, I think I'm going</span><br/><span tts:color="#00ff00" tts:textAlign="center"> back to bed.</span><span tts:color="#ffff00" tts:textAlign="center"> Yeah. </span></p>
+<p begin="00:05:14.541" end="00:05:17.541"><span tts:color="#ececec" tts:textAlign="center"> Billie! Thought you had</span><br/><span tts:color="#ececec" tts:textAlign="center"> college to go to or something. </span></p>
+<p begin="00:05:17.541" end="00:05:20.361"><span tts:color="#00fffd" tts:textAlign="center"> 20 minutes on the Tube - </span><br/><span tts:color="#00fffd" tts:textAlign="center"> I thought I'd go from here. </span></p>
+<p begin="00:05:20.361" end="00:05:25.841"><span tts:color="#00fffd" tts:textAlign="center"> I was thinking, if you'll have me, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> I'll stick around for the wedding. </span><span tts:color="#00fffd" tts:textAlign="center"> You know, get to know the family. </span></p>
+<p begin="00:05:25.841" end="00:05:30.011"><span tts:color="#ffff00" tts:textAlign="center"> What's Mum have to say about that? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> She said, "Anything to get away</span><span tts:color="#00fffd" tts:textAlign="center">from the music." </span></p>
+<p begin="00:05:30.011" end="00:05:32.361"><span tts:color="#00fffd" tts:textAlign="center"> Or she might've used the word</span><br/><span tts:color="#00fffd" tts:textAlign="center"> "noise". Here, you. </span></p>
+<p begin="00:05:32.361" end="00:05:36.761"><span tts:color="#ececec" tts:textAlign="center"> What am I? Your butler or something? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Well, it's not for you to hold, </span><span tts:color="#00fffd" tts:textAlign="center"> is it? It's for you. </span></p>
+<p begin="00:05:36.761" end="00:05:41.551"><span tts:color="#ececec" tts:textAlign="center">What?</span><br/><span tts:color="#00fffd" tts:textAlign="center"> I see the way you're</span><span tts:color="#00fffd" tts:textAlign="center"> always looking at my bike</span><span tts:color="#00fffd" tts:textAlign="center"> on the down-low - want a lesson? </span></p>
+<p begin="00:05:41.551" end="00:05:42.531"><span tts:color="#ffff00" tts:textAlign="center"> No! </span><br/></p>
+<p begin="00:05:43.511" end="00:05:45.811"><span tts:color="#ffff00" tts:textAlign="center"> Oh, no, you don't. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> I need back-up here. </span></p>
+<p begin="00:05:45.811" end="00:05:49.051"><span tts:color="#ececec" tts:textAlign="center"> Yeah, well, I got to run.</span><br/><span tts:color="#ffff00" tts:textAlign="right"> I've hardly</span><span tts:color="#ffff00" tts:textAlign="center"> seen you the last few days. </span></p>
+<p begin="00:05:49.051" end="00:05:50.171"><span tts:color="#ececec" tts:textAlign="center">Whose fault is that? </span><br/></p>
+<p begin="00:05:50.171" end="00:05:52.941"><span tts:color="#ececec" tts:textAlign="center"> Off gallivanting - hen nights, </span><br/><span tts:color="#ececec" tts:textAlign="center"> relatives here. </span></p>
+<p begin="00:05:52.941" end="00:05:57.111"><span tts:color="#ffff00" tts:textAlign="center"> We've got to do something just the</span><br/><span tts:color="#ffff00" tts:textAlign="center"> two of us - one night together</span><span tts:color="#ffff00" tts:textAlign="center"> before the wedding! </span></p>
+<p begin="00:05:57.111" end="00:05:59.271"><span tts:color="#ececec" tts:textAlign="center"> All right. Well, I'll think about it. </span><br/></p>
+<p begin="00:05:59.271" end="00:06:01.091"><span tts:color="#ececec" tts:textAlign="left"> LOUD DANCE MUSIC PLAYS</span><br/></p>
+<p begin="00:06:01.091" end="00:06:04.091"><span tts:color="#ececec" tts:textAlign="center"> PAT:</span><br/><span tts:color="#00ff00" tts:textAlign="center"> Oh, turn that noise down, </span><span tts:color="#00ff00" tts:textAlign="center"> will ya? </span></p>
+<p begin="00:06:06.811" end="00:06:09.861"><span tts:color="#ffff00" tts:textAlign="center">Want some cake with your coffee? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> You need to calm down. </span></p>
+<p begin="00:06:09.861" end="00:06:13.701"><span tts:color="#00fffd" tts:textAlign="center"> Carry on like that, and your dad'll</span><br/><span tts:color="#00fffd" tts:textAlign="center"> know something. We need to get you</span><span tts:color="#00fffd" tts:textAlign="center"> out of there. </span></p>
+<p begin="00:06:13.701" end="00:06:17.171"><span tts:color="#ececec" tts:textAlign="center"> Go on, Dotty, sign this</span><br/><span tts:color="#ececec" tts:textAlign="center"> card for your grandfather... </span></p>
+<p begin="00:06:17.171" end="00:06:19.141"><span tts:color="#ececec" tts:textAlign="center"> Eight years on Sunday. </span><br/></p>
+<p begin="00:06:19.141" end="00:06:21.671"><span tts:color="#ececec" tts:textAlign="center">Who'd have thought? </span><br/></p>
+<p begin="00:06:21.671" end="00:06:25.331"><span tts:color="#00fffd" tts:textAlign="center"> Do you reckon you can get the</span><br/><span tts:color="#00fffd" tts:textAlign="center"> morning off? Can you come and meet</span><span tts:color="#00fffd" tts:textAlign="center"> me in the Vic, now? </span></p>
+<p begin="00:06:25.331" end="00:06:28.101"><span tts:color="#ffff00" tts:textAlign="center">What about your coffee? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Here - is that the time? </span></p>
+<p begin="00:06:28.101" end="00:06:29.741"><span tts:color="#ececec" tts:textAlign="center"> Dotty, why didn't you tell me? </span><br/></p>
+<p begin="00:06:29.741" end="00:06:32.221"><span tts:color="#ececec" tts:textAlign="center"> Eat that up! </span><br/><span tts:color="#ececec" tts:textAlign="center"> You're already late for assembly -</span></p>
+<p begin="00:06:32.221" end="00:06:36.441"><span tts:color="#ececec" tts:textAlign="center"> you don't want to be late for</span><br/><span tts:color="#ececec" tts:textAlign="center"> lessons. I'm late for the</span><span tts:color="#ececec" tts:textAlign="center"> launderette.</span><span tts:color="#ffff00" tts:textAlign="center"> I'm full! </span></p>
+<p begin="00:06:36.441" end="00:06:39.771"><span tts:color="#ececec" tts:textAlign="center"> You said you was hungry. </span><br/><span tts:color="#ececec" tts:textAlign="center"> You felt faint, you said. </span></p>
+<p begin="00:06:39.771" end="00:06:43.141"><span tts:color="#ececec" tts:textAlign="center"> Oh, all right. Leave it. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> I don't feel up to it. </span></p>
+<p begin="00:06:43.141" end="00:06:44.321"><span tts:color="#ffff00" tts:textAlign="center"> Please, Grandma. </span><br/></p>
+<p begin="00:06:44.321" end="00:06:46.661"><span tts:color="#ffff00" tts:textAlign="center"> After what you did... </span><br/></p>
+<p begin="00:06:46.661" end="00:06:49.801"><span tts:color="#ececec" tts:textAlign="center"> Well, I suppose one more day</span><br/><span tts:color="#ececec" tts:textAlign="center"> won't hurt. </span></p>
+<p begin="00:06:49.801" end="00:06:53.221"><span tts:color="#ececec" tts:textAlign="center"> I shall have to phone Heather and... </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Can we go to the playground? </span></p>
+<p begin="00:06:53.221" end="00:06:56.081"><span tts:color="#ffff00" tts:textAlign="center"> Please, Grandma. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Only for half an hour. </span></p>
+<p begin="00:06:56.081" end="00:06:58.751"><span tts:color="#ececec" tts:textAlign="center"> ZAINAB:</span><br/><span tts:color="#00ff00" tts:textAlign="center"> Meddle? Me?! </span></p>
+<p begin="00:06:58.751" end="00:07:03.631"><span tts:color="#00ff00" tts:textAlign="center"> Oh, Denise, you know I am the last</span><br/><span tts:color="#00ff00" tts:textAlign="center"> person to stick my nose into other</span><span tts:color="#00ff00" tts:textAlign="center"> people's affairs, all right? </span></p>
+<p begin="00:07:03.631" end="00:07:06.771"><span tts:color="#00ff00" tts:textAlign="center">What Bianca gets up to</span><br/><span tts:color="#00ff00" tts:textAlign="center"> on her hen night is her affair. </span></p>
+<p begin="00:07:06.771" end="00:07:08.551"><span tts:color="#00ff00" tts:textAlign="center"> And I choose my words advisedly. </span><br/></p>
+<p begin="00:07:08.551" end="00:07:09.911"><span tts:color="#ececec" tts:textAlign="center"> Er, Mrs Masood... </span><br/></p>
+<p begin="00:07:09.911" end="00:07:12.071"><span tts:color="#00ff00" tts:textAlign="center"> I-I'll c-call you back, Denise. </span><br/></p>
+<p begin="00:07:12.071" end="00:07:13.151"><span tts:color="#00ff00" tts:textAlign="center"> Ricky? </span><br/></p>
+<p begin="00:07:13.151" end="00:07:14.971"><span tts:color="#ececec" tts:textAlign="center"> Can I have a word? About Bianca. </span><br/></p>
+<p begin="00:07:14.971" end="00:07:16.761"><span tts:color="#00ff00" tts:textAlign="center"> Right, yes. </span><br/></p>
+<p begin="00:07:16.761" end="00:07:20.601"><span tts:color="#ececec" tts:textAlign="center"> Look, what it is - I want to cook her</span><br/><span tts:color="#ececec" tts:textAlign="center"> a special meal tonight, but... </span></p>
+<p begin="00:07:20.601" end="00:07:22.241"><span tts:color="#ececec" tts:textAlign="center">What would you recommend? </span><br/></p>
+<p begin="00:07:22.241" end="00:07:23.271"><span tts:color="#00ff00" tts:textAlign="center"> Er... </span><br/></p>
+<p begin="00:07:24.261" end="00:07:26.411"><span tts:color="#ffff00" tts:textAlign="center"> There you are! </span><br/><span tts:color="#ffff00" tts:textAlign="center">What's all this about? </span></p>
+<p begin="00:07:26.411" end="00:07:28.661"><span tts:color="#00fffd" tts:textAlign="center">Whose wedding anniversary</span><br/><span tts:color="#00fffd" tts:textAlign="center"> it is this weekend? </span></p>
+<p begin="00:07:28.661" end="00:07:31.991"><span tts:color="#ffff00" tts:textAlign="center"> Oh, I forgot.</span><br/><span tts:color="#00fffd" tts:textAlign="center"> And who's got</span><span tts:color="#00fffd" tts:textAlign="center"> an area reserved here tonight? </span></p>
+<p begin="00:07:31.991" end="00:07:34.011"><span tts:color="#00fffd" tts:textAlign="center"> Bradley, we've got a party to plan. </span><br/></p>
+<p begin="00:07:34.011" end="00:07:35.551"><span tts:color="#ececec" tts:textAlign="center"> That's your table over there, </span><br/></p>
+<p begin="00:07:35.551" end="00:07:38.691"><span tts:color="#ececec" tts:textAlign="center"> and we can sort you out some finger</span><br/><span tts:color="#ececec" tts:textAlign="center"> food.</span><span tts:color="#00fffd" tts:textAlign="center"> And some decorations? </span></p>
+<p begin="00:07:38.691" end="00:07:41.651"><span tts:color="#00fffd" tts:textAlign="center"> What about some champagne? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Let's just make it cava, shall we? </span></p>
+<p begin="00:07:41.651" end="00:07:43.991"><span tts:color="#ececec" tts:textAlign="center"> I'll put this on ice for you - </span><br/><span tts:color="#ececec" tts:textAlign="center"> does that work? </span></p>
+<p begin="00:07:43.991" end="00:07:47.091"><span tts:color="#ffff00" tts:textAlign="center"> That'd be perfect, cheers. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Do you want a cake?</span><span tts:color="#00fffd" tts:textAlign="right"> It's all right. </span></p>
+<p begin="00:07:47.091" end="00:07:51.261"><span tts:color="#00fffd" tts:textAlign="center"> Mum's on it. Any excuse to get</span><br/><span tts:color="#00fffd" tts:textAlign="center"> the mixer out. Dot and Jim</span><span tts:color="#00fffd" tts:textAlign="center"> won't know what's hit 'em! </span></p>
+<p begin="00:07:52.241" end="00:07:54.121"><span tts:color="#ffff00" tts:textAlign="center"> Ronnie!</span><br/><span tts:color="#ececec" tts:textAlign="center"> What?</span><span tts:color="#ffff00" tts:textAlign="center"> The cops are coming. </span></p>
+<p begin="00:07:54.121" end="00:07:56.461"><span tts:color="#ececec" tts:textAlign="center"> What?!</span><br/><span tts:color="#ffff00" tts:textAlign="center"> You know, the woman one. </span></p>
+<p begin="00:07:58.201" end="00:07:59.981"><span tts:color="#ececec" tts:textAlign="center"> Official visit, is it? </span><br/></p>
+<p begin="00:07:59.981" end="00:08:01.241"><span tts:color="#ffff00" tts:textAlign="center"> Celebrating something? </span><br/></p>
+<p begin="00:08:01.241" end="00:08:05.601"><span tts:color="#ececec" tts:textAlign="center"> Why? Is that a crime too, now? Well, </span><br/><span tts:color="#ececec" tts:textAlign="center"> you'd better arrest me again. </span></p>
+<p begin="00:08:05.601" end="00:08:09.961"><span tts:color="#ececec" tts:textAlign="center"> Now you've got all this</span><br/><span tts:color="#ececec" tts:textAlign="center"> "new evidence".</span><span tts:color="#ffff00" tts:textAlign="center"> Actually, </span><span tts:color="#ffff00" tts:textAlign="center"> I've come to thank you. </span></p>
+<p begin="00:08:09.961" end="00:08:14.981"><span tts:color="#ffff00" tts:textAlign="center"> It's always nice when a suspect</span><br/><span tts:color="#ffff00" tts:textAlign="center"> lands themselves in it. </span><span tts:color="#ffff00" tts:textAlign="center"> It gives you a free pointer. </span></p>
+<p begin="00:08:14.981" end="00:08:17.141"><span tts:color="#ffff00" tts:textAlign="center"> And that was a gift of a pointer. </span><br/></p>
+<p begin="00:08:17.141" end="00:08:20.701"><span tts:color="#ececec" tts:textAlign="left"> RONNIE SIGHS</span><br/><span tts:color="#ececec" tts:textAlign="center">Just because I'm capable of... </span></p>
+<p begin="00:08:20.701" end="00:08:24.681"><span tts:color="#ececec" tts:textAlign="center">THAT, doesn't mean</span><br/><span tts:color="#ececec" tts:textAlign="center"> I'm capable of murder. </span></p>
+<p begin="00:08:24.681" end="00:08:26.751"><span tts:color="#ffff00" tts:textAlign="center"> You're missing the point. </span><br/></p>
+<p begin="00:08:26.751" end="00:08:29.981"><span tts:color="#ffff00" tts:textAlign="center"> You whack a Detective Chief</span><br/><span tts:color="#ffff00" tts:textAlign="center"> Inspector in the eye? </span><span tts:color="#ffff00" tts:textAlign="center"> It makes you think. </span></p>
+<p begin="00:08:31.671" end="00:08:33.681"><span tts:color="#ffff00" tts:textAlign="center"> How angry do you have to be</span><br/><span tts:color="#ffff00" tts:textAlign="center"> with your father</span></p>
+<p begin="00:08:33.681" end="00:08:36.501"><span tts:color="#ffff00" tts:textAlign="center"> to...try to vandalise his picture? </span><br/></p>
+<p begin="00:08:37.481" end="00:08:41.041"><span tts:color="#ffff00" tts:textAlign="center"> How mad do you have to be to stand</span><br/><span tts:color="#ffff00" tts:textAlign="center"> in the street, yelling at a photo? </span></p>
+<p begin="00:08:41.041" end="00:08:42.971"><span tts:color="#ffff00" tts:textAlign="center"> So you've given me motive. </span><br/></p>
+<p begin="00:08:42.971" end="00:08:44.611"><span tts:color="#ffff00" tts:textAlign="center"> We know you had opportunity. </span><br/></p>
+<p begin="00:08:44.611" end="00:08:46.341"><span tts:color="#ececec" tts:textAlign="center"> I didn't do it. </span><br/></p>
+<p begin="00:08:46.341" end="00:08:51.541"><span tts:color="#ffff00" tts:textAlign="center">When you were cradling your dying</span><br/><span tts:color="#ffff00" tts:textAlign="center">father in your arms, did he really</span><span tts:color="#ffff00" tts:textAlign="center"> apologise to you for what he'd done? </span></p>
+<p begin="00:08:51.541" end="00:08:56.141"><span tts:color="#ffff00" tts:textAlign="center"> Or was it you apologising to him</span><br/><span tts:color="#ffff00" tts:textAlign="center">for what you did that night? </span><span tts:color="#ececec" tts:textAlign="center"> I don't have to listen to this. </span></p>
+<p begin="00:08:56.141" end="00:08:59.891"><span tts:color="#ececec" tts:textAlign="center"> Get out.</span><br/><span tts:color="#ffff00" tts:textAlign="center">That's right - throw</span><span tts:color="#ffff00" tts:textAlign="center">the investigating officer</span><span tts:color="#ffff00" tts:textAlign="center"> out of your pub. </span></p>
+<p begin="00:09:01.151" end="00:09:04.111"><span tts:color="#ffff00" tts:textAlign="center"> You really are a prosecutor's</span><br/><span tts:color="#ffff00" tts:textAlign="center"> dream, do you know that? </span></p>
+<p begin="00:09:11.421" end="00:09:13.901"><span tts:color="#ececec" tts:textAlign="center"> OK, so...red outline means "danger". </span><br/></p>
+<p begin="00:09:14.981" end="00:09:16.111"><span tts:color="#ececec" tts:textAlign="center"> So... </span><br/></p>
+<p begin="00:09:16.111" end="00:09:19.301"><span tts:color="#ececec" tts:textAlign="center"> "Danger...wooden fence"? </span><br/></p>
+<p begin="00:09:19.301" end="00:09:23.191"><span tts:color="#ececec" tts:textAlign="center"> No, no, no. "Danger... </span><br/><span tts:color="#ececec" tts:textAlign="center"> country cottage approaching." </span></p>
+<p begin="00:09:23.191" end="00:09:25.671"><span tts:color="#ececec" tts:textAlign="left"> IMITATES QUIZ-SHOW BUZZER</span><br/></p>
+<p begin="00:09:25.671" end="00:09:28.161"><span tts:color="#ececec" tts:textAlign="center"> Well, I got that wrong. Er... </span><br/></p>
+<p begin="00:09:28.161" end="00:09:30.121"><span tts:color="#ececec" tts:textAlign="center"> Right, I know this one. </span><br/></p>
+<p begin="00:09:30.121" end="00:09:31.251"><span tts:color="#ececec" tts:textAlign="center"> "Danger - frog."</span><br/></p>
+<p begin="00:09:32.841" end="00:09:33.831"><span tts:color="#00fffd" tts:textAlign="center"> Is cor-rect. </span><br/></p>
+<p begin="00:09:34.911" end="00:09:38.521"><span tts:color="#ececec" tts:textAlign="center"> You are joking? Is there actually</span><br/><span tts:color="#ececec" tts:textAlign="center"> a sign that says "Danger - frog"? </span></p>
+<p begin="00:09:40.481" end="00:09:42.451"><span tts:color="#ececec" tts:textAlign="center"> "Danger - cleavage"? </span><br/></p>
+<p begin="00:09:42.451" end="00:09:44.381"><span tts:color="#00fffd" tts:textAlign="center"> Well, yeah. </span><br/></p>
+<p begin="00:09:46.491" end="00:09:49.861"><span tts:color="#ececec" tts:textAlign="center"> I've seriously got to learn all this</span><br/><span tts:color="#ececec" tts:textAlign="center"> before you take me out on your bike. </span></p>
+<p begin="00:09:49.861" end="00:09:53.381"><span tts:color="#00fffd" tts:textAlign="center"> Well, no, you don't. But it's been</span><br/><span tts:color="#00fffd" tts:textAlign="center"> fun watching you try!</span><span tts:color="#ececec" tts:textAlign="right"> Oh! </span></p>
+<p begin="00:09:53.381" end="00:09:58.111"><span tts:color="#ececec" tts:textAlign="center"> Is that what you're like at college? </span><br/><span tts:color="#ececec" tts:textAlign="center">When you bother to go...</span><span tts:color="#00fffd" tts:textAlign="right"> Well, </span><span tts:color="#00fffd" tts:textAlign="center"> you know, there's nothing on. </span></p>
+<p begin="00:09:58.111" end="00:10:00.921"><span tts:color="#00fffd" tts:textAlign="center"> Nothing they won't miss me from</span><br/><span tts:color="#00fffd" tts:textAlign="center"> today, anyway. </span></p>
+<p begin="00:10:00.921" end="00:10:04.251"><span tts:color="#ececec" tts:textAlign="center">Well, if you've got so much time on</span><br/><span tts:color="#ececec" tts:textAlign="center"> your hands, why not take me out now? </span></p>
+<p begin="00:10:04.251" end="00:10:05.751"><span tts:color="#00fffd" tts:textAlign="center"> Yeah? </span><br/></p>
+<p begin="00:10:05.751" end="00:10:06.923"><span tts:color="#ececec" tts:textAlign="center"> Yeah.</span><br/><span tts:color="#00fffd" tts:textAlign="center"> Come on, then. </span></p>
+<p begin="00:10:08.143" end="00:10:09.833"><span tts:color="#ececec" tts:textAlign="left"> DOORBELL RINGS</span><br/></p>
+<p begin="00:10:09.833" end="00:10:10.863"><span tts:color="#00fffd" tts:textAlign="center"> Expecting anyone? </span><br/></p>
+<p begin="00:10:13.813" end="00:10:15.503"><span tts:color="#ececec" tts:textAlign="center"> Hey...</span><br/><span tts:color="#00ff00" tts:textAlign="center"> Hey, Whit. </span></p>
+<p begin="00:10:15.503" end="00:10:16.953"><span tts:color="#00ff00" tts:textAlign="center"> Billie. </span><br/></p>
+<p begin="00:10:16.953" end="00:10:20.143"><span tts:color="#00ff00" tts:textAlign="center"> I didn't realise</span><br/><span tts:color="#00ff00" tts:textAlign="center"> you were still around. </span></p>
+<p begin="00:10:21.783" end="00:10:23.703"><span tts:color="#ececec" tts:textAlign="center"> Well, he's just...</span><br/><span tts:color="#00fffd" tts:textAlign="center"> I-I've moved in. </span></p>
+<p begin="00:10:23.703" end="00:10:27.453"><span tts:color="#00fffd" tts:textAlign="center"> You know, just for the wedding. I </span><br/><span tts:color="#00fffd" tts:textAlign="center"> thought I'd get to know the family. </span></p>
+<p begin="00:10:28.673" end="00:10:30.973"><span tts:color="#00ff00" tts:textAlign="center"> Not that you're really family. </span><br/></p>
+<p begin="00:10:30.973" end="00:10:33.363"><span tts:color="#00fffd" tts:textAlign="center"> Yeah, no. Guess we ain't. </span><br/></p>
+<p begin="00:10:43.353" end="00:10:46.303"><span tts:color="#00fffd" tts:textAlign="center"> You need to talk to Bradley. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Really? Why? </span></p>
+<p begin="00:10:49.353" end="00:10:52.583"><span tts:color="#ececec" tts:textAlign="center"> It's this new evidence, innit? </span><br/><span tts:color="#ececec" tts:textAlign="center">Why, what's it give 'em? </span></p>
+<p begin="00:10:52.583" end="00:10:55.583"><span tts:color="#00fffd" tts:textAlign="center">Well, nothing that I know of.</span><br/><span tts:color="#ececec" tts:textAlign="right"> So... </span></p>
+<p begin="00:10:55.583" end="00:10:59.893"><span tts:color="#00fffd" tts:textAlign="center"> Bradley needs to talk to the police. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Is this from one of your contacts? </span><span tts:color="#ececec" tts:textAlign="center"> How much do they know? </span></p>
+<p begin="00:10:59.893" end="00:11:03.463"><span tts:color="#00fffd" tts:textAlign="center"> They ain't got anything yet. </span><br/><span tts:color="#ececec" tts:textAlign="center"> What do you mean, "yet"? </span></p>
+<p begin="00:11:03.463" end="00:11:06.463"><span tts:color="#00fffd" tts:textAlign="center"> Look, Max. I can't keep Bradley's</span><br/><span tts:color="#00fffd" tts:textAlign="center"> secret any longer. </span></p>
+<p begin="00:11:06.463" end="00:11:08.613"><span tts:color="#ececec" tts:textAlign="center"> What's that supposed to mean? </span><br/></p>
+<p begin="00:11:10.443" end="00:11:14.993"><span tts:color="#ececec" tts:textAlign="center">What, you'll go to the police? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> No, I think he should. </span><span tts:color="#ececec" tts:textAlign="center"> Bradley ain't even a suspect. </span></p>
+<p begin="00:11:14.993" end="00:11:20.713"><span tts:color="#ececec" tts:textAlign="center"> You can't expect him to draw</span><br/><span tts:color="#ececec" tts:textAlign="center"> attention to himself.</span><span tts:color="#00fffd" tts:textAlign="right"> I ain't seeing</span><span tts:color="#00fffd" tts:textAlign="center"> Ronnie go down for killing Archie. </span></p>
+<p begin="00:11:20.713" end="00:11:23.433"><span tts:color="#00fffd" tts:textAlign="center"> All right? Either Bradley</span><br/><span tts:color="#00fffd" tts:textAlign="center">tells the truth, or I do. </span></p>
+<p begin="00:11:23.433" end="00:11:24.653"><span tts:color="#ececec" tts:textAlign="center"> Up a bit. </span><br/></p>
+<p begin="00:11:24.653" end="00:11:26.333"><span tts:color="#ececec" tts:textAlign="center"> No, down a bit. </span><br/></p>
+<p begin="00:11:27.043" end="00:11:29.293"><span tts:color="#ececec" tts:textAlign="center"> Yes, there - exactly there! </span><br/><span tts:color="#ececec" tts:textAlign="center">Just don't p... </span></p>
+<p begin="00:11:30.793" end="00:11:33.793"><span tts:color="#ececec" tts:textAlign="center">What is Stacey going to say</span><br/><span tts:color="#ececec" tts:textAlign="center"> when she gets back? </span></p>
+<p begin="00:11:33.793" end="00:11:38.153"><span tts:color="#ececec" tts:textAlign="center">We're not very good at this, are we? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Yeah. I suppose there's worse things</span><span tts:color="#ffff00" tts:textAlign="center"> to fail at. </span></p>
+<p begin="00:11:38.153" end="00:11:41.153"><span tts:color="#ffff00" tts:textAlign="center"> And to be honest... </span><br/><span tts:color="#ececec" tts:textAlign="center"> Your mind's elsewhere? </span></p>
+<p begin="00:11:41.153" end="00:11:43.353"><span tts:color="#ffff00" tts:textAlign="center"> Er, yeah. Yeah, a little bit. </span><br/></p>
+<p begin="00:11:43.353" end="00:11:46.213"><span tts:color="#ececec" tts:textAlign="center"> Tell you what - I think a holiday's</span><br/><span tts:color="#ececec" tts:textAlign="center"> exactly what you need. </span></p>
+<p begin="00:11:46.213" end="00:11:47.713"><span tts:color="#ffff00" tts:textAlign="center"> How did you know? </span><br/></p>
+<p begin="00:11:47.713" end="00:11:51.183"><span tts:color="#ececec" tts:textAlign="center">Well, Stacey mentioned you'd</span><br/><span tts:color="#ececec" tts:textAlign="center">talked about going away, and... </span></p>
+<p begin="00:11:51.183" end="00:11:54.843"><span tts:color="#ececec" tts:textAlign="center"> I went online earlier - </span><br/><span tts:color="#ececec" tts:textAlign="center"> there's loads of deals going on. </span></p>
+<p begin="00:11:54.843" end="00:11:56.903"><span tts:color="#ffff00" tts:textAlign="center"> Yeah?</span><br/><span tts:color="#ececec" tts:textAlign="center"> Yeah. </span></p>
+<p begin="00:11:56.903" end="00:11:59.993"><span tts:color="#ececec" tts:textAlign="center"> I know three's a bit of a difficult</span><br/><span tts:color="#ececec" tts:textAlign="center"> number when booking a holiday, </span></p>
+<p begin="00:11:59.993" end="00:12:04.913"><span tts:color="#ececec" tts:textAlign="center"> but there isn't always a single</span><br/><span tts:color="#ececec" tts:textAlign="center"> supplement. And I found a place</span><span tts:color="#ececec" tts:textAlign="center"> in Greece that's just perfect. </span></p>
+<p begin="00:12:04.913" end="00:12:06.793"><span tts:color="#ffff00" tts:textAlign="center"> Listen, Becca. Sorry, er... </span><br/></p>
+<p begin="00:12:06.793" end="00:12:08.523"><span tts:color="#ffff00" tts:textAlign="center"> I think you misunderstood. </span><br/></p>
+<p begin="00:12:09.513" end="00:12:13.263"><span tts:color="#ffff00" tts:textAlign="center"> If me and Stace go away, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> it's just going to be us two, OK? </span></p>
+<p begin="00:12:15.273" end="00:12:19.593"><span tts:color="#00fffd" tts:textAlign="center"> That is the pony-est idea</span><br/><span tts:color="#00fffd" tts:textAlign="center"> for a stag do I've ever heard. </span><span tts:color="#ececec" tts:textAlign="center"> Pardon me for trying to contribute. </span></p>
+<p begin="00:12:19.593" end="00:12:22.873"><span tts:color="#00fffd" tts:textAlign="center">There's no way you'll get me near</span><br/><span tts:color="#00fffd" tts:textAlign="center"> a back, sack and...</span><span tts:color="#ececec" tts:textAlign="right"> All right! </span></p>
+<p begin="00:12:22.873" end="00:12:26.523"><span tts:color="#ececec" tts:textAlign="center">We'll do your idea, shall we? </span><br/><span tts:color="#ececec" tts:textAlign="center">When you eventually come up with one. </span></p>
+<p begin="00:12:26.523" end="00:12:28.453"><span tts:color="#00fffd" tts:textAlign="center"> Am I missing something here? </span><br/></p>
+<p begin="00:12:28.453" end="00:12:30.283"><span tts:color="#ececec" tts:textAlign="center">What? </span><br/></p>
+<p begin="00:12:30.283" end="00:12:32.243"><span tts:color="#ececec" tts:textAlign="center"> Oh. I'm sorry. </span><br/></p>
+<p begin="00:12:32.243" end="00:12:33.283"><span tts:color="#ececec" tts:textAlign="center"> Sorry. </span><br/></p>
+<p begin="00:12:34.353" end="00:12:36.883"><span tts:color="#ececec" tts:textAlign="center">Just a bit worried about Manda - </span><br/><span tts:color="#ececec" tts:textAlign="center"> she's... </span></p>
+<p begin="00:12:36.883" end="00:12:38.293"><span tts:color="#ececec" tts:textAlign="center"> she's being a bit distant. </span><br/></p>
+<p begin="00:12:38.293" end="00:12:41.013"><span tts:color="#00fffd" tts:textAlign="center">Why don't you spend some time</span><br/><span tts:color="#00fffd" tts:textAlign="center"> with her?</span><span tts:color="#ececec" tts:textAlign="center"> I tried that. </span></p>
+<p begin="00:12:41.013" end="00:12:46.033"><span tts:color="#ececec" tts:textAlign="center"> She don't seem to want to... </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Organise something she does want</span><span tts:color="#00fffd" tts:textAlign="center">to do! It ain't rocket science. </span></p>
+<p begin="00:12:46.033" end="00:12:47.953"><span tts:color="#ececec" tts:textAlign="center">What about organising the stag do? </span><br/></p>
+<p begin="00:12:47.953" end="00:12:52.453"><span tts:color="#00fffd" tts:textAlign="center"> I'm the best man - that's my job. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> On the evidence so far, I can</span><span tts:color="#00fffd" tts:textAlign="center">just about manage without you. </span></p>
+<p begin="00:12:52.453" end="00:12:55.543"><span tts:color="#ececec" tts:textAlign="center"> Phil, I need to talk to you, now. </span><br/></p>
+<p begin="00:12:58.363" end="00:13:00.323"><span tts:color="#ececec" tts:textAlign="center"> Coriander.</span><br/><span tts:color="#00ff00" tts:textAlign="center"> No, no, no. Not that. </span></p>
+<p begin="00:13:00.323" end="00:13:02.763"><span tts:color="#ececec" tts:textAlign="center"> But hold on - it's on the list. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Patrick. </span></p>
+<p begin="00:13:02.763" end="00:13:07.073"><span tts:color="#00ff00" tts:textAlign="center"> If you want to get it, you have to</span><br/><span tts:color="#00ff00" tts:textAlign="center"> get the REAL thing. I'll take you</span><span tts:color="#00ff00" tts:textAlign="center">to Green Street later. </span></p>
+<p begin="00:13:07.073" end="00:13:09.793"><span tts:color="#00fffd" tts:textAlign="center"> She keeps saying that, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> but the basket's still empty! </span></p>
+<p begin="00:13:09.793" end="00:13:11.863"><span tts:color="#ececec" tts:textAlign="center"> Right, what about rice, then? </span><br/></p>
+<p begin="00:13:11.863" end="00:13:14.533"><span tts:color="#ececec" tts:textAlign="center"> Surely you can't object to the</span><br/><span tts:color="#ececec" tts:textAlign="center"> Minute Mart rice.</span><span tts:color="#00ff00" tts:textAlign="right"> Ah, ah! </span></p>
+<p begin="00:13:14.533" end="00:13:16.263"><span tts:color="#00ff00" tts:textAlign="center"> Step away from the long grain. </span><br/></p>
+<p begin="00:13:16.263" end="00:13:19.363"><span tts:color="#ececec" tts:textAlign="center">Well, rice is rice is rice. </span><br/></p>
+<p begin="00:13:19.363" end="00:13:23.533"><span tts:color="#00ff00" tts:textAlign="center"> Fine. Be done with it and get</span><br/><span tts:color="#00ff00" tts:textAlign="center"> a boil in the bag, then. </span><span tts:color="#ececec" tts:textAlign="center">What's wrong with boil in the bag? </span></p>
+<p begin="00:13:23.533" end="00:13:28.223"><span tts:color="#ececec" tts:textAlign="left"> SHE GASPS</span><br/><span tts:color="#00ff00" tts:textAlign="center"> OK, fine. Get long grain, get boil</span><span tts:color="#00ff00" tts:textAlign="center"> in the bag - whatever's in stock. </span></p>
+<p begin="00:13:28.223" end="00:13:30.093"><span tts:color="#00ff00" tts:textAlign="center"> She doesn't deserve any better. </span><br/></p>
+<p begin="00:13:30.093" end="00:13:32.343"><span tts:color="#ececec" tts:textAlign="center"> What's that supposed to mean? </span><br/></p>
+<p begin="00:13:32.343" end="00:13:36.423"><span tts:color="#ececec" tts:textAlign="center"> Look - with all respect, Mrs Masood, </span><br/><span tts:color="#ececec" tts:textAlign="center"> your opinion on food I'll take, </span></p>
+<p begin="00:13:36.423" end="00:13:38.623"><span tts:color="#ececec" tts:textAlign="center"> but I'm the one who knows</span><br/><span tts:color="#ececec" tts:textAlign="center"> my future wife and... </span></p>
+<p begin="00:13:38.623" end="00:13:41.583"><span tts:color="#ececec" tts:textAlign="center"> You know, she deserves everything. </span><br/><span tts:color="#ececec" tts:textAlign="center"> She deserves the best. </span></p>
+<p begin="00:13:41.583" end="00:13:44.863"><span tts:color="#ececec" tts:textAlign="center"> And I don't want people going out</span><br/><span tts:color="#ececec" tts:textAlign="center"> there badmouthing her, all right? </span></p>
+<p begin="00:13:44.863" end="00:13:46.553"><span tts:color="#00ff00" tts:textAlign="center"> I-I'm sorry. </span><br/></p>
+<p begin="00:13:46.553" end="00:13:49.123"><span tts:color="#00ff00" tts:textAlign="center"> I wasn't thinking. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Please just forget what I said. </span></p>
+<p begin="00:13:51.003" end="00:13:52.973"><span tts:color="#ececec" tts:textAlign="center"> OK, wine. Shall I get the wine here? </span><br/></p>
+<p begin="00:13:52.973" end="00:13:58.923"><span tts:color="#00ff00" tts:textAlign="center"> That's the only thing I'm not an</span><br/><span tts:color="#00ff00" tts:textAlign="center"> expert on.</span><span tts:color="#ececec" tts:textAlign="center"> Tell you what - you don't</span><span tts:color="#ececec" tts:textAlign="center"> know how relieved I am to hear that. </span></p>
+<p begin="00:14:00.563" end="00:14:02.063"><span tts:color="#00fffd" tts:textAlign="center"> Oi, hold up. </span><br/></p>
+<p begin="00:14:02.063" end="00:14:04.593"><span tts:color="#00fffd" tts:textAlign="center"> You ain't thinking</span><br/><span tts:color="#00fffd" tts:textAlign="center"> of going somewhere, are you? </span></p>
+<p begin="00:14:06.943" end="00:14:10.453"><span tts:color="#ececec" tts:textAlign="center"> The DCI was in earlier. She's made it</span><br/><span tts:color="#ececec" tts:textAlign="center"> clear she won't let this drop. </span></p>
+<p begin="00:14:10.453" end="00:14:13.173"><span tts:color="#00fffd" tts:textAlign="center"> You take a swing at Marsden, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> she won't look kindly on you. </span></p>
+<p begin="00:14:13.173" end="00:14:16.603"><span tts:color="#ececec" tts:textAlign="center"> I don't care about the assault. </span><br/><span tts:color="#ececec" tts:textAlign="center"> At least that's something I DID. </span></p>
+<p begin="00:14:16.603" end="00:14:21.053"><span tts:color="#ececec" tts:textAlign="center"> She is trying to put me in the frame</span><br/><span tts:color="#ececec" tts:textAlign="center"> for my dad's murder. </span><span tts:color="#00fffd" tts:textAlign="center"> But she ain't got any evidence. </span></p>
+<p begin="00:14:21.053" end="00:14:22.223"><span tts:color="#00fffd" tts:textAlign="center"> Has she? </span><br/></p>
+<p begin="00:14:24.333" end="00:14:26.163"><span tts:color="#ececec" tts:textAlign="center">There is a rumour about</span><br/><span tts:color="#ececec" tts:textAlign="center"> a new witness. </span></p>
+<p begin="00:14:27.993" end="00:14:30.523"><span tts:color="#00fffd" tts:textAlign="center"> And what would this witness</span><br/><span tts:color="#00fffd" tts:textAlign="center"> have seen? </span></p>
+<p begin="00:14:30.523" end="00:14:31.783"><span tts:color="#ececec" tts:textAlign="center"> Nothing. </span><br/></p>
+<p begin="00:14:31.783" end="00:14:35.393"><span tts:color="#ececec" tts:textAlign="center"> Nothing! Not of me, anyway. </span><br/></p>
+<p begin="00:14:35.393" end="00:14:37.883"><span tts:color="#ececec" tts:textAlign="center"> But Marsden has made it clear that is</span><br/><span tts:color="#ececec" tts:textAlign="center"> not going to stop her. </span></p>
+<p begin="00:14:37.883" end="00:14:42.283"><span tts:color="#ececec" tts:textAlign="center"> Look, I've got to get out of</span><br/><span tts:color="#ececec" tts:textAlign="center"> the country or that woman is going</span><span tts:color="#ececec" tts:textAlign="center">to have me in prison. </span></p>
+<p begin="00:14:42.283" end="00:14:43.883"><span tts:color="#00fffd" tts:textAlign="center">What, do a Sam?! </span><br/></p>
+<p begin="00:14:43.883" end="00:14:45.473"><span tts:color="#00fffd" tts:textAlign="center"> You're on bail. </span><br/></p>
+<p begin="00:14:45.473" end="00:14:48.613"><span tts:color="#00fffd" tts:textAlign="center"> In case you forgot...they've got</span><br/><span tts:color="#00fffd" tts:textAlign="center"> your passport. </span></p>
+<p begin="00:14:50.683" end="00:14:52.363"><span tts:color="#ececec" tts:textAlign="center">That's where you come in. </span><br/></p>
+<p begin="00:14:57.573" end="00:15:00.573"><span tts:color="#ffff00" tts:textAlign="center"> Isn't this pretty? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Yeah, very nice, dear. </span></p>
+<p begin="00:15:00.573" end="00:15:02.583"><span tts:color="#ffff00" tts:textAlign="center"> It's only 39.99. </span><br/></p>
+<p begin="00:15:02.583" end="00:15:04.883"><span tts:color="#ececec" tts:textAlign="center"> I ain't got that sort of money. </span><br/></p>
+<p begin="00:15:04.883" end="00:15:07.653"><span tts:color="#ffff00" tts:textAlign="center"> But...after what happened... </span><br/></p>
+<p begin="00:15:08.863" end="00:15:11.303"><span tts:color="#ffff00" tts:textAlign="center"> ..I need SOMETHING to cheer me up. </span><br/></p>
+<p begin="00:15:12.853" end="00:15:14.493"><span tts:color="#ececec" tts:textAlign="center"> I'll get my cheque book. </span><br/></p>
+<p begin="00:15:20.823" end="00:15:23.073"><span tts:color="#ececec" tts:textAlign="center"> Forty quid, did you say? </span><br/></p>
+<p begin="00:15:23.073" end="00:15:24.153"><span tts:color="#ffff00" tts:textAlign="center"> 39.99. </span><br/></p>
+<p begin="00:15:24.153" end="00:15:27.573"><span tts:color="#ffff00" tts:textAlign="center"> I think it's a bargain, considering. </span><br/></p>
+<p begin="00:15:40.693" end="00:15:42.383"><span tts:color="#ececec" tts:textAlign="center"> I can't get hold of him. </span><br/></p>
+<p begin="00:15:43.883" end="00:15:45.803"><span tts:color="#00fffd" tts:textAlign="center"> Leave a message. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Tell him to confess. </span></p>
+<p begin="00:15:45.803" end="00:15:49.373"><span tts:color="#ececec" tts:textAlign="center"> I won't tell him to turn himself in. </span><br/><span tts:color="#ececec" tts:textAlign="center"> I'll tell him to do a runner! </span></p>
+<p begin="00:15:49.373" end="00:15:53.873"><span tts:color="#ececec" tts:textAlign="center"> Remind me - how is your</span><br/><span tts:color="#ececec" tts:textAlign="center"> non-relationship with a nutty blonde</span><span tts:color="#ececec" tts:textAlign="center"> more important than my son? </span></p>
+<p begin="00:15:55.183" end="00:15:58.323"><span tts:color="#ececec" tts:textAlign="center"> You're going to screw his life up. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> You've already done that. </span></p>
+<p begin="00:15:58.323" end="00:16:02.593"><span tts:color="#ececec" tts:textAlign="center"> You're going to screw his life up, </span><br/><span tts:color="#ececec" tts:textAlign="center"> for no reason. You don't even know</span><span tts:color="#ececec" tts:textAlign="center"> Ronnie's innocent. </span></p>
+<p begin="00:16:02.593" end="00:16:05.683"><span tts:color="#00fffd" tts:textAlign="center"> Yes, I know, all right? I know. </span><br/><span tts:color="#ececec" tts:textAlign="center"> How do you know that, Jack? </span></p>
+<p begin="00:16:05.683" end="00:16:09.573"><span tts:color="#ececec" tts:textAlign="center"> There's only one way you could</span><br/><span tts:color="#ececec" tts:textAlign="center"> know that for sure - if you done it</span><span tts:color="#ececec" tts:textAlign="center"> yourself. </span></p>
+<p begin="00:16:09.573" end="00:16:15.433"><span tts:color="#00fffd" tts:textAlign="center"> Listen to yourself! Yeah, I'd do</span><br/><span tts:color="#00fffd" tts:textAlign="center"> anything in my power to make sure</span><span tts:color="#00fffd" tts:textAlign="center"> Ronnie was innocent, </span></p>
+<p begin="00:16:15.433" end="00:16:19.323"><span tts:color="#00fffd" tts:textAlign="center"> but that don't mean I'd kill</span><br/><span tts:color="#00fffd" tts:textAlign="center"> for her.</span><span tts:color="#ececec" tts:textAlign="center"> Bradley's going through</span><span tts:color="#ececec" tts:textAlign="center"> hell with Stacey. </span></p>
+<p begin="00:16:19.323" end="00:16:24.393"><span tts:color="#ececec" tts:textAlign="center"> Last thing he needs is police</span><br/><span tts:color="#ececec" tts:textAlign="center"> involved.</span><span tts:color="#00fffd" tts:textAlign="center">We're doing no-one any</span><span tts:color="#00fffd" tts:textAlign="center"> favours, withholding information. </span></p>
+<p begin="00:16:24.393" end="00:16:28.703"><span tts:color="#00fffd" tts:textAlign="center"> The police will find out Bradley was</span><br/><span tts:color="#00fffd" tts:textAlign="center"> at the scene eventually. It's better</span><span tts:color="#00fffd" tts:textAlign="center"> he goes to 'em now</span></p>
+<p begin="00:16:28.703" end="00:16:33.863"><span tts:color="#00fffd" tts:textAlign="center">than look guilty when they come and</span><br/><span tts:color="#00fffd" tts:textAlign="center"> find him.</span><span tts:color="#ececec" tts:textAlign="center"> You're doing this for</span><span tts:color="#ececec" tts:textAlign="center"> his good, are you(?)</span><span tts:color="#00fffd" tts:textAlign="center"> You know what? </span></p>
+<p begin="00:16:33.863" end="00:16:38.123"><span tts:color="#00fffd" tts:textAlign="center"> You need time to think. I'll give</span><br/><span tts:color="#00fffd" tts:textAlign="center"> you till four. If Bradley ain't</span><span tts:color="#00fffd" tts:textAlign="center"> at the police station by then, </span></p>
+<p begin="00:16:38.123" end="00:16:39.903"><span tts:color="#00fffd" tts:textAlign="center"> you know what I'm going to do. </span><br/></p>
+<p begin="00:16:45.533" end="00:16:47.543"><span tts:color="#00fffd" tts:textAlign="center"> How many times</span><br/><span tts:color="#00fffd" tts:textAlign="center"> do I have to tell you? </span></p>
+<p begin="00:16:47.543" end="00:16:50.403"><span tts:color="#00fffd" tts:textAlign="center"> Even if I could get you a passport, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> I wouldn't. </span></p>
+<p begin="00:16:50.403" end="00:16:53.923"><span tts:color="#ececec" tts:textAlign="center"> Oh, come on. Don't play games. </span><br/><span tts:color="#ececec" tts:textAlign="center"> We all know what you did for Sam. </span></p>
+<p begin="00:16:53.923" end="00:16:55.753"><span tts:color="#00fffd" tts:textAlign="center"> You're not Sam, though, are you? </span><br/></p>
+<p begin="00:16:55.753" end="00:16:58.613"><span tts:color="#ececec" tts:textAlign="center"> Oh, I see. I see, I'm just a cousin -</span><br/></p>
+<p begin="00:16:58.613" end="00:17:03.113"><span tts:color="#ececec" tts:textAlign="center"> I'm not worth taking the same</span><br/><span tts:color="#ececec" tts:textAlign="center"> risks you'd take for a sister?</span><span tts:color="#00fffd" tts:textAlign="right"> No! </span><span tts:color="#00fffd" tts:textAlign="center"> You're not an idiot like Sam. </span></p>
+<p begin="00:17:03.113" end="00:17:06.863"><span tts:color="#00fffd" tts:textAlign="center"> You know better than to make</span><br/><span tts:color="#00fffd" tts:textAlign="center"> things worse for yourself</span><span tts:color="#00fffd" tts:textAlign="center"> by doing a runner. </span></p>
+<p begin="00:17:06.863" end="00:17:09.063"><span tts:color="#00fffd" tts:textAlign="center"> It's smarter to stay</span><br/><span tts:color="#00fffd" tts:textAlign="center"> and clear your name. </span></p>
+<p begin="00:17:09.063" end="00:17:11.643"><span tts:color="#ececec" tts:textAlign="center"> I'm not asking your advice, Phil. </span><br/></p>
+<p begin="00:17:13.843" end="00:17:15.393"><span tts:color="#00fffd" tts:textAlign="center"> Unless, of course... </span><br/></p>
+<p begin="00:17:16.803" end="00:17:18.393"><span tts:color="#00fffd" tts:textAlign="center"> ..you really did kill Archie. </span><br/></p>
+<p begin="00:17:22.423" end="00:17:24.113"><span tts:color="#ececec" tts:textAlign="center"> And what should I do then? </span><br/></p>
+<p begin="00:17:24.113" end="00:17:26.273"><span tts:color="#00fffd" tts:textAlign="center"> Then you should stay... </span><br/></p>
+<p begin="00:17:27.673" end="00:17:29.363"><span tts:color="#00fffd" tts:textAlign="center"> ..and face the music. </span><br/></p>
+<p begin="00:17:31.193" end="00:17:34.053"><span tts:color="#ececec" tts:textAlign="center"> Let's just take a giant leap of</span><br/><span tts:color="#ececec" tts:textAlign="center"> faith here... </span></p>
+<p begin="00:17:36.163" end="00:17:38.553"><span tts:color="#ececec" tts:textAlign="center"> ..and imagine I never</span><br/><span tts:color="#ececec" tts:textAlign="center"> laid a finger on him. </span></p>
+<p begin="00:17:40.383" end="00:17:43.283"><span tts:color="#ececec" tts:textAlign="center"> Imagine I didn't bludgeon</span><br/><span tts:color="#ececec" tts:textAlign="center"> my own father to death. </span></p>
+<p begin="00:17:44.743" end="00:17:47.413"><span tts:color="#ececec" tts:textAlign="center"> Should I face the music</span><br/><span tts:color="#ececec" tts:textAlign="center"> for whoever did? </span></p>
+<p begin="00:17:47.413" end="00:17:51.813"><span tts:color="#ececec" tts:textAlign="center"> That would be really convenient, </span><br/><span tts:color="#ececec" tts:textAlign="center"> wouldn't it? For somebody else</span><span tts:color="#ececec" tts:textAlign="center">to just walk away, </span></p>
+<p begin="00:17:51.813" end="00:17:53.313"><span tts:color="#ececec" tts:textAlign="center"> and leave me in the frame. </span><br/></p>
+<p begin="00:17:53.313" end="00:17:54.863"><span tts:color="#00fffd" tts:textAlign="center"> You trying to say something? </span><br/></p>
+<p begin="00:17:54.863" end="00:17:58.283"><span tts:color="#ececec" tts:textAlign="center"> Are you not following me? Do</span><br/><span tts:color="#ececec" tts:textAlign="center"> I have to spell it out for you, Phil? </span></p>
+<p begin="00:17:58.283" end="00:17:59.503"><span tts:color="#ececec" tts:textAlign="center"> What if YOU killed him? </span><br/></p>
+<p begin="00:18:01.803" end="00:18:07.473"><span tts:color="#ececec" tts:textAlign="center"> Because I've always thought you were</span><br/><span tts:color="#ececec" tts:textAlign="center"> capable of it.</span><span tts:color="#00fffd" tts:textAlign="center">Well, if this is you</span><span tts:color="#00fffd" tts:textAlign="center"> trying to persuade me to help you, </span></p>
+<p begin="00:18:07.473" end="00:18:11.273"><span tts:color="#00fffd" tts:textAlign="center"> I'd hate to see you trying to hack</span><br/><span tts:color="#00fffd" tts:textAlign="center"> me off. </span></p>
+<p begin="00:18:11.273" end="00:18:13.573"><span tts:color="#00fffd" tts:textAlign="center"> I'm not a killer. </span><br/></p>
+<p begin="00:18:13.573" end="00:18:15.633"><span tts:color="#00fffd" tts:textAlign="center"> And I ain't helping you do a runner. </span><br/></p>
+<p begin="00:18:25.203" end="00:18:28.013"><span tts:color="#ffff00" tts:textAlign="center"> Granddad is completely right. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> You should not give in to her. </span></p>
+<p begin="00:18:28.013" end="00:18:30.033"><span tts:color="#ececec" tts:textAlign="center"> She's a good little girl at heart. </span><br/></p>
+<p begin="00:18:30.033" end="00:18:32.933"><span tts:color="#ffff00" tts:textAlign="center">Well, she hides it brilliantly! </span><br/></p>
+<p begin="00:18:32.933" end="00:18:35.093"><span tts:color="#ffff00" tts:textAlign="center"> Look, maybe you shouldn't have</span><br/><span tts:color="#ffff00" tts:textAlign="center"> smacked her, </span></p>
+<p begin="00:18:35.093" end="00:18:40.253"><span tts:color="#ffff00" tts:textAlign="center"> but the way she was behaving - </span><br/><span tts:color="#ffff00" tts:textAlign="center"> it was cruel. Now she's manipulating</span><span tts:color="#ffff00" tts:textAlign="center"> you, and you're letting her! </span></p>
+<p begin="00:18:40.253" end="00:18:44.093"><span tts:color="#ececec" tts:textAlign="center"> She don't mean to be bad, Sonia. </span><br/><span tts:color="#ececec" tts:textAlign="center"> I mean, she's had it hard, </span></p>
+<p begin="00:18:44.093" end="00:18:49.723"><span tts:color="#ececec" tts:textAlign="center"> you know, what with Nick, and losing</span><br/><span tts:color="#ececec" tts:textAlign="center"> her mother. What's wrong in giving</span><span tts:color="#ececec" tts:textAlign="center"> her the benefit of the doubt? </span></p>
+<p begin="00:18:49.723" end="00:18:52.483"><span tts:color="#ececec" tts:textAlign="left"> PHONE BLEEPS</span><br/><span tts:color="#ececec" tts:textAlign="center">What else should I be doing? </span></p>
+<p begin="00:18:56.283" end="00:18:58.013"><span tts:color="#ffff00" tts:textAlign="center"> I think you need a bit of a rest. </span><br/></p>
+<p begin="00:18:58.013" end="00:19:01.113"><span tts:color="#ffff00" tts:textAlign="center"> I'll take Dotty back to school. </span><br/><span tts:color="#ececec" tts:textAlign="center"> It's hardly worth it. </span></p>
+<p begin="00:19:01.113" end="00:19:04.863"><span tts:color="#ffff00" tts:textAlign="center"> She's got after-school club tonight, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> ain't she?</span><span tts:color="#ececec" tts:textAlign="center"> Oh, yes. </span><span tts:color="#ffff00" tts:textAlign="center"> I'll pick her up as well, </span></p>
+<p begin="00:19:04.863" end="00:19:08.943"><span tts:color="#ffff00" tts:textAlign="center"> look after her and you and Granddad</span><br/><span tts:color="#ffff00" tts:textAlign="center"> can have a night down the pub. </span></p>
+<p begin="00:19:08.943" end="00:19:12.923"><span tts:color="#ececec" tts:textAlign="center"> Ooh, Sonia, I don't feel up to it. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> She'll have a very hard time</span><span tts:color="#ffff00" tts:textAlign="center">trying to mess with me. </span></p>
+<p begin="00:19:16.303" end="00:19:18.593"><span tts:color="#00ff00" tts:textAlign="center"> Sorry, I have to run. It's my mum. </span><br/></p>
+<p begin="00:19:18.593" end="00:19:20.613"><span tts:color="#ececec" tts:textAlign="center"> Yeah, I know. </span><br/></p>
+<p begin="00:19:26.373" end="00:19:29.423"><span tts:color="#00ff00" tts:textAlign="center"> I'll see you at the party later, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> yeah.</span><span tts:color="#ececec" tts:textAlign="center"> Yeah, all right. </span></p>
+<p begin="00:19:29.423" end="00:19:31.163"><span tts:color="#ececec" tts:textAlign="center"> See ya. </span><br/></p>
+<p begin="00:19:32.563" end="00:19:34.023"><span tts:color="#00fffd" tts:textAlign="center"> He gone to see his mum? </span><br/></p>
+<p begin="00:19:34.023" end="00:19:37.063"><span tts:color="#ececec" tts:textAlign="center"> Yeah, well, not all of us are</span><br/><span tts:color="#ececec" tts:textAlign="center"> desperate to avoid our parents. </span></p>
+<p begin="00:19:38.093" end="00:19:39.973"><span tts:color="#00fffd" tts:textAlign="center"> Still fancy a ride out on the bike? </span><br/></p>
+<p begin="00:19:40.253" end="00:19:41.843"><span tts:color="#ececec" tts:textAlign="center"> No! No! </span><br/></p>
+<p begin="00:19:41.843" end="00:19:43.913"><span tts:color="#ececec" tts:textAlign="left"> SMOKE ALARM BLEEPS</span><br/></p>
+<p begin="00:19:43.913" end="00:19:47.383"><span tts:color="#00fffd" tts:textAlign="left"> Come on. Let's bounce before the</span><br/><span tts:color="#00fffd" tts:textAlign="left">fire brigade shut all the streets. </span></p>
+<p begin="00:19:48.313" end="00:19:49.533"><span tts:color="#ececec" tts:textAlign="center"> Hello. Zainab? </span><br/></p>
+<p begin="00:19:49.533" end="00:19:50.993"><span tts:color="#ececec" tts:textAlign="center"> Yeah, Mrs Masood? </span><br/></p>
+<p begin="00:19:50.993" end="00:19:53.383"><span tts:color="#ececec" tts:textAlign="center"> I think I'm going to need your help. </span><br/></p>
+<p begin="00:19:54.413" end="00:19:57.973"><span tts:color="#ececec" tts:textAlign="center"> You know you said not to make</span><br/><span tts:color="#ececec" tts:textAlign="center"> a korma too hot...? </span></p>
+<p begin="00:20:02.423" end="00:20:03.923"><span tts:color="#ffff00" tts:textAlign="center"> Minty? </span><br/></p>
+<p begin="00:20:03.923" end="00:20:05.103"><span tts:color="#ffff00" tts:textAlign="center"> I got your message. </span><br/></p>
+<p begin="00:20:08.243" end="00:20:09.223"><span tts:color="#ffff00" tts:textAlign="center"> Minty? </span><br/></p>
+<p begin="00:20:12.883" end="00:20:15.223"><span tts:color="#ffff00" tts:textAlign="center"> What's all this? </span><br/></p>
+<p begin="00:20:15.223" end="00:20:19.673"><span tts:color="#ececec" tts:textAlign="center"> Well, I wanted to spend some time</span><br/><span tts:color="#ececec" tts:textAlign="center"> with you, doing something you enjoy. </span></p>
+<p begin="00:20:19.673" end="00:20:20.893"><span tts:color="#ececec" tts:textAlign="center"> I want you to teach me. </span><br/></p>
+<p begin="00:20:26.943" end="00:20:30.043"><span tts:color="#ececec" tts:textAlign="center"> Yeah... It's a little bit cheesy, </span><br/><span tts:color="#ececec" tts:textAlign="center"> innit? </span></p>
+<p begin="00:20:30.043" end="00:20:34.543"><span tts:color="#ececec" tts:textAlign="center"> I should never have phoned Dawn and</span><br/><span tts:color="#ececec" tts:textAlign="center"> asked for her advice. I'll just go. </span></p>
+<p begin="00:20:34.543" end="00:20:37.353"><span tts:color="#ffff00" tts:textAlign="center"> No. Well, what's cheesy? </span><br/></p>
+<p begin="00:20:37.353" end="00:20:39.603"><span tts:color="#ececec" tts:textAlign="center">Well, you know, trying to, er... </span><br/></p>
+<p begin="00:20:39.603" end="00:20:42.133"><span tts:color="#ececec" tts:textAlign="center"> recreate that scene</span><br/><span tts:color="#ececec" tts:textAlign="center"> where he and she... </span></p>
+<p begin="00:20:42.133" end="00:20:45.793"><span tts:color="#ffff00" tts:textAlign="center"> Minty...I have no idea</span><br/><span tts:color="#ffff00" tts:textAlign="center"> what you're talking about. </span></p>
+<p begin="00:20:45.793" end="00:20:47.763"><span tts:color="#ececec" tts:textAlign="center"> Haven't you seen Ghost? </span><br/></p>
+<p begin="00:20:48.793" end="00:20:52.023"><span tts:color="#ececec" tts:textAlign="center"> I thought every woman had seen</span><br/><span tts:color="#ececec" tts:textAlign="center"> Ghost. I thought that was the law. </span></p>
+<p begin="00:20:52.023" end="00:20:54.043"><span tts:color="#ffff00" tts:textAlign="center"> Is that the one with, er... </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Patrick Swayze? </span></p>
+<p begin="00:20:55.073" end="00:20:59.243"><span tts:color="#ffff00" tts:textAlign="center"> I'm sorry, but...he never really</span><br/><span tts:color="#ffff00" tts:textAlign="center"> did it for me, so I never... </span></p>
+<p begin="00:21:00.603" end="00:21:01.583"><span tts:color="#ffff00" tts:textAlign="center"> But, er... </span><br/></p>
+<p begin="00:21:02.663" end="00:21:05.153"><span tts:color="#ffff00" tts:textAlign="center"> What exactly happens in this scene, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> then, eh? </span></p>
+<p begin="00:21:10.683" end="00:21:13.123"><span tts:color="#ececec" tts:textAlign="center">Jack! Wait up, will you? </span><br/></p>
+<p begin="00:21:13.123" end="00:21:14.153"><span tts:color="#ececec" tts:textAlign="center"> Cheers. </span><br/></p>
+<p begin="00:21:14.153" end="00:21:19.123"><span tts:color="#ececec" tts:textAlign="center"> Don't do this.</span><br/><span tts:color="#00fffd" tts:textAlign="center">We've said all we're</span><span tts:color="#00fffd" tts:textAlign="center"> going to say.</span><span tts:color="#ececec" tts:textAlign="center">We ain't, cos I ain't</span><span tts:color="#ececec" tts:textAlign="center"> said please, have I? </span></p>
+<p begin="00:21:19.123" end="00:21:23.203"><span tts:color="#ececec" tts:textAlign="center"> Please, Jack. Please don't do this to</span><br/><span tts:color="#ececec" tts:textAlign="center"> Bradley.</span><span tts:color="#00fffd" tts:textAlign="center"> Max...</span><span tts:color="#ececec" tts:textAlign="center"> I've never asked much</span><span tts:color="#ececec" tts:textAlign="center"> of you, have I? </span></p>
+<p begin="00:21:23.203" end="00:21:24.653"><span tts:color="#ececec" tts:textAlign="center"> As a brother. </span><br/></p>
+<p begin="00:21:25.683" end="00:21:27.183"><span tts:color="#ececec" tts:textAlign="center"> But just this once. For me... </span><br/></p>
+<p begin="00:21:28.163" end="00:21:29.243"><span tts:color="#ececec" tts:textAlign="center"> For your brother. </span><br/></p>
+<p begin="00:21:31.163" end="00:21:32.623"><span tts:color="#ececec" tts:textAlign="center"> Please walk away. </span><br/></p>
+<p begin="00:21:33.603" end="00:21:34.633"><span tts:color="#ececec" tts:textAlign="center"> Please. </span><br/></p>
+<p begin="00:21:44.103" end="00:21:46.963"><span tts:color="#ececec" tts:textAlign="left"> MUSIC: "Unchained Melody" </span><br/><span tts:color="#ececec" tts:textAlign="left"> by the Righteous Brothers</span></p>
+<p begin="00:21:46.963" end="00:21:50.153"><span tts:color="#ececec" tts:textAlign="center">This one... This is the one. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Make sure you don't make it too... </span></p>
+<p begin="00:21:50.153" end="00:21:51.653"><span tts:color="#ececec" tts:textAlign="left"> SHE CHUCKLES</span><br/></p>
+<p begin="00:21:51.653" end="00:21:53.903"><span tts:color="#ececec" tts:textAlign="left"> SHE SHRIEKS, THEY LAUGH </span><br/></p>
+<p begin="00:21:55.493" end="00:21:59.903"><span tts:color="#ececec" tts:textAlign="center">Well, at least that one didn't hit</span><br/><span tts:color="#ececec" tts:textAlign="center"> you.</span><span tts:color="#ffff00" tts:textAlign="center"> Yeah. Now I know why it's called</span><span tts:color="#ffff00" tts:textAlign="center"> throwing pots! </span></p>
+<p begin="00:21:59.903" end="00:22:01.963"><span tts:color="#ececec" tts:textAlign="center"> I'd forgotten how hard pottery was. </span><br/></p>
+<p begin="00:22:04.123" end="00:22:07.073"><span tts:color="#ececec" tts:textAlign="center"> You know what? I'm glad we did this. </span><br/></p>
+<p begin="00:22:08.573" end="00:22:11.763"><span tts:color="#ececec" tts:textAlign="center"> I was starting to worry that</span><br/><span tts:color="#ececec" tts:textAlign="center"> you was going off me, you know! </span></p>
+<p begin="00:22:11.763" end="00:22:12.983"><span tts:color="#ffff00" tts:textAlign="center"> Really? </span><br/></p>
+<p begin="00:22:14.013" end="00:22:16.733"><span tts:color="#ffff00" tts:textAlign="center"> Cos I was starting to worry</span><br/><span tts:color="#ffff00" tts:textAlign="center">that you were going off me. </span></p>
+<p begin="00:22:17.813" end="00:22:20.533"><span tts:color="#ececec" tts:textAlign="center"> What are you talking about? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Of course I haven't! </span></p>
+<p begin="00:22:22.823" end="00:22:24.893"><span tts:color="#ffff00" tts:textAlign="center"> Then why've you been visiting Sam? </span><br/></p>
+<p begin="00:22:25.973" end="00:22:27.093"><span tts:color="#ececec" tts:textAlign="center"> Sam?! </span><br/></p>
+<p begin="00:22:27.093" end="00:22:31.263"><span tts:color="#ececec" tts:textAlign="center">Well, Sam's just a friend, </span><br/><span tts:color="#ececec" tts:textAlign="center"> you know... I was just supporting</span><span tts:color="#ececec" tts:textAlign="center"> a friend.</span><span tts:color="#ffff00" tts:textAlign="center"> No, no, no. </span></p>
+<p begin="00:22:32.253" end="00:22:34.403"><span tts:color="#ffff00" tts:textAlign="center">What I was going to say is... </span><br/></p>
+<p begin="00:22:34.403" end="00:22:37.313"><span tts:color="#ffff00" tts:textAlign="center"> Why have you been visiting Sam </span><br/><span tts:color="#ffff00" tts:textAlign="center"> in secret? </span></p>
+<p begin="00:22:37.313" end="00:22:40.453"><span tts:color="#ffff00" tts:textAlign="center"> If this is all so innocent, </span><br/><span tts:color="#ffff00" tts:textAlign="center">then why didn't you just tell me? </span></p>
+<p begin="00:22:50.903" end="00:22:52.733"><span tts:color="#ffff00" tts:textAlign="center"> Do you still like Sam, Minty? </span><br/></p>
+<p begin="00:22:53.763" end="00:22:55.733"><span tts:color="#ffff00" tts:textAlign="center"> I mean, REALLY like her. </span><br/></p>
+<p begin="00:23:13.733" end="00:23:15.703"><span tts:color="#00fffd" tts:textAlign="center"> Er... That was all right, </span><br/></p>
+<p begin="00:23:15.703" end="00:23:19.173"><span tts:color="#00fffd" tts:textAlign="center"> but be a bit more gentle this time, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> yeah? Just keep the pressure off. </span></p>
+<p begin="00:23:25.693" end="00:23:26.673"><span tts:color="#00fffd" tts:textAlign="center"> Wait. Oi! Wait! </span><br/></p>
+<p begin="00:23:28.173" end="00:23:29.913"><span tts:color="#00fffd" tts:textAlign="center">What happened there? </span><br/></p>
+<p begin="00:23:29.913" end="00:23:32.023"><span tts:color="#ececec" tts:textAlign="center"> Your bag keeps hitting me! </span><br/></p>
+<p begin="00:23:32.023" end="00:23:34.033"><span tts:color="#ececec" tts:textAlign="center"> What's in it, anyway?</span><br/><span tts:color="#00fffd" tts:textAlign="right"> Don't. </span></p>
+<p begin="00:23:35.023" end="00:23:36.613"><span tts:color="#ececec" tts:textAlign="center"> Oh, it's a secret? </span><br/></p>
+<p begin="00:23:36.613" end="00:23:39.753"><span tts:color="#00fffd" tts:textAlign="center"> Yeah, it is, actually. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> It's a present for B at the wedding. </span></p>
+<p begin="00:23:39.753" end="00:23:41.633"><span tts:color="#00fffd" tts:textAlign="center"> I don't want you to spoil it</span><br/><span tts:color="#00fffd" tts:textAlign="center">for her. </span></p>
+<p begin="00:23:41.633" end="00:23:43.503"><span tts:color="#ececec" tts:textAlign="center"> You want to stop keeping it in there. </span><br/></p>
+<p begin="00:23:43.503" end="00:23:47.813"><span tts:color="#ececec" tts:textAlign="center"> In our house, three kids -</span><br/><span tts:color="#ececec" tts:textAlign="center"> always snooping around in</span><span tts:color="#ececec" tts:textAlign="center"> something they shouldn't. </span></p>
+<p begin="00:23:51.853" end="00:23:54.243"><span tts:color="#00fffd" tts:textAlign="center"> That's it, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> you're getting the hang of it now, </span></p>
+<p begin="00:23:54.243" end="00:23:57.523"><span tts:color="#00fffd" tts:textAlign="center">just keep it nice and steady. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Yep.</span><span tts:color="#00fffd" tts:textAlign="center"> Go on.</span><span tts:color="#ececec" tts:textAlign="right"> Oh! </span></p>
+<p begin="00:23:57.523" end="00:23:59.963"><span tts:color="#ececec" tts:textAlign="left"> BOTH LAUGH</span><br/></p>
+<p begin="00:24:04.463" end="00:24:06.993"><span tts:color="#ececec" tts:textAlign="center"> Todd. </span><br/><span tts:color="#ececec" tts:textAlign="center"> I thought I was meeting you there. </span></p>
+<p begin="00:24:14.023" end="00:24:18.903"><span tts:color="#ffff00" tts:textAlign="center"> Dad! Dad, where have you been? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Sorry, mate.</span><span tts:color="#ffff00" tts:textAlign="center"> I thought we were</span><span tts:color="#ffff00" tts:textAlign="center"> going to have to start without you! </span></p>
+<p begin="00:24:18.903" end="00:24:20.683"><span tts:color="#ececec" tts:textAlign="center"> I'm not even sure I should be here. </span><br/></p>
+<p begin="00:24:20.683" end="00:24:24.473"><span tts:color="#ececec" tts:textAlign="center"> Dad ain't exactly going to be</span><br/><span tts:color="#ececec" tts:textAlign="center"> to pleased to see me, is he? </span><span tts:color="#ececec" tts:textAlign="center">When is Dot due? </span></p>
+<p begin="00:24:24.473" end="00:24:28.553"><span tts:color="#ffff00" tts:textAlign="center"> I told Sonia seven o'clock, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> but she's not answering now. </span><span tts:color="#ffff00" tts:textAlign="center">Where's Uncle Jack? </span></p>
+<p begin="00:24:32.303" end="00:24:33.573"><span tts:color="#00fffd" tts:textAlign="center">What are you doing here? </span><br/></p>
+<p begin="00:24:33.573" end="00:24:36.053"><span tts:color="#ffff00" tts:textAlign="center"> Even a DCI's</span><br/><span tts:color="#ffff00" tts:textAlign="center"> allowed an after-work drink. </span></p>
+<p begin="00:24:37.413" end="00:24:41.493"><span tts:color="#ececec" tts:textAlign="center"> OK, bubbly for everybody! </span><br/><span tts:color="#ececec" tts:textAlign="center"> And Roxy's bringing the glasses. </span></p>
+<p begin="00:24:41.493" end="00:24:43.933"><span tts:color="#ffff00" tts:textAlign="center"> For the happy couple</span><br/><span tts:color="#ffff00" tts:textAlign="center"> and it's on the house. </span></p>
+<p begin="00:24:43.933" end="00:24:45.103"><span tts:color="#00fffd" tts:textAlign="center">Where are they? </span><br/></p>
+<p begin="00:24:45.103" end="00:24:47.403"><span tts:color="#00ff00" tts:textAlign="center"> Oh, I think they're here! </span><br/></p>
+<p begin="00:24:47.403" end="00:24:49.323"><span tts:color="#ececec" tts:textAlign="left"> CHEERING</span><br/></p>
+<p begin="00:24:49.323" end="00:24:51.243"><span tts:color="#00fffd" tts:textAlign="center"> Guys, you shouldn't have. </span><br/></p>
+<p begin="00:24:51.243" end="00:24:52.883"><span tts:color="#ffff00" tts:textAlign="center">Janine, you're not wanted here. </span><br/></p>
+<p begin="00:24:58.273" end="00:25:00.663"><span tts:color="#ececec" tts:textAlign="center"> Oh, it ain't even started yet. </span><br/></p>
+<p begin="00:25:00.663" end="00:25:03.803"><span tts:color="#ececec" tts:textAlign="center"> Look, I ain't sure I'm in</span><br/><span tts:color="#ececec" tts:textAlign="center">the party mood, anyway, so... </span></p>
+<p begin="00:25:03.803" end="00:25:07.043"><span tts:color="#ececec" tts:textAlign="center"> Do you want to go and talk somewhere? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Yeah, all right. </span></p>
+<p begin="00:25:08.073" end="00:25:09.993"><span tts:color="#ffff00" tts:textAlign="center"> Oh, look, here they are! </span><br/></p>
+<p begin="00:25:09.993" end="00:25:12.483"><span tts:color="#ececec" tts:textAlign="left"> CHEERING AND APPLAUSE</span><br/></p>
+<p begin="00:25:14.123" end="00:25:19.093"><span tts:color="#ececec" tts:textAlign="center"> It's very busy in here tonight, </span><br/><span tts:color="#ececec" tts:textAlign="center"> is there a special event? </span><span tts:color="#ffff00" tts:textAlign="center"> Grandma, where have you been? </span></p>
+<p begin="00:25:19.093" end="00:25:22.513"><span tts:color="#ececec" tts:textAlign="center"> Well, I was taking your grandfather</span><br/><span tts:color="#ececec" tts:textAlign="center">for a ride around the square, </span></p>
+<p begin="00:25:22.513" end="00:25:24.483"><span tts:color="#ececec" tts:textAlign="center"> get him some fresh air. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Is it a party? </span></p>
+<p begin="00:25:24.483" end="00:25:27.533"><span tts:color="#ececec" tts:textAlign="center"> You should have told me, </span><br/><span tts:color="#ececec" tts:textAlign="center"> I'd have put my glad rags on. </span></p>
+<p begin="00:25:27.533" end="00:25:30.343"><span tts:color="#ffff00" tts:textAlign="center"> Happy anniversary, you two! </span><br/><span tts:color="#ececec" tts:textAlign="left"> CHEERING</span></p>
+<p begin="00:25:30.343" end="00:25:32.543"><span tts:color="#ececec" tts:textAlign="left"> BILLY MOUTHS</span><br/></p>
+<p begin="00:25:32.543" end="00:25:33.673"><span tts:color="#ececec" tts:textAlign="center">There we go. </span><br/></p>
+<p begin="00:25:33.673" end="00:25:36.903"><span tts:color="#ececec" tts:textAlign="left"> MUSIC STARTS</span><br/></p>
+<p begin="00:25:40.423" end="00:25:42.903"><span tts:color="#ececec" tts:textAlign="left"> CLATTERING FROM KITCHEN</span><br/></p>
+<p begin="00:25:52.893" end="00:25:56.173"><span tts:color="#ececec" tts:textAlign="left"> KNOCK ON DOOR</span><br/></p>
+<p begin="00:25:56.173" end="00:25:57.713"><span tts:color="#ececec" tts:textAlign="center"> Hold on! </span><br/></p>
+<p begin="00:25:57.713" end="00:25:59.403"><span tts:color="#ececec" tts:textAlign="center">Just coming! </span><br/></p>
+<p begin="00:26:03.673" end="00:26:05.733"><span tts:color="#00ff00" tts:textAlign="center"> Here. Put this straight</span><br/><span tts:color="#00ff00" tts:textAlign="center"> into the oven. </span></p>
+<p begin="00:26:05.733" end="00:26:07.711"><span tts:color="#00ff00" tts:textAlign="center"> She'll never guess</span><br/><span tts:color="#00ff00" tts:textAlign="center"> you didn't cook it. </span></p>
+<p begin="00:26:07.711" end="00:26:09.351"><span tts:color="#ececec" tts:textAlign="center"> Cheers.</span><br/><span tts:color="#00ff00" tts:textAlign="center">Well, she might guess. </span></p>
+<p begin="00:26:09.351" end="00:26:11.881"><span tts:color="#ececec" tts:textAlign="center"> Oh, look, </span><br/><span tts:color="#ececec" tts:textAlign="center">thanks so much, seriously.</span><span tts:color="#00ff00" tts:textAlign="right"> Oh. </span></p>
+<p begin="00:26:11.881" end="00:26:12.911"><span tts:color="#ffff00" tts:textAlign="center"> Ricky! I'm ready! </span><br/></p>
+<p begin="00:26:12.911" end="00:26:14.691"><span tts:color="#ececec" tts:textAlign="left"> OK, take it. Take it! Go in there. </span><br/></p>
+<p begin="00:26:15.911" end="00:26:17.081"><span tts:color="#ffff00" tts:textAlign="center"> Surprise! </span><br/></p>
+<p begin="00:26:19.001" end="00:26:24.251"><span tts:color="#ececec" tts:textAlign="center"> Ooh, wow. You look amazing. </span><br/></p>
+<p begin="00:26:24.251" end="00:26:26.271"><span tts:color="#ffff00" tts:textAlign="center"> What are you wearing?</span><br/><span tts:color="#ececec" tts:textAlign="right"> Erm... </span></p>
+<p begin="00:26:26.271" end="00:26:29.601"><span tts:color="#ececec" tts:textAlign="center"> I was going to take it off soon as</span><br/><span tts:color="#ececec" tts:textAlign="center"> I've served up.</span><span tts:color="#ffff00" tts:textAlign="center">We're eating in? </span></p>
+<p begin="00:26:29.601" end="00:26:32.931"><span tts:color="#ececec" tts:textAlign="center"> Yeah.</span><br/><span tts:color="#ffff00" tts:textAlign="center"> When I said a night just</span><span tts:color="#ffff00" tts:textAlign="center">the two of us, I meant a night OUT. </span></p>
+<p begin="00:26:32.931" end="00:26:35.971"><span tts:color="#ffff00" tts:textAlign="center"> If we eat here, we've got Pat, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Billie, Whitney, the kids. </span></p>
+<p begin="00:26:35.971" end="00:26:38.371"><span tts:color="#ececec" tts:textAlign="center"> We've got to be here</span><br/><span tts:color="#ececec" tts:textAlign="center">for the kids, haven't we? </span></p>
+<p begin="00:26:38.371" end="00:26:39.961"><span tts:color="#ffff00" tts:textAlign="center"> I've asked Billie to baby-sit. </span><br/></p>
+<p begin="00:26:39.961" end="00:26:42.871"><span tts:color="#ececec" tts:textAlign="center"> Oh.</span><br/><span tts:color="#ffff00" tts:textAlign="center">What have you cooked, anyway? </span></p>
+<p begin="00:26:42.871" end="00:26:44.931"><span tts:color="#ececec" tts:textAlign="center"> I did us a curry. </span><br/></p>
+<p begin="00:26:44.931" end="00:26:46.711"><span tts:color="#ffff00" tts:textAlign="center"> A curry?</span><br/><span tts:color="#ececec" tts:textAlign="center"> Yeah. </span></p>
+<p begin="00:26:46.711" end="00:26:48.491"><span tts:color="#ffff00" tts:textAlign="center"> You, a curry? </span><br/></p>
+<p begin="00:26:48.491" end="00:26:51.491"><span tts:color="#ffff00" tts:textAlign="center"> Why can't we just go for a proper</span><br/><span tts:color="#ffff00" tts:textAlign="center"> curry like normal people? </span></p>
+<p begin="00:26:51.491" end="00:26:55.901"><span tts:color="#ffff00" tts:textAlign="center"> Is this what being married to</span><br/><span tts:color="#ffff00" tts:textAlign="center"> you is going to be like, Ricky? </span><span tts:color="#ffff00" tts:textAlign="center"> I don't know why I bother. </span></p>
+<p begin="00:27:01.431" end="00:27:03.541"><span tts:color="#00ff00" tts:textAlign="center"> (Did I just hear</span><br/><span tts:color="#00ff00" tts:textAlign="center"> what I thought I heard?) </span></p>
+<p begin="00:27:03.541" end="00:27:07.341"><span tts:color="#ececec" tts:textAlign="center"> Maybe she's right. Maybe I should</span><br/><span tts:color="#ececec" tts:textAlign="center"> have booked somewhere, or...</span><span tts:color="#00ff00" tts:textAlign="right"> No! No, </span></p>
+<p begin="00:27:07.341" end="00:27:10.051"><span tts:color="#00ff00" tts:textAlign="center"> you shouldn't have. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> It's time you knew the truth. </span></p>
+<p begin="00:27:10.051" end="00:27:12.771"><span tts:color="#00ff00" tts:textAlign="center"> Like I said earlier, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> I don't think she deserves you. </span></p>
+<p begin="00:27:12.771" end="00:27:17.701"><span tts:color="#ececec" tts:textAlign="center"> Yeah, and like I said</span><br/><span tts:color="#ececec" tts:textAlign="center"> earlier, I don't think... </span><span tts:color="#00ff00" tts:textAlign="center"> Ricky, you know her hen night? </span></p>
+<p begin="00:27:17.701" end="00:27:19.711"><span tts:color="#00ff00" tts:textAlign="center"> She slept with the stripper. </span><br/></p>
+<p begin="00:27:21.771" end="00:27:24.401"><span tts:color="#ececec" tts:textAlign="center"> ALL: Yeah! </span><br/></p>
+<p begin="00:27:24.401" end="00:27:28.851"><span tts:color="#ffff00" tts:textAlign="center"> Happy anniversary to Dot and Jim! </span><br/></p>
+<p begin="00:27:28.851" end="00:27:30.871"><span tts:color="#ececec" tts:textAlign="left"> CHEERING</span><br/></p>
+<p begin="00:27:33.781" end="00:27:36.171"><span tts:color="#ececec" tts:textAlign="center"> Do you hear that? </span><br/><span tts:color="#ececec" tts:textAlign="left"> SIRENS APPROACH</span></p>
+<p begin="00:27:38.511" end="00:27:41.041"><span tts:color="#ffff00" tts:textAlign="center"> Is that the police? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Are they coming here? </span></p>
+<p begin="00:27:41.041" end="00:27:43.431"><span tts:color="#ececec" tts:textAlign="center"> Don't look so worried, Bradley! </span><br/><span tts:color="#ececec" tts:textAlign="center"> It's lovely. </span></p>
+<p begin="00:27:43.431" end="00:27:47.041"><span tts:color="#ececec" tts:textAlign="center"> Come on, Jim. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Let's blow the candles out. </span></p>
+<p begin="00:27:47.041" end="00:27:50.751"><span tts:color="#ececec" tts:textAlign="center"> No, I don't want Dotty missing this. </span><br/><span tts:color="#ececec" tts:textAlign="center"> I think I'll go and fetch her. </span></p>
+<p begin="00:27:52.291" end="00:27:55.391"><span tts:color="#00ff00" tts:textAlign="center"> You heard what Peggy said earlier. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> You're not welcome here. </span></p>
+<p begin="00:27:55.391" end="00:27:59.891"><span tts:color="#00fffd" tts:textAlign="center">Well, I'm not leaving now! </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Not when there's police outside. </span></p>
+<p begin="00:27:59.891" end="00:28:03.401"><span tts:color="#00fffd" tts:textAlign="center"> Well, there's a textbook way</span><br/><span tts:color="#00fffd" tts:textAlign="center"> to come across as guilty, Pat. </span></p>
+<p begin="00:28:03.401" end="00:28:04.901"><span tts:color="#00fffd" tts:textAlign="center"> And I'm not guilty. </span><br/></p>
+<p begin="00:28:04.901" end="00:28:06.031"><span tts:color="#00fffd" tts:textAlign="center"> I didn't kill Archie. </span><br/></p>
+<p begin="00:28:19.901" end="00:28:23.231"><span tts:color="#ececec" tts:textAlign="center"> Looks like somebody's</span><br/><span tts:color="#ececec" tts:textAlign="center"> going to get their comeuppance. </span></p>
+<p begin="00:28:23.231" end="00:28:26.091"><span tts:color="#ffff00" tts:textAlign="center"> Sorry to break up the party, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> everyone. </span></p>
+<p begin="00:28:26.091" end="00:28:28.761"><span tts:color="#ffff00" tts:textAlign="center"> Is this the Branning table? </span><br/></p>
+<p begin="00:28:51.411" end="00:28:54.971"><span tts:color="#00fffd" tts:textAlign="center"> I'm Dorothy Branning - "Mrs". </span><br/><span tts:color="#00fffd" tts:textAlign="center"> And this is my husband, Jim. </span></p>
+<p begin="00:28:54.971" end="00:28:56.331"><span tts:color="#00fffd" tts:textAlign="center"> How can we help you? </span><br/></p>
+<p begin="00:28:56.331" end="00:28:58.861"><span tts:color="#00ff00" tts:textAlign="center"> Dorothy Branning? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> I'm sorry to have to tell you, </span></p>
+<p begin="00:28:58.861" end="00:29:00.411"><span tts:color="#00ff00" tts:textAlign="center"> there's been a complaint. </span><br/></p>
+<p begin="00:29:00.411" end="00:29:04.631"><span tts:color="#00ff00" tts:textAlign="center">We have to arrest you for</span><br/><span tts:color="#00ff00" tts:textAlign="center"> the assault of Dotty Cotton. </span></p>
+<p begin="00:29:04.631" end="00:29:07.391"><span tts:color="#00ff00" tts:textAlign="center"> You do not have to say anything, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> but it may harm your defence... </span></p>
+<p begin="00:29:07.391" end="00:29:09.131"><span tts:color="#ffff00" tts:textAlign="center"> Is this to do with you? </span><br/></p>
+<p begin="00:29:09.131" end="00:29:14.051"><span tts:color="#00ff00" tts:textAlign="center"> ..and anything you do say will</span><br/><span tts:color="#00ff00" tts:textAlign="center"> be given in evidence. </span><span tts:color="#00ff00" tts:textAlign="center"> I'm sorry, Mrs Branning, </span></p>
+<p begin="00:29:14.051" end="00:29:15.741"><span tts:color="#00ff00" tts:textAlign="center"> you're going to have</span><br/><span tts:color="#00ff00" tts:textAlign="center">to come with us. </span></p>
+<p begin="00:29:15.741" end="00:29:18.501"><span tts:color="#ececec" tts:textAlign="left">JIM PROTESTS</span><br/></p>
+<p begin="00:29:18.501" end="00:29:23.331"><span tts:color="#ececec" tts:textAlign="center"> It's all right, </span><br/><span tts:color="#ececec" tts:textAlign="center">Jim, it's all right. I'll go with</span><span tts:color="#ececec" tts:textAlign="center"> her.</span><span tts:color="#00fffd" tts:textAlign="center"> How can they arrest our Dot? </span></p>
+<p begin="00:29:23.331" end="00:29:28.961"><span tts:color="#00fffd" tts:textAlign="center"> She's the one you</span><br/><span tts:color="#00fffd" tts:textAlign="center"> should be arresting! She's the</span><span tts:color="#00fffd" tts:textAlign="center"> murderer round here!</span><span tts:color="#ececec" tts:textAlign="right"> You evil cow. </span></p>
+<p begin="00:29:28.961" end="00:29:30.221"><span tts:color="#00fffd" tts:textAlign="center"> Shut up!</span><br/><span tts:color="#ececec" tts:textAlign="center"> This is a mistake! </span></p>
+<p begin="00:29:30.221" end="00:29:33.081"><span tts:color="#ececec" tts:textAlign="center"> A stupid mistake!</span><br/><span tts:color="#ffff00" tts:textAlign="center">What's she</span><span tts:color="#ffff00" tts:textAlign="center"> supposed to have done anyway?! </span></p>
+<p begin="00:29:33.081" end="00:29:37.301"><span tts:color="#ececec" tts:textAlign="center"> You all right, Bradley? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> No, his grandma's just been</span><span tts:color="#00fffd" tts:textAlign="center"> arrested, what do you think? </span></p>
+<p begin="00:29:37.301" end="00:29:39.741"><span tts:color="#00ff00" tts:textAlign="center"> Why don't we just go</span><br/><span tts:color="#00ff00" tts:textAlign="center"> outside and get some air? </span></p>
+<p begin="00:29:39.741" end="00:29:42.131"><span tts:color="#ffff00" tts:textAlign="center"> For a minute, I thought</span><br/><span tts:color="#ffff00" tts:textAlign="center">they were coming for Ronnie. </span></p>
+<p begin="00:29:42.131" end="00:29:44.571"><span tts:color="#00ff00" tts:textAlign="center">Where is Ronnie?</span><br/><span tts:color="#00fffd" tts:textAlign="right"> I sent her</span><span tts:color="#00fffd" tts:textAlign="center"> to get some more champagne. </span></p>
+<p begin="00:29:44.571" end="00:29:48.971"><span tts:color="#ffff00" tts:textAlign="center"> I'll go and look, shall I? </span><br/><span tts:color="#00fffd" tts:textAlign="center"> No, you stay behind the bar. </span><span tts:color="#00fffd" tts:textAlign="center"> Come on, darling. </span></p>
+<p begin="00:29:48.971" end="00:29:51.971"><span tts:color="#ececec" tts:textAlign="center">Who are THEY to accuse me</span><br/><span tts:color="#ececec" tts:textAlign="center"> of anything? </span></p>
+<p begin="00:29:51.971" end="00:29:56.751"><span tts:color="#ececec" tts:textAlign="center"> If they're not careful, </span><br/><span tts:color="#ececec" tts:textAlign="center">their glasshouse</span><span tts:color="#ececec" tts:textAlign="center"> might just come tumbling down. </span></p>
+<p begin="00:30:06.741" end="00:30:10.911"><span tts:color="#ffff00" tts:textAlign="center"> I can't breathe in there, Dad. </span><br/><span tts:color="#ececec" tts:textAlign="center"> It's fine, they weren't</span><span tts:color="#ececec" tts:textAlign="center">there for you, were they? </span></p>
+<p begin="00:30:15.411" end="00:30:16.771"><span tts:color="#ececec" tts:textAlign="center">Where are you going? </span><br/></p>
+<p begin="00:30:16.771" end="00:30:19.771"><span tts:color="#ffff00" tts:textAlign="center"> Police station. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> See if I can get Dot out. </span></p>
+<p begin="00:30:19.771" end="00:30:24.321"><span tts:color="#ececec" tts:textAlign="center"> You think you can do that? </span><br/><span tts:color="#ffff00" tts:textAlign="center">Just take care of Dad, yeah? </span></p>
+<p begin="00:30:24.321" end="00:30:26.051"><span tts:color="#00fffd" tts:textAlign="center"> Bradley, I got you some water. </span><br/></p>
+<p begin="00:30:26.051" end="00:30:28.021"><span tts:color="#ffff00" tts:textAlign="center"> Cheers. </span><br/></p>
+<p begin="00:30:30.831" end="00:30:32.711"><span tts:color="#00fffd" tts:textAlign="center"> It's fine, OK, it's all fine. </span><br/></p>
+<p begin="00:30:32.711" end="00:30:36.461"><span tts:color="#00fffd" tts:textAlign="center"> Dot's going to be out in no time, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> all right? </span></p>
+<p begin="00:30:37.541" end="00:30:39.131"><span tts:color="#ececec" tts:textAlign="center"> 'On second thoughts Billy,'</span><br/></p>
+<p begin="00:30:39.131" end="00:30:43.541"><span tts:color="#ececec" tts:textAlign="center"> make it a double</span><br/><span tts:color="#ececec" tts:textAlign="center"> and whatever Pat's having. I'll pay</span><span tts:color="#ececec" tts:textAlign="center"> when I get back from the loo. </span></p>
+<p begin="00:30:43.541" end="00:30:46.351"><span tts:color="#ffff00" tts:textAlign="center">Jumpy, Mr Beale? </span><br/></p>
+<p begin="00:30:46.351" end="00:30:48.371"><span tts:color="#ffff00" tts:textAlign="center">That little scene</span><br/><span tts:color="#ffff00" tts:textAlign="center"> play on your nerves? </span></p>
+<p begin="00:30:48.371" end="00:30:52.591"><span tts:color="#ececec" tts:textAlign="center">What upright citizen wouldn't be, </span><br/><span tts:color="#ececec" tts:textAlign="center"> when the police</span><span tts:color="#ececec" tts:textAlign="center"> arrest a harmless old lady? </span></p>
+<p begin="00:30:52.591" end="00:30:56.201"><span tts:color="#ececec" tts:textAlign="center"> Especially with criminals</span><br/><span tts:color="#ececec" tts:textAlign="center"> on the streets.</span><span tts:color="#ffff00" tts:textAlign="center"> Like murderers? </span></p>
+<p begin="00:30:56.201" end="00:30:59.431"><span tts:color="#ffff00" tts:textAlign="center"> People who kill innocent</span><br/><span tts:color="#ffff00" tts:textAlign="center"> individuals on their own property? </span></p>
+<p begin="00:30:59.431" end="00:31:03.511"><span tts:color="#ececec" tts:textAlign="center"> You know as well as I do, </span><br/><span tts:color="#ececec" tts:textAlign="center"> the charges against me were dropped. </span></p>
+<p begin="00:31:03.511" end="00:31:05.621"><span tts:color="#ffff00" tts:textAlign="center"> Except the theft charges. </span><br/></p>
+<p begin="00:31:05.621" end="00:31:08.711"><span tts:color="#ffff00" tts:textAlign="center"> You think that leaves you off</span><br/><span tts:color="#ffff00" tts:textAlign="center"> our radar for the murder? </span></p>
+<p begin="00:31:08.711" end="00:31:11.101"><span tts:color="#ffff00" tts:textAlign="center"> I wouldn't relax</span><br/><span tts:color="#ffff00" tts:textAlign="center">just yet if I were you. </span></p>
+<p begin="00:31:17.851" end="00:31:22.031"><span tts:color="#00fffd" tts:textAlign="center"> Ronnie? Ronnie?</span><br/><span tts:color="#00ff00" tts:textAlign="center"> She tried to</span><span tts:color="#00ff00" tts:textAlign="center"> get me to help her do a runner</span></p>
+<p begin="00:31:22.031" end="00:31:24.601"><span tts:color="#00ff00" tts:textAlign="center"> but I didn't think</span><br/><span tts:color="#00ff00" tts:textAlign="center"> she'd actually do it. </span></p>
+<p begin="00:31:24.601" end="00:31:29.571"><span tts:color="#00fffd" tts:textAlign="center"> You knew?</span><br/><span tts:color="#ffff00" tts:textAlign="center"> I think you need to</span><span tts:color="#ffff00" tts:textAlign="center"> come and have a look at this... </span></p>
+<p begin="00:31:29.571" end="00:31:33.601"><span tts:color="#ffff00" tts:textAlign="center"> She's gone through everything - </span><br/><span tts:color="#ffff00" tts:textAlign="center"> mobile phone bills, </span></p>
+<p begin="00:31:33.601" end="00:31:36.841"><span tts:color="#ffff00" tts:textAlign="center"> credit card agreements, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Dad's insurance documents... </span></p>
+<p begin="00:31:36.841" end="00:31:40.071"><span tts:color="#00ff00" tts:textAlign="center">The important thing ain't what's</span><br/><span tts:color="#00ff00" tts:textAlign="center">there. It's what's missing. </span></p>
+<p begin="00:31:41.901" end="00:31:45.181"><span tts:color="#ffff00" tts:textAlign="center"> My passport.</span><br/><span tts:color="#00fffd" tts:textAlign="center"> She's trying</span><span tts:color="#00fffd" tts:textAlign="center"> to go abroad?! </span></p>
+<p begin="00:31:45.181" end="00:31:48.471"><span tts:color="#00fffd" tts:textAlign="center"> Oh, how could you let this happen? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Listen, she looks nothing like me. </span></p>
+<p begin="00:31:48.471" end="00:31:53.011"><span tts:color="#ffff00" tts:textAlign="center">They'll turn her round at the</span><br/><span tts:color="#ffff00" tts:textAlign="center"> airport.</span><span tts:color="#00fffd" tts:textAlign="center"> If she's caught doing a</span><span tts:color="#00fffd" tts:textAlign="center"> runner, it'll be a whole lot worse. </span></p>
+<p begin="00:31:53.011" end="00:31:55.731"><span tts:color="#00ff00" tts:textAlign="center"> Let's just hope she</span><br/><span tts:color="#00ff00" tts:textAlign="center"> don't get caught, eh? </span></p>
+<p begin="00:31:55.731" end="00:31:57.891"><span tts:color="#ececec" tts:textAlign="center"> Hello? </span><br/></p>
+<p begin="00:31:57.891" end="00:32:01.641"><span tts:color="#ececec" tts:textAlign="center"> Earth to Ricky? This was supposed</span><br/><span tts:color="#ececec" tts:textAlign="center"> to be a special night out, </span></p>
+<p begin="00:32:01.641" end="00:32:06.561"><span tts:color="#ececec" tts:textAlign="center"> you've said about two words</span><br/><span tts:color="#ececec" tts:textAlign="center"> to me all night. </span><span tts:color="#ececec" tts:textAlign="center"> And they were "rice" and "naan". </span></p>
+<p begin="00:32:06.561" end="00:32:08.901"><span tts:color="#ececec" tts:textAlign="center"> Are you crying? </span><br/></p>
+<p begin="00:32:08.901" end="00:32:12.701"><span tts:color="#00fffd" tts:textAlign="center"> No. It's the curry... </span><br/><span tts:color="#00fffd" tts:textAlign="center"> It's really hot. </span></p>
+<p begin="00:32:12.701" end="00:32:16.401"><span tts:color="#ececec" tts:textAlign="center"> I thought you ordered a pasanda? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Don't drink that, you need milk! </span></p>
+<p begin="00:32:16.401" end="00:32:19.921"><span tts:color="#ececec" tts:textAlign="center"> Waiter!</span><br/><span tts:color="#00fffd" tts:textAlign="center"> I'm all right. </span><span tts:color="#00fffd" tts:textAlign="center"> Leave it. Leave it. </span></p>
+<p begin="00:32:19.921" end="00:32:21.561"><span tts:color="#ececec" tts:textAlign="center"> You all right?</span><br/><span tts:color="#00fffd" tts:textAlign="right"> Yeah. </span></p>
+<p begin="00:32:21.561" end="00:32:23.441"><span tts:color="#ececec" tts:textAlign="center"> Oh, good. </span><br/></p>
+<p begin="00:32:23.441" end="00:32:27.471"><span tts:color="#ececec" tts:textAlign="center"> Anyway, how d'you fancy doing</span><br/><span tts:color="#ececec" tts:textAlign="center"> a bit of dancing later? </span></p>
+<p begin="00:32:27.471" end="00:32:30.841"><span tts:color="#ececec" tts:textAlign="center">We could go over to R&R, </span><br/><span tts:color="#ececec" tts:textAlign="center"> work on our moves if you like? </span></p>
+<p begin="00:32:30.841" end="00:32:36.521"><span tts:color="#00fffd" tts:textAlign="center"> You've been pulling enough moves</span><br/><span tts:color="#00fffd" tts:textAlign="center"> this week, I hear.</span><span tts:color="#ececec" tts:textAlign="center">What do you mean? </span></p>
+<p begin="00:32:38.341" end="00:32:40.411"><span tts:color="#00fffd" tts:textAlign="center"> I know about the stripper. </span><br/></p>
+<p begin="00:32:42.231" end="00:32:43.551"><span tts:color="#ececec" tts:textAlign="center"> Look... </span><br/></p>
+<p begin="00:32:43.551" end="00:32:46.081"><span tts:color="#00fffd" tts:textAlign="center"> Don't try and deny it. </span><br/><span tts:color="#ececec" tts:textAlign="center">Why would I deny it? </span></p>
+<p begin="00:32:47.771" end="00:32:52.221"><span tts:color="#ececec" tts:textAlign="center"> You've caught me bang to rights.</span><br/><span tts:color="#00fffd" tts:textAlign="right"> Huh? </span><span tts:color="#ececec" tts:textAlign="center"> I didn't mean for it</span><span tts:color="#ececec" tts:textAlign="center">to happen, did I? </span></p>
+<p begin="00:32:52.221" end="00:32:53.631"><span tts:color="#00fffd" tts:textAlign="center"> It's easy to say that</span><br/><span tts:color="#00fffd" tts:textAlign="center"> after the event. </span></p>
+<p begin="00:32:53.631" end="00:32:58.551"><span tts:color="#ececec" tts:textAlign="center">Well, I just thought... Well, look, </span><br/><span tts:color="#ececec" tts:textAlign="center"> it's not every day a girl</span></p>
+<p begin="00:32:58.551" end="00:33:02.211"><span tts:color="#ececec" tts:textAlign="center"> gets to have a stripper. And until</span><br/><span tts:color="#ececec" tts:textAlign="center"> next week, I'm officially single. </span></p>
+<p begin="00:33:02.211" end="00:33:06.851"><span tts:color="#00fffd" tts:textAlign="center"> So it's all right to go and sleep</span><br/><span tts:color="#00fffd" tts:textAlign="center"> with some oiled-up</span><span tts:color="#00fffd" tts:textAlign="center"> beefcake stripper, is it? </span></p>
+<p begin="00:33:06.851" end="00:33:10.881"><span tts:color="#ececec" tts:textAlign="center"> Ricky, Billie arranged for me</span><br/><span tts:color="#ececec" tts:textAlign="center">to have a stripper at my party. </span></p>
+<p begin="00:33:10.881" end="00:33:13.171"><span tts:color="#ececec" tts:textAlign="center"> I didn't sleep with him! Sit down. </span><br/></p>
+<p begin="00:33:16.031" end="00:33:20.070"><span tts:color="#ececec" tts:textAlign="center"> Aside from him being about 11 years</span><br/><span tts:color="#ececec" tts:textAlign="center"> old, I'd never cheat on you. </span></p>
+<p begin="00:33:21.200" end="00:33:23.070"><span tts:color="#00fffd" tts:textAlign="center">Then why did Zainab say that? </span><br/></p>
+<p begin="00:33:23.070" end="00:33:27.530"><span tts:color="#ececec" tts:textAlign="center"> Oh, Zainab? You going to</span><br/><span tts:color="#ececec" tts:textAlign="center"> believe that gossiping old bag?! </span></p>
+<p begin="00:33:27.530" end="00:33:30.290"><span tts:color="#ececec" tts:textAlign="center"> I never want to do anything with</span><br/><span tts:color="#ececec" tts:textAlign="center"> anyone other than you. </span></p>
+<p begin="00:33:30.290" end="00:33:32.120"><span tts:color="#ececec" tts:textAlign="center"> You're silly. </span><br/></p>
+<p begin="00:33:36.760" end="00:33:38.400"><span tts:color="#ffff00" tts:textAlign="center"> No, not in there. </span><br/></p>
+<p begin="00:33:38.400" end="00:33:40.000"><span tts:color="#ffff00" tts:textAlign="center"> In there. </span><br/></p>
+<p begin="00:33:40.000" end="00:33:44.400"><span tts:color="#ffff00" tts:textAlign="center"> I can re-use that. No need to let</span><br/><span tts:color="#ffff00" tts:textAlign="center"> something good go to waste. </span></p>
+<p begin="00:33:46.040" end="00:33:49.790"><span tts:color="#ececec" tts:textAlign="center"> Manda...you're right. We should</span><br/><span tts:color="#ececec" tts:textAlign="center"> be straight with each other. </span></p>
+<p begin="00:33:49.790" end="00:33:52.980"><span tts:color="#ececec" tts:textAlign="center"> This thing with Sam...</span><br/><span tts:color="#ffff00" tts:textAlign="right"> Yes? </span></p>
+<p begin="00:33:56.080" end="00:34:01.230"><span tts:color="#ececec" tts:textAlign="center"> I like you, you know. </span><br/><span tts:color="#ececec" tts:textAlign="center"> I really, really like you.</span><span tts:color="#ffff00" tts:textAlign="right"> But? </span></p>
+<p begin="00:34:03.250" end="00:34:05.360"><span tts:color="#ececec" tts:textAlign="center"> Yes, all right, </span><br/></p>
+<p begin="00:34:05.360" end="00:34:07.700"><span tts:color="#ececec" tts:textAlign="center"> I still do have some</span><br/><span tts:color="#ececec" tts:textAlign="center"> feelings for Sam. </span></p>
+<p begin="00:34:07.700" end="00:34:10.980"><span tts:color="#ffff00" tts:textAlign="center"> Right... </span><br/></p>
+<p begin="00:34:10.980" end="00:34:12.900"><span tts:color="#ffff00" tts:textAlign="center"> I understand. </span><br/></p>
+<p begin="00:34:14.170" end="00:34:16.800"><span tts:color="#ececec" tts:textAlign="center"> Look, I'm saying this</span><br/><span tts:color="#ececec" tts:textAlign="center"> because I want to be honest. </span></p>
+<p begin="00:34:16.800" end="00:34:19.510"><span tts:color="#ececec" tts:textAlign="center"> I want things to work out between us. </span><br/></p>
+<p begin="00:34:19.510" end="00:34:22.330"><span tts:color="#ececec" tts:textAlign="center"> I don't want to lose you. Manda, </span><br/></p>
+<p begin="00:34:22.330" end="00:34:26.640"><span tts:color="#ececec" tts:textAlign="center"> wait! Where you going? </span><br/></p>
+<p begin="00:34:26.640" end="00:34:28.420"><span tts:color="#ffff00" tts:textAlign="center"> I don't know. </span><br/></p>
+<p begin="00:34:33.720" end="00:34:37.840"><span tts:color="#00fffd" tts:textAlign="center">Why, Dotty? For the last time, why</span><br/><span tts:color="#00fffd" tts:textAlign="center"> would you say something like that? </span></p>
+<p begin="00:34:37.840" end="00:34:40.090"><span tts:color="#ececec" tts:textAlign="center"> It was the school! </span><br/><span tts:color="#ececec" tts:textAlign="center"> They put words into my mouth. </span></p>
+<p begin="00:34:40.090" end="00:34:43.560"><span tts:color="#00fffd" tts:textAlign="center"> No, they made you sit down on camera</span><br/><span tts:color="#00fffd" tts:textAlign="center"> and make those allegations. </span></p>
+<p begin="00:34:43.560" end="00:34:47.880"><span tts:color="#ececec" tts:textAlign="center">Well, they asked me why</span><br/><span tts:color="#ececec" tts:textAlign="center"> I wasn't in class this morning. </span><span tts:color="#ececec" tts:textAlign="center"> What was I supposed to say? </span></p>
+<p begin="00:34:47.880" end="00:34:51.440"><span tts:color="#00fffd" tts:textAlign="center"> Well, making up some line about</span><br/><span tts:color="#00fffd" tts:textAlign="center"> being an abused child is not it! </span></p>
+<p begin="00:34:51.440" end="00:34:53.920"><span tts:color="#ececec" tts:textAlign="center"> Grandma needed teaching a lesson. </span><br/></p>
+<p begin="00:34:53.920" end="00:34:57.020"><span tts:color="#ececec" tts:textAlign="center"> Maybe she'll buy me dresses</span><br/><span tts:color="#ececec" tts:textAlign="center"> straight off in future. </span></p>
+<p begin="00:34:57.020" end="00:35:00.300"><span tts:color="#00fffd" tts:textAlign="center"> Don't you get it, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> you stupid little girl? </span></p>
+<p begin="00:35:00.300" end="00:35:02.830"><span tts:color="#00fffd" tts:textAlign="center">These accusations</span><br/><span tts:color="#00fffd" tts:textAlign="center"> you've made are serious. </span></p>
+<p begin="00:35:02.830" end="00:35:06.810"><span tts:color="#00fffd" tts:textAlign="center"> The social worker only</span><br/><span tts:color="#00fffd" tts:textAlign="center"> let me bring you home</span><span tts:color="#00fffd" tts:textAlign="center"> because I'm here to care for you. </span></p>
+<p begin="00:35:06.810" end="00:35:11.080"><span tts:color="#00fffd" tts:textAlign="center"> And that won't last forever. They're</span><br/><span tts:color="#00fffd" tts:textAlign="center"> talking about putting you into care. </span></p>
+<p begin="00:35:11.080" end="00:35:15.820"><span tts:color="#00fffd" tts:textAlign="center"> Maybe your grandma and grandad</span><br/><span tts:color="#00fffd" tts:textAlign="center"> won't be around to buy you</span><span tts:color="#00fffd" tts:textAlign="center">these stupid dresses in future! </span></p>
+<p begin="00:35:15.820" end="00:35:18.110"><span tts:color="#ececec" tts:textAlign="center"> But... I didn't mean... </span><br/></p>
+<p begin="00:35:18.110" end="00:35:21.350"><span tts:color="#ececec" tts:textAlign="center"> Tell the school I'll take it back, </span><br/><span tts:color="#ececec" tts:textAlign="center"> I'll say it was a lie. </span></p>
+<p begin="00:35:21.350" end="00:35:24.580"><span tts:color="#00fffd" tts:textAlign="center"> It's too late. Your grandma's</span><br/><span tts:color="#00fffd" tts:textAlign="center"> already been arrested. </span></p>
+<p begin="00:35:28.140" end="00:35:31.750"><span tts:color="#00fffd" tts:textAlign="center"> I know what I did was wrong, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> but I didn't know it was illegal. </span></p>
+<p begin="00:35:31.750" end="00:35:33.960"><span tts:color="#00ff00" tts:textAlign="center"> Mrs Branning, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> you need to answer the question. </span></p>
+<p begin="00:35:33.960" end="00:35:38.410"><span tts:color="#00fffd" tts:textAlign="center"> I mean, I often got a smack</span><br/><span tts:color="#00fffd" tts:textAlign="center"> when I was naughty -</span><span tts:color="#00fffd" tts:textAlign="center"> it never done me any lasting damage. </span></p>
+<p begin="00:35:38.410" end="00:35:41.790"><span tts:color="#00fffd" tts:textAlign="center"> Anyway, I've apologised to Dotty, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> it's all forgiven and forgotten. </span></p>
+<p begin="00:35:41.790" end="00:35:46.150"><span tts:color="#00ff00" tts:textAlign="center"> Did you, or did you not, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> hit your granddaughter? </span></p>
+<p begin="00:35:48.400" end="00:35:50.130"><span tts:color="#00fffd" tts:textAlign="center"> Yes... </span><br/></p>
+<p begin="00:35:51.400" end="00:35:54.680"><span tts:color="#00fffd" tts:textAlign="center"> Yes, I'm afraid I did. </span><br/></p>
+<p begin="00:35:54.680" end="00:35:59.130"><span tts:color="#ececec" tts:textAlign="center"> No, I can't stay on hold - </span><br/><span tts:color="#ececec" tts:textAlign="center"> I need to speak to somebody on</span><span tts:color="#ececec" tts:textAlign="center">the Archie Mitchell murder case. </span></p>
+<p begin="00:36:01.010" end="00:36:02.970"><span tts:color="#00fffd" tts:textAlign="center"> I don't think so! </span><br/></p>
+<p begin="00:36:02.970" end="00:36:07.620"><span tts:color="#ececec" tts:textAlign="center"> You can stop me calling from here, </span><br/><span tts:color="#ececec" tts:textAlign="center"> but you can't stop me calling. </span><span tts:color="#00ff00" tts:textAlign="center"> You reckon? </span></p>
+<p begin="00:36:07.620" end="00:36:11.460"><span tts:color="#ececec" tts:textAlign="center">When they realise that Ronnie</span><br/><span tts:color="#ececec" tts:textAlign="center"> has conveniently vanished... </span><span tts:color="#ffff00" tts:textAlign="center">Janine, please. </span></p>
+<p begin="00:36:11.460" end="00:36:15.160"><span tts:color="#ececec" tts:textAlign="center"> ..she'll get what's coming to her</span><br/><span tts:color="#ececec" tts:textAlign="center">for killing Archie.</span><span tts:color="#00fffd" tts:textAlign="right"> Ronnie?! </span></p>
+<p begin="00:36:15.160" end="00:36:19.850"><span tts:color="#00fffd" tts:textAlign="center"> You're the killer! in our midst, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> darling.</span><span tts:color="#ececec" tts:textAlign="center"> How many times? </span><span tts:color="#ececec" tts:textAlign="center"> I didn't kill Archie! </span></p>
+<p begin="00:36:19.850" end="00:36:23.600"><span tts:color="#ececec" tts:textAlign="center"> As far as I'm concerned, before he</span><br/><span tts:color="#ececec" tts:textAlign="center"> died, I was the one that he loved! </span></p>
+<p begin="00:36:23.600" end="00:36:25.990"><span tts:color="#ffff00" tts:textAlign="center"> Oh, yeah, I can see</span><br/><span tts:color="#ffff00" tts:textAlign="center"> why you thought that(!) </span></p>
+<p begin="00:36:25.990" end="00:36:28.050"><span tts:color="#ececec" tts:textAlign="left"> He gave me his mum's engagement ring! </span><br/></p>
+<p begin="00:36:28.050" end="00:36:29.700"><span tts:color="#00fffd" tts:textAlign="center"> But you haven't got it now, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> have you? </span></p>
+<p begin="00:36:29.700" end="00:36:33.590"><span tts:color="#ececec" tts:textAlign="center"> No, because whoever does have it</span><br/><span tts:color="#ececec" tts:textAlign="center"> is probably the one that killed him. </span></p>
+<p begin="00:36:33.590" end="00:36:37.010"><span tts:color="#ececec" tts:textAlign="center"> Phil? Seen your mum with any new</span><br/><span tts:color="#ececec" tts:textAlign="center"> rings recently?</span><span tts:color="#00fffd" tts:textAlign="center"> Oh, you're pathetic! </span></p>
+<p begin="00:36:37.010" end="00:36:38.650"><span tts:color="#ececec" tts:textAlign="center"> Suddenly, it all makes sense. </span><br/></p>
+<p begin="00:36:38.650" end="00:36:41.740"><span tts:color="#ececec" tts:textAlign="center"> I don't know why I thought Ronnie</span><br/><span tts:color="#ececec" tts:textAlign="center"> was the one that killed him. </span></p>
+<p begin="00:36:41.740" end="00:36:44.370"><span tts:color="#ececec" tts:textAlign="center">There's more than one</span><br/><span tts:color="#ececec" tts:textAlign="center"> cold-hearted witch in this family. </span></p>
+<p begin="00:36:44.370" end="00:36:46.520"><span tts:color="#ffff00" tts:textAlign="center">Janine, listen, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> we can talk about this. </span></p>
+<p begin="00:36:46.520" end="00:36:51.730"><span tts:color="#ffff00" tts:textAlign="center"> What will you gain by giving Ronnie</span><br/><span tts:color="#ffff00" tts:textAlign="center"> grief?</span><span tts:color="#ececec" tts:textAlign="center"> Oh, endless satisfaction? </span><span tts:color="#ececec" tts:textAlign="center"> Maybe just a bit of justice! </span></p>
+<p begin="00:36:51.730" end="00:36:54.540"><span tts:color="#ececec" tts:textAlign="center">What are you going to do? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Lock me in a cellar? </span></p>
+<p begin="00:36:54.540" end="00:36:59.090"><span tts:color="#00ff00" tts:textAlign="left">Well, it had crossed my mind, yeah. </span><br/><span tts:color="#ececec" tts:textAlign="left"> PHONE RINGS</span></p>
+<p begin="00:37:01.150" end="00:37:03.030"><span tts:color="#00ff00" tts:textAlign="center"> Hello. </span><br/></p>
+<p begin="00:37:03.780" end="00:37:06.210"><span tts:color="#00ff00" tts:textAlign="center"> Grant? What did I tell you</span><br/><span tts:color="#00ff00" tts:textAlign="center"> about going to Grant? </span></p>
+<p begin="00:37:06.210" end="00:37:09.500"><span tts:color="#00ff00" tts:textAlign="center"> I thought I made it clear!</span><br/><span tts:color="#ffff00" tts:textAlign="right"> Phil! </span><span tts:color="#00fffd" tts:textAlign="center">We don't have time for all this! </span></p>
+<p begin="00:37:09.500" end="00:37:11.930"><span tts:color="#00fffd" tts:textAlign="center"> Look, she's gone! Get after her! </span><br/></p>
+<p begin="00:37:11.930" end="00:37:15.500"><span tts:color="#ececec" tts:textAlign="center">That the post? </span><br/></p>
+<p begin="00:37:15.500" end="00:37:18.870"><span tts:color="#00fffd" tts:textAlign="center"> Here. Did you hear about</span><br/><span tts:color="#00fffd" tts:textAlign="center">them arresting Dot? </span></p>
+<p begin="00:37:18.870" end="00:37:21.360"><span tts:color="#ececec" tts:textAlign="center"> I was there.</span><br/><span tts:color="#00ff00" tts:textAlign="center"> So what happened? </span><span tts:color="#00fffd" tts:textAlign="center"> We couldn't ask Max, </span></p>
+<p begin="00:37:21.360" end="00:37:24.030"><span tts:color="#00fffd" tts:textAlign="center"> but they said the place</span><br/><span tts:color="#00fffd" tts:textAlign="center"> was crawling with police. </span></p>
+<p begin="00:37:24.030" end="00:37:25.570"><span tts:color="#ececec" tts:textAlign="center"> I thought they'd come for me. </span><br/></p>
+<p begin="00:37:25.570" end="00:37:29.930"><span tts:color="#00fffd" tts:textAlign="center"> You've been cleared, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> you're out of the picture. </span><span tts:color="#ececec" tts:textAlign="center"> That's what I thought as well. </span></p>
+<p begin="00:37:29.930" end="00:37:32.470"><span tts:color="#ececec" tts:textAlign="center"> Great(!)</span><br/><span tts:color="#00fffd" tts:textAlign="center">What? Is something wrong? </span></p>
+<p begin="00:37:32.470" end="00:37:34.900"><span tts:color="#ececec" tts:textAlign="center"> Birthday card from Michelle. </span><br/></p>
+<p begin="00:37:34.900" end="00:37:37.290"><span tts:color="#00fffd" tts:textAlign="center"> I thought you liked Michelle! </span><br/><span tts:color="#ececec" tts:textAlign="center"> Yeah, I do. </span></p>
+<p begin="00:37:37.290" end="00:37:40.530"><span tts:color="#ececec" tts:textAlign="center"> I could just do without her</span><br/><span tts:color="#ececec" tts:textAlign="center"> reminding me of how old I've become. </span></p>
+<p begin="00:37:40.530" end="00:37:44.280"><span tts:color="#ececec" tts:textAlign="center"> A 40-something with a criminal record</span><br/><span tts:color="#ececec" tts:textAlign="center"> and a murder charge</span><span tts:color="#ececec" tts:textAlign="center"> hanging over my head. </span></p>
+<p begin="00:37:44.280" end="00:37:46.440"><span tts:color="#00fffd" tts:textAlign="center"> Why don't we go for a drink later, </span><br/></p>
+<p begin="00:37:46.440" end="00:37:48.030"><span tts:color="#00fffd" tts:textAlign="center"> once Cheryl's come back, </span><br/></p>
+<p begin="00:37:48.030" end="00:37:52.300"><span tts:color="#00fffd" tts:textAlign="center"> and I can get some anaesthetic</span><br/><span tts:color="#00fffd" tts:textAlign="center"> while you tell me all about</span><span tts:color="#00fffd" tts:textAlign="center">the good old bad old days? </span></p>
+<p begin="00:37:52.300" end="00:37:55.860"><span tts:color="#ececec" tts:textAlign="center"> Do you know what? I remember when I</span><br/><span tts:color="#ececec" tts:textAlign="center"> was their age, hanging out in here. </span></p>
+<p begin="00:37:55.860" end="00:37:58.060"><span tts:color="#ececec" tts:textAlign="center"> Best days of my life. </span><br/></p>
+<p begin="00:37:58.060" end="00:37:59.280"><span tts:color="#00fffd" tts:textAlign="center">Thanks very much. </span><br/></p>
+<p begin="00:38:01.250" end="00:38:06.870"><span tts:color="#ffff00" tts:textAlign="center"> It's not you, it's me.</span><br/><span tts:color="#ececec" tts:textAlign="right"> Please don't</span><span tts:color="#ececec" tts:textAlign="center"> say that. Look, whatever's wrong, </span><span tts:color="#ececec" tts:textAlign="center"> it can change. </span></p>
+<p begin="00:38:06.870" end="00:38:11.140"><span tts:color="#ececec" tts:textAlign="center"> I can change. Just tell me what</span><br/><span tts:color="#ececec" tts:textAlign="center"> you want. I can be that person. </span><span tts:color="#ffff00" tts:textAlign="center"> No, you can't.</span><span tts:color="#ececec" tts:textAlign="center">Try me! </span></p>
+<p begin="00:38:13.390" end="00:38:14.800"><span tts:color="#ececec" tts:textAlign="center">Whit, I want to be with you. </span><br/></p>
+<p begin="00:38:14.800" end="00:38:18.730"><span tts:color="#ececec" tts:textAlign="center"> If you want a guy with a bike, </span><br/><span tts:color="#ececec" tts:textAlign="center"> well, I could get a bike. </span></p>
+<p begin="00:38:18.730" end="00:38:21.780"><span tts:color="#ffff00" tts:textAlign="center">That's kind of not how it works. </span><br/></p>
+<p begin="00:38:24.450" end="00:38:27.780"><span tts:color="#ececec" tts:textAlign="center"> Don't break up with me. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Please, Whitney. </span></p>
+<p begin="00:38:27.780" end="00:38:30.970"><span tts:color="#ececec" tts:textAlign="center"> I love you. </span><br/></p>
+<p begin="00:38:32.940" end="00:38:34.810"><span tts:color="#ffff00" tts:textAlign="center"> I'm really sorry. </span><br/></p>
+<p begin="00:38:37.580" end="00:38:40.720"><span tts:color="#ececec" tts:textAlign="center"> How are you feeling? </span><br/><span tts:color="#ececec" tts:textAlign="center"> D'you want a cup of tea? </span></p>
+<p begin="00:38:40.720" end="00:38:42.830"><span tts:color="#ffff00" tts:textAlign="center"> No, no, I think I'll be all right. </span><br/></p>
+<p begin="00:38:42.830" end="00:38:45.080"><span tts:color="#ececec" tts:textAlign="center"> You'll be fine, Bradley. </span><br/><span tts:color="#ececec" tts:textAlign="center">Just act normal. </span></p>
+<p begin="00:38:45.080" end="00:38:49.440"><span tts:color="#00ff00" tts:textAlign="center"> Hey. You guys finished</span><br/><span tts:color="#00ff00" tts:textAlign="center"> with your, uh, quality time? </span></p>
+<p begin="00:38:49.440" end="00:38:51.920"><span tts:color="#00fffd" tts:textAlign="center"> Can I steal him for some</span><br/><span tts:color="#00fffd" tts:textAlign="center"> quality time of our own? </span></p>
+<p begin="00:38:51.920" end="00:38:56.470"><span tts:color="#ececec" tts:textAlign="center"> Yeah, course you can. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Go on, you guys should go home. As</span><span tts:color="#ececec" tts:textAlign="center"> soon as I hear anything about Dot... </span></p>
+<p begin="00:38:56.470" end="00:38:59.940"><span tts:color="#00ff00" tts:textAlign="center">Where you off to?</span><br/><span tts:color="#ececec" tts:textAlign="center"> Sonia's looking</span><span tts:color="#ececec" tts:textAlign="center"> after Dotty and my old man</span><span tts:color="#ececec" tts:textAlign="center"> on her own so... </span></p>
+<p begin="00:38:59.940" end="00:39:05.380"><span tts:color="#00fffd" tts:textAlign="center">Well, Becca can help.</span><br/><span tts:color="#ececec" tts:textAlign="right"> No, it's fine. </span><span tts:color="#00fffd" tts:textAlign="center"> I would help you, but I'm knackered. </span><span tts:color="#00ff00" tts:textAlign="center"> Yeah, I'd be happy to help out. </span></p>
+<p begin="00:39:05.380" end="00:39:08.990"><span tts:color="#ececec" tts:textAlign="center"> Right. Well, in that case, yeah. </span><br/><span tts:color="#ececec" tts:textAlign="center">That'd be great, thanks. </span></p>
+<p begin="00:39:14.100" end="00:39:18.180"><span tts:color="#ffff00" tts:textAlign="center"> This is something to</span><br/><span tts:color="#ffff00" tts:textAlign="center"> do with you, innit?</span><span tts:color="#00fffd" tts:textAlign="right"> I'm sorry? </span><span tts:color="#ffff00" tts:textAlign="center"> Dot Branning. My step-mum. </span></p>
+<p begin="00:39:18.180" end="00:39:23.850"><span tts:color="#ffff00" tts:textAlign="center"> What were you hoping to achieve, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> sending in uniform? Some miracle, </span><span tts:color="#ffff00" tts:textAlign="center"> spontaneous murder confession? </span></p>
+<p begin="00:39:23.850" end="00:39:25.580"><span tts:color="#00fffd" tts:textAlign="center"> Why, you offering me one? </span><br/></p>
+<p begin="00:39:25.580" end="00:39:28.960"><span tts:color="#ffff00" tts:textAlign="center"> It's low, all right? Dragging a</span><br/><span tts:color="#ffff00" tts:textAlign="center"> 70-year-old woman into custody</span></p>
+<p begin="00:39:28.960" end="00:39:32.710"><span tts:color="#ffff00" tts:textAlign="center"> out of her own party</span><br/><span tts:color="#ffff00" tts:textAlign="center"> because you want to rattle</span><span tts:color="#ffff00" tts:textAlign="center"> a few of your suspects. </span></p>
+<p begin="00:39:32.710" end="00:39:36.880"><span tts:color="#ffff00" tts:textAlign="center"> Why do you need to resort</span><br/><span tts:color="#ffff00" tts:textAlign="center">to something as tenuous as that? </span><span tts:color="#ffff00" tts:textAlign="center"> You've got your new witness. </span></p>
+<p begin="00:39:38.470" end="00:39:40.870"><span tts:color="#ffff00" tts:textAlign="center"> Or have you? </span><br/></p>
+<p begin="00:39:42.600" end="00:39:45.930"><span tts:color="#ffff00" tts:textAlign="center"> Oh, right, yeah, just as I thought, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> desperate measures, eh? </span></p>
+<p begin="00:39:45.930" end="00:39:48.830"><span tts:color="#ffff00" tts:textAlign="center"> You don't have anything at all. </span><br/></p>
+<p begin="00:39:50.900" end="00:39:51.930"><span tts:color="#ececec" tts:textAlign="center">Wait! </span><br/></p>
+<p begin="00:39:53.900" end="00:39:58.120"><span tts:color="#ececec" tts:textAlign="center"> I have to tell you something! </span><br/><span tts:color="#ffff00" tts:textAlign="center">Janine... Janine, don't. </span><span tts:color="#ececec" tts:textAlign="center"> I've got information. </span></p>
+<p begin="00:39:58.120" end="00:40:00.650"><span tts:color="#ececec" tts:textAlign="center"> It's about Ronnie Mitchell. </span><br/></p>
+<p begin="00:40:02.950" end="00:40:05.240"><span tts:color="#00fffd" tts:textAlign="center"> Thank you. </span><br/></p>
+<p begin="00:40:08.800" end="00:40:11.290"><span tts:color="#00fffd" tts:textAlign="center"> And you were complaining</span><br/><span tts:color="#00fffd" tts:textAlign="center"> about me not talking. </span></p>
+<p begin="00:40:11.290" end="00:40:14.480"><span tts:color="#00fffd" tts:textAlign="center"> Can we save the sitting in silence</span><br/><span tts:color="#00fffd" tts:textAlign="center"> until after we get married? </span></p>
+<p begin="00:40:14.480" end="00:40:20.150"><span tts:color="#ececec" tts:textAlign="center"> Well, that's the brilliant thing</span><br/><span tts:color="#ececec" tts:textAlign="center"> about us, Ricky, we don't need to</span><span tts:color="#ececec" tts:textAlign="center"> say nothing to each other.</span><span tts:color="#00fffd" tts:textAlign="right"> Right. </span></p>
+<p begin="00:40:20.150" end="00:40:21.700"><span tts:color="#00fffd" tts:textAlign="center"> I'm not sure I get that. </span><br/></p>
+<p begin="00:40:24.270" end="00:40:26.950"><span tts:color="#00fffd" tts:textAlign="center"> You do love me, don't you? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Oh, you big dope. </span></p>
+<p begin="00:40:26.950" end="00:40:29.670"><span tts:color="#ececec" tts:textAlign="center"> Of course I love ya. </span><br/><span tts:color="#ececec" tts:textAlign="center"> You're the love of my life! </span></p>
+<p begin="00:40:29.670" end="00:40:30.790"><span tts:color="#ececec" tts:textAlign="left">TEXT MESSAGE BEEPS</span><br/></p>
+<p begin="00:40:30.790" end="00:40:33.650"><span tts:color="#00fffd" tts:textAlign="center"> I'm going to confiscate</span><br/><span tts:color="#00fffd" tts:textAlign="center">that phone in a minute. </span></p>
+<p begin="00:40:33.650" end="00:40:39.840"><span tts:color="#ececec" tts:textAlign="center"> It's Zainab. Now I know how the</span><br/><span tts:color="#ececec" tts:textAlign="center"> rumour started. She saw someone</span><span tts:color="#ececec" tts:textAlign="center"> with the stripper...in our bed! </span></p>
+<p begin="00:40:42.090" end="00:40:46.730"><span tts:color="#ececec" tts:textAlign="center"> If I don't get to the bottom of</span><br/><span tts:color="#ececec" tts:textAlign="center"> this...</span><span tts:color="#00fffd" tts:textAlign="center"> Someone round here is in</span><span tts:color="#00fffd" tts:textAlign="center"> danger of having a private life. </span></p>
+<p begin="00:40:46.730" end="00:40:50.340"><span tts:color="#ececec" tts:textAlign="center"> Yeah, exactly. So if I didn't</span><br/><span tts:color="#ececec" tts:textAlign="center"> bag the stripper, then who did?! </span></p>
+<p begin="00:40:52.400" end="00:40:56.110"><span tts:color="#00ff00" tts:textAlign="center"> Sonia's taking Dotty</span><br/><span tts:color="#00ff00" tts:textAlign="center"> a hot chocolate, </span><span tts:color="#00ff00" tts:textAlign="center"> maybe that'll get her to sleep. </span></p>
+<p begin="00:40:56.110" end="00:41:00.890"><span tts:color="#00ff00" tts:textAlign="center"> Here you are, I made us some tea. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Milk, no sugar?</span><span tts:color="#ececec" tts:textAlign="center"> Lovely, cheers. </span></p>
+<p begin="00:41:00.890" end="00:41:03.890"><span tts:color="#ececec" tts:textAlign="center"> I could get used to this. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Yeah, well, don't. </span></p>
+<p begin="00:41:03.890" end="00:41:05.950"><span tts:color="#00ff00" tts:textAlign="center"> I've heard all about</span><br/><span tts:color="#00ff00" tts:textAlign="center"> your dubious charms. </span></p>
+<p begin="00:41:05.950" end="00:41:08.670"><span tts:color="#ececec" tts:textAlign="center"> Stacey warn you off, did she? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> No, not just Stacey. </span></p>
+<p begin="00:41:08.670" end="00:41:12.330"><span tts:color="#00ff00" tts:textAlign="center"> You should've seen the faces</span><br/><span tts:color="#00ff00" tts:textAlign="center"> your dad was pulling</span><span tts:color="#00ff00" tts:textAlign="center"> when I put the kettle on. </span></p>
+<p begin="00:41:12.330" end="00:41:14.250"><span tts:color="#00ff00" tts:textAlign="center"> As if I needed any warning. </span><br/></p>
+<p begin="00:41:14.250" end="00:41:17.760"><span tts:color="#ececec" tts:textAlign="center"> You certainly know how to make</span><br/><span tts:color="#ececec" tts:textAlign="center"> a geezer feel good about himself. </span></p>
+<p begin="00:41:17.760" end="00:41:20.720"><span tts:color="#00ff00" tts:textAlign="center">Well, when I go for the old, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> ginger... </span></p>
+<p begin="00:41:20.720" end="00:41:23.860"><span tts:color="#ececec" tts:textAlign="center"> All right, don't hold back. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Blimey, what happened to balding? </span></p>
+<p begin="00:41:23.860" end="00:41:27.190"><span tts:color="#00ff00" tts:textAlign="center">Well, when I go for the old, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> ginger, balding type... </span></p>
+<p begin="00:41:27.190" end="00:41:29.540"><span tts:color="#00ff00" tts:textAlign="center"> I'll let you know. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Thank you very much. </span></p>
+<p begin="00:41:29.540" end="00:41:31.130"><span tts:color="#ececec" tts:textAlign="left"> PHONE RINGS</span><br/></p>
+<p begin="00:41:31.130" end="00:41:33.430"><span tts:color="#ececec" tts:textAlign="center"> You all right, Jack? </span><br/><span tts:color="#ececec" tts:textAlign="center"> What's happening? </span></p>
+<p begin="00:41:33.430" end="00:41:35.860"><span tts:color="#ececec" tts:textAlign="center"> Well, how's Dot? </span><br/></p>
+<p begin="00:41:37.970" end="00:41:39.430"><span tts:color="#ececec" tts:textAlign="center"> Who's gone? </span><br/></p>
+<p begin="00:41:43.970" end="00:41:49.180"><span tts:color="#00ff00" tts:textAlign="center"> Mrs Branning. </span><br/><span tts:color="#00ff00" tts:textAlign="center">We're releasing you without charge. </span></p>
+<p begin="00:41:49.180" end="00:41:53.120"><span tts:color="#00fffd" tts:textAlign="center"> Why? I told you, I'm guilty. </span><br/></p>
+<p begin="00:41:53.120" end="00:41:55.600"><span tts:color="#00ff00" tts:textAlign="center"> You're not the parent, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> but you are the main carer</span></p>
+<p begin="00:41:55.600" end="00:41:58.980"><span tts:color="#00ff00" tts:textAlign="center"> so we're seeing this as a smack from </span><br/><span tts:color="#00ff00" tts:textAlign="center"> a person in a parenting role, </span></p>
+<p begin="00:41:58.980" end="00:42:02.910"><span tts:color="#00ff00" tts:textAlign="center"> as opposed to assault.</span><br/><span tts:color="#00fffd" tts:textAlign="right"> Assault? </span><span tts:color="#00ff00" tts:textAlign="center"> At this time. </span></p>
+<p begin="00:42:02.910" end="00:42:05.730"><span tts:color="#00ff00" tts:textAlign="center"> But I have to warn you, </span><br/><span tts:color="#00ff00" tts:textAlign="center">this mustn't happen again. </span></p>
+<p begin="00:42:05.730" end="00:42:08.260"><span tts:color="#00fffd" tts:textAlign="center"> No. </span><br/></p>
+<p begin="00:42:08.260" end="00:42:10.180"><span tts:color="#00fffd" tts:textAlign="center"> I suppose I must thank you, </span><br/></p>
+<p begin="00:42:10.180" end="00:42:14.210"><span tts:color="#00fffd" tts:textAlign="center"> for being so vigilant</span><br/><span tts:color="#00fffd" tts:textAlign="center"> on my granddaughter's behalf. </span></p>
+<p begin="00:42:14.210" end="00:42:19.460"><span tts:color="#00ff00" tts:textAlign="center"> I'm sorry, I haven't made things</span><br/><span tts:color="#00ff00" tts:textAlign="center"> clear. We will be releasing you, </span><span tts:color="#00ff00" tts:textAlign="center"> but I'm afraid this isn't over. </span></p>
+<p begin="00:42:19.460" end="00:42:23.210"><span tts:color="#00fffd" tts:textAlign="center"> Why?</span><br/><span tts:color="#00ff00" tts:textAlign="center"> Social Services are coming</span><span tts:color="#00ff00" tts:textAlign="center"> in to speak to you now. </span></p>
+<p begin="00:42:23.210" end="00:42:25.880"><span tts:color="#00ff00" tts:textAlign="center"> And they'll follow this up</span><br/><span tts:color="#00ff00" tts:textAlign="center"> with a home visit. </span></p>
+<p begin="00:42:25.880" end="00:42:29.020"><span tts:color="#00ff00" tts:textAlign="center"> Both you and your husband</span><br/><span tts:color="#00ff00" tts:textAlign="center"> are going to be assessed. </span></p>
+<p begin="00:42:32.820" end="00:42:37.090"><span tts:color="#ececec" tts:textAlign="center"> You want to be careful leaving that</span><br/><span tts:color="#ececec" tts:textAlign="center"> door open, you would have thought</span><span tts:color="#ececec" tts:textAlign="center"> an ex-copper... </span></p>
+<p begin="00:42:37.090" end="00:42:41.780"><span tts:color="#ececec" tts:textAlign="center">What's all that for? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> You shouldn't be here. </span></p>
+<p begin="00:42:41.780" end="00:42:45.060"><span tts:color="#ececec" tts:textAlign="center"> Well, I was worried about you, </span><br/><span tts:color="#ececec" tts:textAlign="center"> all this stuff about Ronnie. </span></p>
+<p begin="00:42:45.060" end="00:42:46.980"><span tts:color="#ececec" tts:textAlign="left">TEXT MESSAGE BEEPS</span><br/></p>
+<p begin="00:42:46.980" end="00:42:52.420"><span tts:color="#ffff00" tts:textAlign="center"> Patrick. We've should get back</span><br/><span tts:color="#ffff00" tts:textAlign="center">to Dad, Dot's just getting out. </span></p>
+<p begin="00:42:52.420" end="00:42:55.930"><span tts:color="#ececec" tts:textAlign="center"> So, what's that stack of cash for? </span><br/></p>
+<p begin="00:42:55.930" end="00:42:57.290"><span tts:color="#ffff00" tts:textAlign="center"> You don't want to know. </span><br/></p>
+<p begin="00:43:07.510" end="00:43:09.760"><span tts:color="#00fffd" tts:textAlign="center"> So? How was your date? </span><br/></p>
+<p begin="00:43:09.760" end="00:43:13.320"><span tts:color="#ffff00" tts:textAlign="center"> It wasn't a date. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> He's not my boyfriend. </span></p>
+<p begin="00:43:13.320" end="00:43:15.900"><span tts:color="#ffff00" tts:textAlign="center"> I told you, it's on and off. </span><br/></p>
+<p begin="00:43:15.900" end="00:43:17.540"><span tts:color="#ffff00" tts:textAlign="center"> Now it's just off. </span><br/></p>
+<p begin="00:43:17.540" end="00:43:19.280"><span tts:color="#00fffd" tts:textAlign="center"> That's a shame. </span><br/></p>
+<p begin="00:43:19.280" end="00:43:23.730"><span tts:color="#ffff00" tts:textAlign="center"> Yeah, it is. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Is Pat or Bianca around? </span></p>
+<p begin="00:43:23.730" end="00:43:27.580"><span tts:color="#00fffd" tts:textAlign="center"> Bi's still out to dinner and Pat</span><br/><span tts:color="#00fffd" tts:textAlign="center"> came in and went straight to bed. </span></p>
+<p begin="00:43:29.360" end="00:43:32.260"><span tts:color="#00fffd" tts:textAlign="center"> But, um...you know, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> if you want to talk... </span></p>
+<p begin="00:43:32.260" end="00:43:36.390"><span tts:color="#ffff00" tts:textAlign="center"> No, I don't. I don't. </span><br/></p>
+<p begin="00:43:39.810" end="00:43:45.010"><span tts:color="#ffff00" tts:textAlign="center">This is very convenient for you, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> isn't it? Especially since</span><span tts:color="#ffff00" tts:textAlign="center"> you're a suspect. </span></p>
+<p begin="00:43:45.010" end="00:43:47.690"><span tts:color="#ffff00" tts:textAlign="center"> First Ian, now Ronnie... </span><br/></p>
+<p begin="00:43:47.690" end="00:43:52.140"><span tts:color="#ffff00" tts:textAlign="center"> You got anything on Phil Mitchell? </span><br/><span tts:color="#ececec" tts:textAlign="center"> Don't look a gift horse in the mouth. </span></p>
+<p begin="00:43:52.140" end="00:43:56.030"><span tts:color="#ececec" tts:textAlign="center"> Ronnie going on the run is</span><br/><span tts:color="#ececec" tts:textAlign="center"> actually very convenient for you. </span></p>
+<p begin="00:43:56.030" end="00:44:00.720"><span tts:color="#ffff00" tts:textAlign="center"> You're going to have to make</span><br/><span tts:color="#ffff00" tts:textAlign="center">this a formal statement.</span><span tts:color="#ececec" tts:textAlign="right"> Yeah, </span><span tts:color="#ececec" tts:textAlign="center"> I can. But I don't need to. </span></p>
+<p begin="00:44:00.720" end="00:44:04.380"><span tts:color="#ffff00" tts:textAlign="center"> Because?</span><br/><span tts:color="#ececec" tts:textAlign="center"> All you need to do</span><span tts:color="#ececec" tts:textAlign="center"> is go round there and ask for Ronnie. </span></p>
+<p begin="00:44:04.380" end="00:44:10.140"><span tts:color="#ececec" tts:textAlign="center"> Ask to see Roxy's passport. Why would</span><br/><span tts:color="#ececec" tts:textAlign="center"> Ronnie do a runner on her sister's ID</span><span tts:color="#ececec" tts:textAlign="center"> if she wasn't guilty as sin? </span></p>
+<p begin="00:44:10.140" end="00:44:12.950"><span tts:color="#ececec" tts:textAlign="left"> PHONE RINGS</span><br/></p>
+<p begin="00:44:12.950" end="00:44:17.220"><span tts:color="#ffff00" tts:textAlign="center"> Yeah, I'm going to have to get this. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Wait there.</span><span tts:color="#ececec" tts:textAlign="center"> I'm not going anywhere. </span></p>
+<p begin="00:44:17.220" end="00:44:21.770"><span tts:color="#ffff00" tts:textAlign="center"> Marsden... </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Yeah, and what did they say? </span></p>
+<p begin="00:44:24.350" end="00:44:25.940"><span tts:color="#ffff00" tts:textAlign="center"> OK, thanks. </span><br/></p>
+<p begin="00:44:28.050" end="00:44:30.720"><span tts:color="#ffff00" tts:textAlign="center"> Curiouser and curiouser. </span><br/></p>
+<p begin="00:44:33.490" end="00:44:35.220"><span tts:color="#00fffd" tts:textAlign="center"> That's the last of it. </span><br/></p>
+<p begin="00:44:37.380" end="00:44:37.420"><span tts:color="#00fffd" tts:textAlign="center"> Look. Mum, I'm driving back</span><br/><span tts:color="#00fffd" tts:textAlign="center"> to Oxford in a bit. </span></p>
+<p begin="00:44:37.420" end="00:44:41.170"><span tts:color="#00fffd" tts:textAlign="center"> Come with me. </span><br/></p>
+<p begin="00:44:43.710" end="00:44:46.470"><span tts:color="#ffff00" tts:textAlign="center"> What?</span><br/><span tts:color="#00fffd" tts:textAlign="center">Just pack your bags. </span></p>
+<p begin="00:44:46.470" end="00:44:49.660"><span tts:color="#00fffd" tts:textAlign="center">There's a house with a spare room </span><br/><span tts:color="#00fffd" tts:textAlign="center"> going on my street.</span><span tts:color="#ffff00" tts:textAlign="center"> Leave Walford? </span></p>
+<p begin="00:44:49.660" end="00:44:53.220"><span tts:color="#00fffd" tts:textAlign="center"> Get some supply</span><br/><span tts:color="#00fffd" tts:textAlign="center">to cover your teaching. </span></p>
+<p begin="00:44:53.220" end="00:44:55.710"><span tts:color="#00fffd" tts:textAlign="center"> You need thinking time. </span><br/></p>
+<p begin="00:44:55.710" end="00:44:57.720"><span tts:color="#00fffd" tts:textAlign="center"> All those years of</span><br/><span tts:color="#00fffd" tts:textAlign="center"> looking after me... </span></p>
+<p begin="00:44:57.720" end="00:44:59.970"><span tts:color="#00fffd" tts:textAlign="center"> Let me do some looking after, eh? </span><br/></p>
+<p begin="00:45:01.570" end="00:45:04.190"><span tts:color="#00fffd" tts:textAlign="center"> Let's face it. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> What is there left for you here? </span></p>
+<p begin="00:45:04.190" end="00:45:05.970"><span tts:color="#ececec" tts:textAlign="right"> DOOR OPENS</span><br/></p>
+<p begin="00:45:09.680" end="00:45:12.910"><span tts:color="#ececec" tts:textAlign="center"> I've packed your wheel away. I'm not</span><br/><span tts:color="#ececec" tts:textAlign="center"> sure if it's how you like it. </span></p>
+<p begin="00:45:12.910" end="00:45:15.210"><span tts:color="#ececec" tts:textAlign="center"> Er...</span><br/><span tts:color="#00fffd" tts:textAlign="center"> Mum? </span></p>
+<p begin="00:45:15.210" end="00:45:16.760"><span tts:color="#ffff00" tts:textAlign="center"> Give us a minute, will you? </span><br/></p>
+<p begin="00:45:22.570" end="00:45:27.580"><span tts:color="#ececec" tts:textAlign="center"> Well...I was relieved to see</span><br/><span tts:color="#ececec" tts:textAlign="center"> the light on. I thought, "At least</span><span tts:color="#ececec" tts:textAlign="center"> she hasn't walked out on me."</span></p>
+<p begin="00:45:27.580" end="00:45:29.370"><span tts:color="#ececec" tts:textAlign="center"> Not before we talked, anyway. </span><br/></p>
+<p begin="00:45:29.370" end="00:45:30.400"><span tts:color="#ffff00" tts:textAlign="center"> Listen...</span><br/><span tts:color="#ececec" tts:textAlign="center"> No, no. </span></p>
+<p begin="00:45:31.430" end="00:45:34.240"><span tts:color="#ececec" tts:textAlign="center"> I've got something I've got to say</span><br/><span tts:color="#ececec" tts:textAlign="center">first. Look, I'm... </span></p>
+<p begin="00:45:34.240" end="00:45:36.820"><span tts:color="#ececec" tts:textAlign="center"> I'm sorry about the prison visits. </span><br/></p>
+<p begin="00:45:36.820" end="00:45:38.090"><span tts:color="#ececec" tts:textAlign="center"> I'm sorry I went. </span><br/></p>
+<p begin="00:45:39.540" end="00:45:41.600"><span tts:color="#ececec" tts:textAlign="center"> And I'm sorry I kept it secret. </span><br/></p>
+<p begin="00:45:41.600" end="00:45:44.460"><span tts:color="#ececec" tts:textAlign="center"> And I promise... </span><br/></p>
+<p begin="00:45:45.450" end="00:45:48.910"><span tts:color="#ececec" tts:textAlign="center"> ..I'll never do it again. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> You don't have to make any promises. </span></p>
+<p begin="00:45:48.910" end="00:45:50.600"><span tts:color="#ececec" tts:textAlign="center"> Yeah, I do. Look... </span><br/></p>
+<p begin="00:45:51.680" end="00:45:53.180"><span tts:color="#ececec" tts:textAlign="center">This thing with Sam... </span><br/></p>
+<p begin="00:45:54.680" end="00:45:56.790"><span tts:color="#ececec" tts:textAlign="center"> It's not real. </span><br/><span tts:color="#ececec" tts:textAlign="center"> You know that, don't you? </span></p>
+<p begin="00:45:56.790" end="00:45:59.600"><span tts:color="#ececec" tts:textAlign="center"> It's just fantasy. </span><br/></p>
+<p begin="00:45:59.600" end="00:46:01.810"><span tts:color="#ececec" tts:textAlign="center"> There's no future in it. </span><br/></p>
+<p begin="00:46:02.840" end="00:46:04.850"><span tts:color="#ececec" tts:textAlign="center"> And I want a future. </span><br/></p>
+<p begin="00:46:04.850" end="00:46:06.820"><span tts:color="#ececec" tts:textAlign="center"> I want to be with you. </span><br/></p>
+<p begin="00:46:09.540" end="00:46:11.090"><span tts:color="#ffff00" tts:textAlign="center"> Do you love me? </span><br/></p>
+<p begin="00:46:11.090" end="00:46:12.920"><span tts:color="#ececec" tts:textAlign="left"> HE SIGHS</span><br/></p>
+<p begin="00:46:12.920" end="00:46:15.210"><span tts:color="#ececec" tts:textAlign="left"> Have you listened to what I said? </span><br/></p>
+<p begin="00:46:15.210" end="00:46:17.790"><span tts:color="#ececec" tts:textAlign="center"> You're the one that I want. </span><br/></p>
+<p begin="00:46:17.790" end="00:46:20.090"><span tts:color="#ffff00" tts:textAlign="center"> As the song goes. </span><br/></p>
+<p begin="00:46:21.640" end="00:46:23.320"><span tts:color="#ffff00" tts:textAlign="center"> Listen. </span><br/></p>
+<p begin="00:46:24.400" end="00:46:25.530"><span tts:color="#ececec" tts:textAlign="left"> SHE SIGHS</span><br/></p>
+<p begin="00:46:26.600" end="00:46:29.000"><span tts:color="#ffff00" tts:textAlign="center"> You were honest with me earlier. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Now it's my turn. </span></p>
+<p begin="00:46:30.070" end="00:46:31.100"><span tts:color="#ffff00" tts:textAlign="center"> Fact is... </span><br/></p>
+<p begin="00:46:33.070" end="00:46:35.930"><span tts:color="#ffff00" tts:textAlign="center"> ..we'd both rather</span><br/><span tts:color="#ffff00" tts:textAlign="center"> be with a Mitchell. </span></p>
+<p begin="00:46:35.930" end="00:46:37.570"><span tts:color="#ececec" tts:textAlign="center">What? </span><br/></p>
+<p begin="00:46:37.570" end="00:46:40.900"><span tts:color="#ffff00" tts:textAlign="center"> When I came to the Square</span><br/><span tts:color="#ffff00" tts:textAlign="center">for that teaching gig... </span></p>
+<p begin="00:46:40.900" end="00:46:42.730"><span tts:color="#ffff00" tts:textAlign="center"> it wasn't you I was looking for. </span><br/></p>
+<p begin="00:46:44.180" end="00:46:46.200"><span tts:color="#ffff00" tts:textAlign="center"> The person I was hoping</span><br/><span tts:color="#ffff00" tts:textAlign="center"> to find was... </span></p>
+<p begin="00:46:46.200" end="00:46:47.750"><span tts:color="#ffff00" tts:textAlign="center"> Phil. </span><br/></p>
+<p begin="00:46:53.330" end="00:46:54.360"><span tts:color="#ececec" tts:textAlign="center"> Phil? </span><br/></p>
+<p begin="00:46:54.360" end="00:46:55.670"><span tts:color="#ececec" tts:textAlign="center"> But you and me... </span><br/></p>
+<p begin="00:46:55.670" end="00:46:58.810"><span tts:color="#ffff00" tts:textAlign="center"> You were a consolation prize, Minty. </span><br/></p>
+<p begin="00:46:59.840" end="00:47:01.110"><span tts:color="#ffff00" tts:textAlign="center"> A nice one. </span><br/></p>
+<p begin="00:47:02.510" end="00:47:04.110"><span tts:color="#ffff00" tts:textAlign="center"> But still a consolation. </span><br/></p>
+<p begin="00:47:07.150" end="00:47:08.750"><span tts:color="#ececec" tts:textAlign="center"> I don't understand. </span><br/></p>
+<p begin="00:47:08.750" end="00:47:12.080"><span tts:color="#ffff00" tts:textAlign="center"> You settled for me</span><br/><span tts:color="#ffff00" tts:textAlign="center"> when you couldn't have Sam. </span></p>
+<p begin="00:47:12.080" end="00:47:14.370"><span tts:color="#ffff00" tts:textAlign="center"> I settled for you</span><br/><span tts:color="#ffff00" tts:textAlign="center"> when I couldn't have Phil. </span></p>
+<p begin="00:47:14.370" end="00:47:17.650"><span tts:color="#ffff00" tts:textAlign="center"> At least, not the Phil I remember. </span><br/></p>
+<p begin="00:47:19.480" end="00:47:22.340"><span tts:color="#ffff00" tts:textAlign="center"> So let's call it a day, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> shall we, Minty? </span></p>
+<p begin="00:47:24.590" end="00:47:26.420"><span tts:color="#ffff00" tts:textAlign="center"> I don't want to have second best. </span><br/></p>
+<p begin="00:47:28.530" end="00:47:30.170"><span tts:color="#ffff00" tts:textAlign="center"> Or be it. </span><br/></p>
+<p begin="00:47:43.300" end="00:47:44.980"><span tts:color="#ffff00" tts:textAlign="center"> They still not back, then? </span><br/></p>
+<p begin="00:47:46.110" end="00:47:48.500"><span tts:color="#ffff00" tts:textAlign="center"> Look, is that offer to talk</span><br/><span tts:color="#ffff00" tts:textAlign="center"> still open? </span></p>
+<p begin="00:47:56.520" end="00:47:59.750"><span tts:color="#ffff00" tts:textAlign="center"> Have you ever met someone</span><br/><span tts:color="#ffff00" tts:textAlign="center"> that's...perfect for you? </span></p>
+<p begin="00:48:01.020" end="00:48:04.720"><span tts:color="#ffff00" tts:textAlign="center"> Like...kind and funny, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> and good-looking? </span></p>
+<p begin="00:48:05.750" end="00:48:07.860"><span tts:color="#ffff00" tts:textAlign="center"> And even better, they like you? </span><br/></p>
+<p begin="00:48:07.860" end="00:48:10.110"><span tts:color="#00fffd" tts:textAlign="center"> Yeah, it's been known. </span><br/></p>
+<p begin="00:48:11.800" end="00:48:14.050"><span tts:color="#ffff00" tts:textAlign="center"> My history with guys -</span><br/><span tts:color="#ffff00" tts:textAlign="center"> it ain't good. </span></p>
+<p begin="00:48:14.050" end="00:48:16.960"><span tts:color="#00fffd" tts:textAlign="center"> Yeah, well no-one's got</span><br/><span tts:color="#00fffd" tts:textAlign="center"> a clean sheet. </span></p>
+<p begin="00:48:17.940" end="00:48:20.190"><span tts:color="#ffff00" tts:textAlign="center"> I mean, I...I just don't get it. </span><br/></p>
+<p begin="00:48:21.220" end="00:48:22.820"><span tts:color="#ffff00" tts:textAlign="center">Todd's perfect for me. </span><br/></p>
+<p begin="00:48:24.320" end="00:48:26.280"><span tts:color="#ffff00" tts:textAlign="center"> Why don't</span><br/><span tts:color="#00fffd" tts:textAlign="center"> I</span><span tts:color="#ffff00" tts:textAlign="center">feel anything? </span></p>
+<p begin="00:48:27.320" end="00:48:28.680"><span tts:color="#00fffd" tts:textAlign="center"> Look... </span><br/></p>
+<p begin="00:48:28.680" end="00:48:31.540"><span tts:color="#00fffd" tts:textAlign="center"> You can't make yourself be into</span><br/><span tts:color="#00fffd" tts:textAlign="center"> someone that you ain't. </span></p>
+<p begin="00:48:31.540" end="00:48:33.460"><span tts:color="#00fffd" tts:textAlign="center"> You know? </span><br/></p>
+<p begin="00:48:33.460" end="00:48:36.176"><span tts:color="#00fffd" tts:textAlign="center"> And you can't stop yourself</span><br/><span tts:color="#00fffd" tts:textAlign="center"> liking someone you do. </span></p>
+<p begin="00:48:36.176" end="00:48:37.636"><span tts:color="#ececec" tts:textAlign="left"> FOOTSTEPS</span><br/></p>
+<p begin="00:48:37.636" end="00:48:41.106"><span tts:color="#ececec" tts:textAlign="center"> Oh! Hello, you two. Thought you were</span><br/><span tts:color="#ececec" tts:textAlign="center"> going out with Todd tonight. </span></p>
+<p begin="00:48:42.276" end="00:48:44.566"><span tts:color="#ffff00" tts:textAlign="center"> Yeah. Well, that sort of</span><br/><span tts:color="#ffff00" tts:textAlign="center"> got cancelled. </span></p>
+<p begin="00:48:44.566" end="00:48:46.676"><span tts:color="#ffff00" tts:textAlign="center"> Did you go to Dot and Jim's party? </span><br/></p>
+<p begin="00:48:46.676" end="00:48:49.356"><span tts:color="#ececec" tts:textAlign="left"> SHE GASPS</span><br/><span tts:color="#ececec" tts:textAlign="center"> I totally forgot. </span><span tts:color="#ececec" tts:textAlign="center"> I'd better phone her. </span></p>
+<p begin="00:48:49.356" end="00:48:51.556"><span tts:color="#00fffd" tts:textAlign="center">Just leave it. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> We'll do it tomorrow, eh? </span></p>
+<p begin="00:48:51.556" end="00:48:56.056"><span tts:color="#ffff00" tts:textAlign="center"> But you had a good night though, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> yeah?</span><span tts:color="#00fffd" tts:textAlign="center"> Oh! Well, someone pulled</span><span tts:color="#00fffd" tts:textAlign="center">the stripper at her hen do. </span></p>
+<p begin="00:48:56.056" end="00:48:59.006"><span tts:color="#00fffd" tts:textAlign="center"> And for some reason, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> she's desperate to find out who. </span></p>
+<p begin="00:48:59.006" end="00:49:00.976"><span tts:color="#ececec" tts:textAlign="left"> SHE GIGGLES</span><br/><span tts:color="#ffff00" tts:textAlign="center"> Actually... </span></p>
+<p begin="00:49:00.976" end="00:49:03.836"><span tts:color="#ffff00" tts:textAlign="center"> Sonia brought this DVD round</span><br/><span tts:color="#ffff00" tts:textAlign="center"> earlier. </span></p>
+<p begin="00:49:03.836" end="00:49:05.336"><span tts:color="#ffff00" tts:textAlign="center"> Maybe there's a clue in there. </span><br/></p>
+<p begin="00:49:07.586" end="00:49:10.916"><span tts:color="#ececec" tts:textAlign="center"> PATRICK: Hey, Jim! </span><br/><span tts:color="#ececec" tts:textAlign="center"> You can cheer up now, brother. </span></p>
+<p begin="00:49:10.916" end="00:49:14.006"><span tts:color="#ececec" tts:textAlign="center"> I brought somebody back for you! </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Oh, Jim. </span></p>
+<p begin="00:49:14.006" end="00:49:16.076"><span tts:color="#00fffd" tts:textAlign="center"> Yeah, it's all right. </span><br/></p>
+<p begin="00:49:16.076" end="00:49:18.606"><span tts:color="#00fffd" tts:textAlign="center"> I don't think there's no cause</span><br/><span tts:color="#00fffd" tts:textAlign="center">for celebration. </span></p>
+<p begin="00:49:18.606" end="00:49:21.556"><span tts:color="#00fffd" tts:textAlign="center">Where's Dotty? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> She's up in her room, with Sonia. </span></p>
+<p begin="00:49:21.556" end="00:49:23.756"><span tts:color="#00ff00" tts:textAlign="center"> I'm here helping out. </span><br/></p>
+<p begin="00:49:23.756" end="00:49:26.106"><span tts:color="#00fffd" tts:textAlign="center"> Well, would someone fetch her down, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> please? </span></p>
+<p begin="00:49:27.136" end="00:49:29.906"><span tts:color="#ececec" tts:textAlign="center"> Sonia? Dot is back. Can you bring</span><br/><span tts:color="#ececec" tts:textAlign="center"> Dotty down here, please? </span></p>
+<p begin="00:49:29.906" end="00:49:32.336"><span tts:color="#00ff00" tts:textAlign="center"> No!</span><br/><span tts:color="#00fffd" tts:textAlign="center">Talk to Dotty. Yes! </span></p>
+<p begin="00:49:32.336" end="00:49:34.116"><span tts:color="#ffff00" tts:textAlign="center"> Come on, Dot. Dad's right. </span><br/></p>
+<p begin="00:49:34.116" end="00:49:38.436"><span tts:color="#ffff00" tts:textAlign="center"> It's you we should be</span><br/><span tts:color="#ffff00" tts:textAlign="center"> focusing on, not Dotty. </span><span tts:color="#00fffd" tts:textAlign="center"> I don't think this can wait. </span></p>
+<p begin="00:49:38.436" end="00:49:41.476"><span tts:color="#00ff00" tts:textAlign="center"> Er... I...</span><br/><span tts:color="#00fffd" tts:textAlign="center"> No. </span></p>
+<p begin="00:49:41.476" end="00:49:42.886"><span tts:color="#ececec" tts:textAlign="center"> Grandma... </span><br/></p>
+<p begin="00:49:42.886" end="00:49:43.916"><span tts:color="#ececec" tts:textAlign="center"> I'm sorry. </span><br/></p>
+<p begin="00:49:43.916" end="00:49:45.606"><span tts:color="#ececec" tts:textAlign="center"> I'm really, really sorry. </span><br/></p>
+<p begin="00:49:45.606" end="00:49:46.686"><span tts:color="#00fffd" tts:textAlign="center"> No. </span><br/></p>
+<p begin="00:49:46.686" end="00:49:49.916"><span tts:color="#00fffd" tts:textAlign="center"> No, it's me what's sorry. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Can you forgive ME, Dotty? </span></p>
+<p begin="00:49:51.046" end="00:49:52.736"><span tts:color="#00fffd" tts:textAlign="center"> Really, this time. </span><br/></p>
+<p begin="00:49:53.716" end="00:49:55.496"><span tts:color="#00fffd" tts:textAlign="center"> Come on. There. </span><br/></p>
+<p begin="00:49:55.496" end="00:49:57.886"><span tts:color="#00fffd" tts:textAlign="center">There, there. </span><br/></p>
+<p begin="00:49:57.886" end="00:49:59.346"><span tts:color="#00fffd" tts:textAlign="center">There, there. </span><br/></p>
+<p begin="00:50:00.516" end="00:50:03.236"><span tts:color="#ececec" tts:textAlign="center"> # Just because I'm hurting</span><br/></p>
+<p begin="00:50:04.266" end="00:50:07.356"><span tts:color="#ececec" tts:textAlign="center"> # Doesn't mean I'm hurt</span><br/></p>
+<p begin="00:50:09.796" end="00:50:12.276"><span tts:color="#ececec" tts:textAlign="center"> # Doesn't mean I didn't get... #</span><br/></p>
+<p begin="00:50:20.346" end="00:50:21.466"><span tts:color="#ececec" tts:textAlign="center">What about Mr Eliot? </span><br/></p>
+<p begin="00:50:43.266" end="00:50:45.046"><span tts:color="#ffff00" tts:textAlign="center"> Come on, you. </span><br/><span tts:color="#ececec" tts:textAlign="left"> CAT MIAOWS</span></p>
+<p begin="00:50:47.906" end="00:50:50.256"><span tts:color="#00fffd" tts:textAlign="left"> You not sitting in front?</span><br/><span tts:color="#ffff00" tts:textAlign="center"> No, no. </span></p>
+<p begin="00:50:50.256" end="00:50:55.076"><span tts:color="#ffff00" tts:textAlign="center"> Mr Mephistopheles likes to see me</span><br/><span tts:color="#ffff00" tts:textAlign="center"> when he's travelling. </span></p>
+<p begin="00:50:56.066" end="00:50:57.756"><span tts:color="#00fffd" tts:textAlign="center"> You're doing the right thing. </span><br/></p>
+<p begin="00:50:57.756" end="00:51:00.096"><span tts:color="#00fffd" tts:textAlign="center">What was it you always said to me? </span><br/></p>
+<p begin="00:51:00.096" end="00:51:03.146"><span tts:color="#ffff00" tts:textAlign="center"> "It's Adam Best, not second best." </span><br/></p>
+<p begin="00:51:03.146" end="00:51:06.326"><span tts:color="#00fffd" tts:textAlign="center">To be honest, I never thought he was</span><br/><span tts:color="#00fffd" tts:textAlign="center"> good enough for you, anyway. </span></p>
+<p begin="00:51:07.366" end="00:51:09.326"><span tts:color="#ffff00" tts:textAlign="center"> He's a good man. </span><br/></p>
+<p begin="00:51:09.326" end="00:51:11.346"><span tts:color="#00fffd" tts:textAlign="center"> Not that Phil Mitchell's any better. </span><br/></p>
+<p begin="00:51:11.346" end="00:51:14.766"><span tts:color="#00fffd" tts:textAlign="center"> Did you honestly come back to this</span><br/><span tts:color="#00fffd" tts:textAlign="center"> place to get with that thug? </span></p>
+<p begin="00:51:15.756" end="00:51:16.786"><span tts:color="#ececec" tts:textAlign="center"> No. </span><br/></p>
+<p begin="00:51:16.786" end="00:51:20.206"><span tts:color="#ececec" tts:textAlign="center"> # Every river that you tried to cross</span><br/></p>
+<p begin="00:51:22.266" end="00:51:27.516"><span tts:color="#ececec" tts:textAlign="center"> # Every gun you ever held went off. #</span><br/></p>
+<p begin="00:51:27.516" end="00:51:29.766"><span tts:color="#ececec" tts:textAlign="center"> No, not there. </span><br/></p>
+<p begin="00:51:31.176" end="00:51:32.446"><span tts:color="#ececec" tts:textAlign="center"> No, nothing. </span><br/></p>
+<p begin="00:51:34.836" end="00:51:37.976"><span tts:color="#ececec" tts:textAlign="center"> Nothing. Oh, look I told you he had</span><br/><span tts:color="#ececec" tts:textAlign="center"> a good six-pack, didn't I? </span></p>
+<p begin="00:51:37.976" end="00:51:40.176"><span tts:color="#00fffd" tts:textAlign="center"> Fascinating, innit(?) </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Can we go to bed now? </span></p>
+<p begin="00:51:40.176" end="00:51:41.206"><span tts:color="#ececec" tts:textAlign="center"> Not until I... </span><br/></p>
+<p begin="00:51:41.206" end="00:51:45.236"><span tts:color="#ececec" tts:textAlign="center"> Oh, I look like I'm...I'm enjoying</span><br/><span tts:color="#ececec" tts:textAlign="center"> it, but I'm not. I was embarrassed. </span></p>
+<p begin="00:51:46.226" end="00:51:47.816"><span tts:color="#ececec" tts:textAlign="center"> Ooh, hang on. </span><br/></p>
+<p begin="00:51:47.816" end="00:51:48.946"><span tts:color="#ececec" tts:textAlign="center">Whit? </span><br/></p>
+<p begin="00:51:48.946" end="00:51:50.166"><span tts:color="#ececec" tts:textAlign="center">Whitney? </span><br/></p>
+<p begin="00:51:51.616" end="00:51:53.536"><span tts:color="#ececec" tts:textAlign="center"> I need you to do me a favour. </span><br/></p>
+<p begin="00:51:55.176" end="00:51:57.706"><span tts:color="#00ff00" tts:textAlign="center"> She ain't picking up. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> She's probably gone to Dover, </span></p>
+<p begin="00:51:57.706" end="00:52:00.196"><span tts:color="#00ff00" tts:textAlign="center"> hoping security ain't as strict</span><br/><span tts:color="#00ff00" tts:textAlign="center"> on the ferries. </span></p>
+<p begin="00:52:00.196" end="00:52:01.276"><span tts:color="#ececec" tts:textAlign="left"> PHONE BLEEPS</span><br/></p>
+<p begin="00:52:01.276" end="00:52:03.146"><span tts:color="#ffff00" tts:textAlign="center"> Oh, it's just Jack. </span><br/></p>
+<p begin="00:52:03.146" end="00:52:05.116"><span tts:color="#ffff00" tts:textAlign="center"> He spoke to Marsden again. </span><br/></p>
+<p begin="00:52:05.116" end="00:52:08.676"><span tts:color="#00fffd" tts:textAlign="center">What does he say? </span><br/><span tts:color="#ffff00" tts:textAlign="center">Just hold on one minute, OK? </span></p>
+<p begin="00:52:09.896" end="00:52:11.026"><span tts:color="#ffff00" tts:textAlign="center"> Hold on. </span><br/></p>
+<p begin="00:52:11.026" end="00:52:13.746"><span tts:color="#ffff00" tts:textAlign="center"> Come on, Ronnie. Pick up, pick up. </span><br/></p>
+<p begin="00:52:15.996" end="00:52:19.086"><span tts:color="#ffff00" tts:textAlign="center"> Ronnie. Ronnie, listen, all right? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> You have got to believe me. </span></p>
+<p begin="00:52:19.086" end="00:52:24.336"><span tts:color="#ffff00" tts:textAlign="center">This new witness thing, OK? </span><br/><span tts:color="#ffff00" tts:textAlign="center">Jack says it's all a lie. They</span><span tts:color="#ffff00" tts:textAlign="center"> were not here to arrest you tonight. </span></p>
+<p begin="00:52:24.336" end="00:52:28.176"><span tts:color="#ffff00" tts:textAlign="center"> Ronnie, they've got nothing on you, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> except skipping bail</span><span tts:color="#ffff00" tts:textAlign="center"> if you keep running, </span></p>
+<p begin="00:52:28.176" end="00:52:31.366"><span tts:color="#ffff00" tts:textAlign="center"> and this really makes you look</span><br/><span tts:color="#ffff00" tts:textAlign="center"> like you're guilty, so just... </span></p>
+<p begin="00:52:31.366" end="00:52:35.216"><span tts:color="#ffff00" tts:textAlign="center">Just come back, or everything's</span><br/><span tts:color="#ffff00" tts:textAlign="center"> going to go really badly wrong. </span></p>
+<p begin="00:52:39.576" end="00:52:40.976"><span tts:color="#00ff00" tts:textAlign="center">Whatever. Like I care. </span><br/></p>
+<p begin="00:52:42.006" end="00:52:43.226"><span tts:color="#00ff00" tts:textAlign="center"> I got to go. </span><br/></p>
+<p begin="00:52:43.226" end="00:52:47.446"><span tts:color="#ececec" tts:textAlign="center"> CHANTS:</span><br/><span tts:color="#ffff00" tts:textAlign="center"> Lucy and Leon, </span><span tts:color="#ffff00" tts:textAlign="center"> sitting in a tree, K-I... </span></p>
+<p begin="00:52:47.446" end="00:52:49.416"><span tts:color="#00ff00" tts:textAlign="center"> Shut up, will you? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> My dad is over there. </span></p>
+<p begin="00:52:50.446" end="00:52:53.306"><span tts:color="#ffff00" tts:textAlign="center"> Yeah, but it was you, though, </span><br/><span tts:color="#ffff00" tts:textAlign="center"> wasn't it? You can't deny it. </span></p>
+<p begin="00:52:53.306" end="00:52:56.116"><span tts:color="#00ff00" tts:textAlign="center"> I'm not going to deny it - he's fit. </span><br/></p>
+<p begin="00:52:56.116" end="00:52:59.916"><span tts:color="#00ff00" tts:textAlign="center"> He's better than Todd, at any rate. </span><br/><span tts:color="#ffff00" tts:textAlign="center"> Don't slag off Todd. </span><span tts:color="#ffff00" tts:textAlign="center"> He's a nice bloke. </span></p>
+<p begin="00:53:13.936" end="00:53:18.766"><span tts:color="#00ff00" tts:textAlign="center"> Look, Leon. You call screening now? </span><br/><span tts:color="#00ff00" tts:textAlign="center"> Like I said before, I don't care if</span><span tts:color="#00ff00" tts:textAlign="center"> you're back with Zsa Zsa, </span></p>
+<p begin="00:53:18.766" end="00:53:22.656"><span tts:color="#00ff00" tts:textAlign="center"> or anyone else, for that matter. </span><br/><span tts:color="#00ff00" tts:textAlign="center"> It's not like I even want</span><span tts:color="#00ff00" tts:textAlign="center"> a boyfriend anyway. </span></p>
+<p begin="00:53:22.656" end="00:53:25.556"><span tts:color="#ececec" tts:textAlign="center"> About time. Is that how long</span><br/><span tts:color="#ececec" tts:textAlign="center"> school plays last these days? </span></p>
+<p begin="00:53:25.556" end="00:53:28.556"><span tts:color="#ececec" tts:textAlign="center"> If that's the case, you can go to</span><br/><span tts:color="#ececec" tts:textAlign="center"> Bobby's next one, not me.</span><span tts:color="#ffff00" tts:textAlign="right"> Right. </span></p>
+<p begin="00:53:28.556" end="00:53:30.806"><span tts:color="#ffff00" tts:textAlign="center"> Lucy, we're off. You should be</span><br/><span tts:color="#ffff00" tts:textAlign="center"> heading home. </span></p>
+<p begin="00:53:30.806" end="00:53:33.716"><span tts:color="#00fffd" tts:textAlign="center"> Any problems, Cheryl, </span><br/><span tts:color="#00fffd" tts:textAlign="center"> we'll be in the pub.</span><span tts:color="#00ff00" tts:textAlign="right"> Right. </span></p>
+<p begin="00:53:33.716" end="00:53:34.796"><span tts:color="#ececec" tts:textAlign="center"> Come on!</span><br/><span tts:color="#00fffd" tts:textAlign="center"> OK, bye. </span></p>
+<p begin="00:53:51.296" end="00:53:53.596"><span tts:color="#ffff00" tts:textAlign="center"> I'm terribly sorry. </span><br/></p>
+<p begin="00:53:53.596" end="00:53:54.956"><span tts:color="#ffff00" tts:textAlign="center">Just called last orders. </span><br/></p>
+<p begin="00:53:54.956" end="00:53:58.136"><span tts:color="#ececec" tts:textAlign="center"> It's a bit early, isn't it? Not to</span><br/><span tts:color="#ececec" tts:textAlign="center"> worry. I didn't come for a drink. </span></p>
+<p begin="00:53:58.136" end="00:53:59.966"><span tts:color="#ececec" tts:textAlign="center"> Is your sister around? </span><br/></p>
+<p begin="00:54:01.796" end="00:54:04.326"><span tts:color="#ffff00" tts:textAlign="center"> She's upstairs.</span><br/><span tts:color="#ececec" tts:textAlign="center"> Course she is. </span></p>
+<p begin="00:54:04.326" end="00:54:06.676"><span tts:color="#00fffd" tts:textAlign="center"> But she's in bed. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> You can see her tomorrow. </span></p>
+<p begin="00:54:06.676" end="00:54:08.456"><span tts:color="#ececec" tts:textAlign="center"> Oh, I will. Down the station. </span><br/></p>
+<p begin="00:54:08.456" end="00:54:10.986"><span tts:color="#ececec" tts:textAlign="center"> One way or another. </span><br/></p>
+<p begin="00:54:10.986" end="00:54:13.136"><span tts:color="#00fffd" tts:textAlign="center"> Right. Come on, everybody. </span><br/><span tts:color="#00fffd" tts:textAlign="center"> Out. Off you go. </span></p>
+<p begin="00:54:13.136" end="00:54:14.456"><span tts:color="#00fffd" tts:textAlign="center"> Finish your drinks. </span><br/></p>
+<p begin="00:54:14.456" end="00:54:15.906"><span tts:color="#00ff00" tts:textAlign="center"> She means you. </span><br/></p>
+<p begin="00:54:15.906" end="00:54:19.376"><span tts:color="#ececec" tts:textAlign="center"> I've got her now. There's no way</span><br/><span tts:color="#ececec" tts:textAlign="center"> your cousin'll wriggle out of this. </span></p>
+<p begin="00:54:19.376" end="00:54:21.346"><span tts:color="#00fffd" tts:textAlign="center">Wriggle out of what? </span><br/></p>
+<p begin="00:54:22.376" end="00:54:24.246"><span tts:color="#ececec" tts:textAlign="center"> I thought you said she was in bed. </span><br/></p>
+<p begin="00:54:24.246" end="00:54:28.046"><span tts:color="#00fffd" tts:textAlign="center"> Well, I couldn't sleep, so I popped</span><br/><span tts:color="#00fffd" tts:textAlign="center"> out for some fresh air. </span></p>
+<p begin="00:54:28.046" end="00:54:30.626"><span tts:color="#ffff00" tts:textAlign="center"> I told you it'd be all right</span><br/><span tts:color="#ffff00" tts:textAlign="center">to come back, didn't I? </span></p>
+<p begin="00:54:30.626" end="00:54:35.596"><span tts:color="#ececec" tts:textAlign="center"> I didn't have any choice. </span><br/><span tts:color="#ececec" tts:textAlign="center">The bike broke down.</span><span tts:color="#ffff00" tts:textAlign="right"> Yeah, well, </span><span tts:color="#ffff00" tts:textAlign="center"> listen - it's all good now, OK? </span></p>
+<p begin="00:54:35.596" end="00:54:37.566"><span tts:color="#ececec" tts:textAlign="center"> MAX: Right, what's everyone having? </span><br/></p>
+<p begin="00:54:37.566" end="00:54:40.756"><span tts:color="#ffff00" tts:textAlign="center"> I think Stace'll have an orange</span><br/><span tts:color="#ffff00" tts:textAlign="center">juice and I'll have a... </span></p>
+<p begin="00:54:43.006" end="00:54:44.366"><span tts:color="#ececec" tts:textAlign="center"> Well, isn't this cosy? </span><br/></p>
+<p begin="00:54:45.436" end="00:54:48.116"><span tts:color="#00fffd" tts:textAlign="center"> Look, why don't you go? </span><br/><span tts:color="#00fffd" tts:textAlign="center">There's nothing for you here. </span></p>
+<p begin="00:54:48.116" end="00:54:50.266"><span tts:color="#ececec" tts:textAlign="center"> I'm afraid that's</span><br/><span tts:color="#ececec" tts:textAlign="center"> where you're wrong. </span></p>
+<p begin="00:54:51.486" end="00:54:54.206"><span tts:color="#ececec" tts:textAlign="center"> I got a call today from the lab. </span><br/></p>
+<p begin="00:54:54.206" end="00:54:57.906"><span tts:color="#ececec" tts:textAlign="center">They found a new forensic profile</span><br/><span tts:color="#ececec" tts:textAlign="center"> amongst the blood</span><span tts:color="#ececec" tts:textAlign="center"> on Archie's clothing. </span></p>
+<p begin="00:54:58.936" end="00:55:02.976"><span tts:color="#ececec" tts:textAlign="center"> So it's a good job you did come back. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Don't stray too far again, will you? </span></p>
+<p begin="00:55:04.236" end="00:55:07.656"><span tts:color="#ececec" tts:textAlign="center"> I'm going to be keeping a close eye</span><br/><span tts:color="#ececec" tts:textAlign="center"> on all of you over the next few days. </span></p>
+<p begin="00:55:07.656" end="00:55:09.206"><span tts:color="#ffff00" tts:textAlign="center">What is it? Whose blood is it? </span><br/></p>
+<p begin="00:55:09.206" end="00:55:10.986"><span tts:color="#ececec" tts:textAlign="center"> A new suspect. </span><br/></p>
+<p begin="00:55:10.986" end="00:55:13.516"><span tts:color="#ececec" tts:textAlign="center"> Or perhaps... </span><br/></p>
+<p begin="00:55:13.516" end="00:55:16.286"><span tts:color="#ececec" tts:textAlign="center"> a new witness to confirm a suspect</span><br/><span tts:color="#ececec" tts:textAlign="center"> we already have. </span></p>
+<p begin="00:55:16.286" end="00:55:19.616"><span tts:color="#ececec" tts:textAlign="center">We'll be starting a screening process</span><br/><span tts:color="#ececec" tts:textAlign="center"> straightaway. </span></p>
+<p begin="00:55:21.016" end="00:55:24.956"><span tts:color="#ececec" tts:textAlign="center"> Looks like we're about to find out</span><br/><span tts:color="#ececec" tts:textAlign="center"> who really killed Archie Mitchell. </span></p>
+<p begin="00:55:31.666" end="00:55:34.946"><span tts:color="#00ff00" tts:textAlign="center"> All right, that's it. Come on, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> everyone out! Show's over. Time up. </span></p>
+<p begin="00:55:34.946" end="00:55:36.116"><span tts:color="#00ff00" tts:textAlign="center"> Come on, home time. </span><br/></p>
+<p begin="00:55:38.416" end="00:55:39.636"><span tts:color="#00ff00" tts:textAlign="center"> Come on, out! Out! </span><br/></p>
+<p begin="00:55:41.556" end="00:55:44.416"><span tts:color="#ececec" tts:textAlign="center">WHITNEY, ON TV:</span><br/><span tts:color="#00ff00" tts:textAlign="center"> 'Yeah, but that's</span><span tts:color="#00ff00" tts:textAlign="center"> only cos my dad died, innit?'</span></p>
+<p begin="00:55:44.416" end="00:55:45.486"><span tts:color="#00ff00" tts:textAlign="center"> 'Come on, B.'</span><br/></p>
+<p begin="00:55:45.486" end="00:55:48.026"><span tts:color="#00ff00" tts:textAlign="left"> 'Come on - you've always said it.'</span><br/><span tts:color="#ececec" tts:textAlign="left"> PHONE RINGS</span></p>
+<p begin="00:55:48.026" end="00:55:51.306"><span tts:color="#00ff00" tts:textAlign="center"> 'He's your one true love, </span><br/><span tts:color="#00ff00" tts:textAlign="center"> your soul mate, in't he?'</span></p>
+<p begin="00:55:51.306" end="00:55:53.976"><span tts:color="#ffff00" tts:textAlign="center">Whit? So? </span><br/></p>
+<p begin="00:55:53.976" end="00:55:57.306"><span tts:color="#ffff00" tts:textAlign="center"> 'Yeah, I fell in love with your dad</span><br/><span tts:color="#ffff00" tts:textAlign="center"> the first time I saw him.'</span></p>
+<p begin="00:55:57.306" end="00:56:00.726"><span tts:color="#ffff00" tts:textAlign="center"> 'He was gorgeous, weren't he, Son? </span><br/><span tts:color="#ffff00" tts:textAlign="center"> I showed you the photos, didn't I?'</span></p>
+<p begin="00:56:00.726" end="00:56:02.646"><span tts:color="#ffff00" tts:textAlign="center"> I knew! I knew it! </span><br/></p>
+<p begin="00:56:02.646" end="00:56:03.726"><span tts:color="#ececec" tts:textAlign="left"> SHE GIGGLES</span><br/></p>
+<p begin="00:56:03.726" end="00:56:05.556"><span tts:color="#ffff00" tts:textAlign="center"> 'He had it all, Nathan.'</span><br/></p>
+<p begin="00:56:05.556" end="00:56:08.696"><span tts:color="#ffff00" tts:textAlign="center"> At least someone got something out</span><br/><span tts:color="#ffff00" tts:textAlign="center"> of that hen night, eh? </span></p>
+<p begin="00:56:08.696" end="00:56:09.816"><span tts:color="#ffff00" tts:textAlign="center"> '..Clever...' I know, really! </span><br/></p>
+<p begin="00:56:09.816" end="00:56:11.746"><span tts:color="#ffff00" tts:textAlign="center"> 'Funny...'</span><br/><span tts:color="#ececec" tts:textAlign="left"> SHE SQUEALS IN HALL</span></p>
+<p begin="00:56:11.746" end="00:56:14.606"><span tts:color="#ececec" tts:textAlign="left"> SHE GIGGLES</span><br/></p>
+<p begin="00:56:14.606" end="00:56:16.946"><span tts:color="#ffff00" tts:textAlign="center"> 'He was the best thing</span><br/><span tts:color="#ffff00" tts:textAlign="center"> that happened to me.'</span></p>
+<p begin="00:56:16.946" end="00:56:18.676"><span tts:color="#ffff00" tts:textAlign="center"> I can't believe it! </span><br/></p>
+<p begin="00:56:18.676" end="00:56:20.836"><span tts:color="#ececec" tts:textAlign="left"> SHE CHUCKLES</span><br/></p>
+<p begin="00:57:00.730" end="00:57:03.780"><span tts:color="#ececec" tts:textAlign="center"> Subtitles by Red Bee Media Ltd</span><br/></p>
+<p begin="00:57:03.780" end="00:57:06.780"><span tts:color="#ececec" tts:textAlign="center"> E-mail subtitling@bbc.co.uk</span><br/></p>
+<p begin="00:58:14.330" end="00:58:16.490"><span tts:color="#ffff00" tts:textAlign="center"> He's laying his secrets</span><br/><span tts:color="#ffff00" tts:textAlign="center"> on the table. </span></p>
+<p begin="00:58:16.490" end="00:58:18.220"><span tts:color="#ececec" tts:textAlign="center"> Food is so, so beautiful. </span><br/></p>
+<p begin="00:58:18.220" end="00:58:20.800"><span tts:color="#ffff00" tts:textAlign="center"> So you can create magic</span><br/><span tts:color="#ffff00" tts:textAlign="center"> in your kitchen. </span></p>
+<p begin="00:58:20.800" end="00:58:22.860"><span tts:color="#ececec" tts:textAlign="center"> I've made all the mistakes</span><br/><span tts:color="#ececec" tts:textAlign="center">that can be made</span></p>
+<p begin="00:58:22.860" end="00:58:24.600"><span tts:color="#ececec" tts:textAlign="center"> so you don't have to make them. </span><br/></p>
+<p begin="00:58:24.600" end="00:58:28.020"><span tts:color="#ececec" tts:textAlign="center"> Voila! Voila! Voila! C'est parfait. </span><br/><span tts:color="#ececec" tts:textAlign="center"> No sweat. </span></p>
+<p begin="00:58:28.020" end="00:58:31.490"><span tts:color="#ececec" tts:textAlign="center"> Can beat it as long as I want to, </span><br/><span tts:color="#ececec" tts:textAlign="center"> it will not separate. ..Simple. </span></p>
+<p begin="00:58:31.490" end="00:58:34.390"><span tts:color="#ececec" tts:textAlign="center">Wow. You get serious admiration, </span><br/><span tts:color="#ececec" tts:textAlign="center"> I can assure you. </span></p>
+<p begin="00:58:34.390" end="00:58:35.990"><span tts:color="#ececec" tts:textAlign="center"> Serious admiration. </span><br/></p>
+<p begin="00:58:35.990" end="00:58:38.610"><span tts:color="#ffff00" tts:textAlign="center"> Raymond Blanc's Kitchen Secrets. </span><br/><span tts:color="#ececec" tts:textAlign="center"> Bon appetit. </span></p>
+</div>
+</body></tt>
