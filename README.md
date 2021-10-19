@@ -1,2 +1,2 @@
-# trecvid-vsum
-MeMAD approach for the TRECVID VSUM 2020 task
+Zero-Shot classification for summarization
+Use Zero_Shot_Pipeline.ipynb
