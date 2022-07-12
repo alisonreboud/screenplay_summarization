@@ -1,2 +1,6 @@
 # Zero-Shot classification for summarization
-Use Zero_Shot_Pipeline.ipynb
+Follow the notebook    [`Zero_Shot_Pipeline.ipynb`](./Zero_Shot_Pipeline.ipynb)
+
+
+
+
