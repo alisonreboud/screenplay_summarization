@@ -1,6 +1,17 @@
 # Zero-Shot classification for summarization of screenplays
 
-This repository contains the code for reproducing the results on the CSI corpus reported in the paper "Stories of love and violence: Zero-Shot interesting events classification for unsupervised TV series summarization" which is under currently under review.
+This repository contains the code for reproducing the results on the CSI corpus reported in the paper "Stories of love and violence: Zero-Shot interesting events classification for unsupervised TV series summarization" 
+
+Please cite the following if you use this code.
+```
+@inproceedings{reboud2021stories,
+  title={Stories of love and violence: Zero-Shot interesting events classification for unsupervised TV series summarization},
+  author={Reboud, Alison and Harrando, Ismail and Lisena, Pasquale and Troncy, Rapha{\"e}l},
+  journal={Multimedia Systems},
+  year={2022}
+  publisher={Springer}
+}
+```
 
 # A Method based on Zero-shot classification
 In this paper, we propose an unsupervised approach to generate TV series summaries using screenplays that are composed of dialogue and scenic
@@ -22,14 +33,7 @@ The results obtained with Entail (Bart MNLI) unveils the potential of zero-shot 
 ![Model architecture](results.png)
 
 
-Please cite the following if you use this code.
-```
-@inproceedings{reboud2021stories,
-  title={Stories of love and violence: Zero-Shot interesting events classification for unsupervised TV series summarization},
-  author={Reboud, Alison and Harrando, Ismail and Lisena, Pasquale and Troncy, Rapha{\"e}l},
-  year={2022}
-}
-```
+
 
 
 
