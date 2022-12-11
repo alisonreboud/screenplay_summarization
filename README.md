@@ -2,11 +2,12 @@
 
 This repository contains the code for reproducing the results on the CSI corpus reported in the paper "Stories of love and violence: Zero-Shot interesting events classification for unsupervised TV series summarization" which is under currently under review.
 
-# Method 
+# A Method based on Zero-shot classification
+![bart](bart.png)
+
 In this paper, we propose an unsupervised approach to generate TV series summaries using screenplays that are composed of dialogue and scenic
 textual descriptions. In the last years, the creation of large language models has enabled Zero-Shot text classification to perform effectively in some
-conditions. We explore if and how such models can be used for TV series summarization by conducting experiments with varying text inputs.
-![bart](bart.png)
+conditions. We use Entail (Bart MNLI) to explore if and how such models can be used for TV series summarization by conducting experiments with varying text inputs.
 
 ![example](example.png)
 
