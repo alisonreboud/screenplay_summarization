@@ -25,7 +25,15 @@ conditions. We use Entail (Bart MNLI) to explore if and how such models can be u
 
 
 
+
 ![example](example.png)
+
+
+Follow the notebook [`Zero_Shot_Pipeline.ipynb`](./Zero_Shot_Pipeline.ipynb) to reproduce the experiments using named-events for screenplays summarization with BART MNLI. The notebook also contains the code for the experiment that combines zero-shot classification scores and centrality scores from SUMMER. The notebook includes the preprocessing steps of the dataset text and the classification with Entail. The csi corpus can be found [here](https://github.com/EdinburghNLP/csi-corpus) and should be placed under [`/coref/csi-corpus`](./coref/csi-corpus). 
+
+These centrality scores can found under [`centralities.npy`](./centralities.npy)
+
+
 
 
 # Results 
@@ -37,11 +45,7 @@ The results obtained with Entail (Bart MNLI) unveils the potential of zero-shot 
 
 
 
-Follow the notebook [`Zero_Shot_Pipeline.ipynb`](./Zero_Shot_Pipeline.ipynb) to reproduce the experiments using named-events for screenplays summarization with BART MNLI. The notebook also contains the code for the experiment that combines zero-shot classification scores and centrality scores as computed by 
 
-These centrality scores can found under [`centralities.npy`](./centralities.npy)
-
-The csi corpus can be found [here](https://github.com/EdinburghNLP/csi-corpus) and should be placed under [`/coref/csi-corpus`](./coref/csi-corpus)
 
 
 
